@@ -157,8 +157,11 @@ function BodyFirst() {
           </div>
 
         </div>
-        <div className="relative top-32 ">
-          Testing...
+        <div className="relative top-32 left-4 mt-6 ">
+          {/* <div className="">
+            <img className="w-[97%] h-44 rounded-xl" src="https://i5.walmartimages.com/dfw/4ff9c6c9-21d7/k2-_010ce435-9cfa-4871-98d9-b58993dee070.v1.jpg?odnHeight=216&odnWidth=794&odnBg=&odnDynImageQuality=70" alt="offer"/>
+
+          </div> */}
         </div>
       </div>
       <div>
@@ -204,6 +207,7 @@ function BodyFirst() {
               Show More
             </a>
           </div>
+
         </div>
       </div>
     </div>

@@ -3,6 +3,8 @@ import "./App.css";
 import Navbar from "./Navbar";
 import NavbarNear from "./NavbarNear";
 import BodyFirst from "./BodyFirst";
+import FirstList from "./FirstList";
+import SecondList from "./SecondList";
 
 function App() {
   return (
@@ -10,6 +12,8 @@ function App() {
       <Navbar />
       <NavbarNear/>
       <BodyFirst/>
+      <FirstList/>
+      <SecondList/>
     </div>
   );
 }
