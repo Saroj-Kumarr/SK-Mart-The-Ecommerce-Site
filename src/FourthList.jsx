@@ -19,11 +19,10 @@ import { Swiper, SwiperSlide } from "swiper/react";
 import "swiper/css";
 import "swiper/css/pagination";
 import "swiper/css/navigation";
-import "./SecondList.css";
 
 import { Autoplay, Pagination, Navigation } from "swiper/modules";
 
-function SecondList() {
+function FourthList() {
   const [page, setPage] = useState(3);
 
   const productItems = useSelector((store) => store.products.data);
@@ -119,4 +118,4 @@ function SecondList() {
   );
 }
 
-export default SecondList;
+export default FourthList;

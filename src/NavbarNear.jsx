@@ -4,7 +4,7 @@ import { GoHome } from "react-icons/go";
 
 function NavbarNear() {
   return (
-    <div className="flex p-2 bg-[#0071DC] box-border m-0 border-t text-white">
+    <div className="flex z-20 p-2 bg-[#0071DC] box-border m-0 border-t text-white fixed w-full mt-16">
       <div className="flex ">
         <img
           className="h-6 w-6 mx-1"
@@ -16,20 +16,20 @@ function NavbarNear() {
       </div>
       <div >
         <ul className="flex font-semibold">
-          <li className="ml-3 font-normal"> <CiLocationOn className="inline mb-1 relative left-[2px]" /> Sacramento, 95829</li>
+          <li className="ml-2 font-normal"> <CiLocationOn className="inline mb-1 relative left-[2px]" /> Sacramento, 95829</li>
 
-          <li className="ml-3 font-normal"><GoHome className="inline mb-1 ml-1"/>  Sacramento Supercenter</li>
+          <li className="ml-2 font-normal"><GoHome className="inline mb-1 ml-1"/>  Sacramento Supercenter</li>
 
-          <li className="ml-3">Deals</li>
-          <li className="ml-3">Grocery & Essentials</li>
-          <li className="ml-3">Walmart Style</li>
-          <li className="ml-3">Halloween</li>
-          <li className="ml-3">Baby Days</li>
-          <li className="ml-3">Tailgating</li>
-          <li className="ml-3">Fashion</li>
-          <li className="ml-3">Home</li>
-          <li className="ml-3">Registry</li>
-          <li className="ml-3">ONE Debit</li>
+          <li className="ml-2">Deals</li>
+          <li className="ml-2">Grocery & Essentials</li>
+          <li className="ml-2">Walmart Style</li>
+          <li className="ml-2">Halloween</li>
+          <li className="ml-2">Baby Days</li>
+          <li className="ml-2">Tailgating</li>
+          <li className="ml-2">Fashion</li>
+          <li className="ml-2">Home</li>
+          <li className="ml-2">Registry</li>
+          <li className="ml-2">ONE Debit</li>
         </ul>
       </div>
     </div>

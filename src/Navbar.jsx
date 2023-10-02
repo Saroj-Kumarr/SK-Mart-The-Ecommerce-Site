@@ -7,7 +7,7 @@ import { HiOutlineSquares2X2 } from "react-icons/hi2";
 
 function Navbar() {
   return (
-    <div className="flex justify-around bg-[#0071DC] p-6 items-center">
+    <div className="flex justify-around z-20 bg-[#0071DC] p-6 items-center fixed w-full -mt-8">
       <div className="flex justify-between w-[30%]">
         <div className="text-white text-3xl">
           Walmart

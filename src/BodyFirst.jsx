@@ -32,7 +32,7 @@ function BodyFirst() {
           <img className="rounded-2xl " src={boy} alt="boy-image" />
 
           <div className="absolute top-44 m-2">
-            <h1 className="font-bold text-3xl">Fits that hit</h1>
+            <h1 className="font-bold text-3xl mt-56">Fits that hit</h1>
             <a href="#" className="underline ml-2 relative top-2">
               Shop men's
             </a>
@@ -170,7 +170,7 @@ function BodyFirst() {
           <img className="rounded-2xl " src={girl} alt="girl-image" />
 
           <div className="absolute top-44 m-2">
-            <h1 className="font-bold text-2xl">
+            <h1 className="font-bold text-2xl mt-56">
               Bold moves, <br />
               Style grooves
             </h1>

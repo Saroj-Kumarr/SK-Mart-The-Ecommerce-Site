@@ -10,6 +10,9 @@ import { useEffect } from "react";
 import { fetchProduct } from "./Slice";
 import Test from "./Test";
 import Shimmer from "./Shimmer";
+import ThirdList from "./ThirdList";
+import FourthList from "./FourthList";
+import ZeroList from "./ZeroList";
 
 function App() {
   const dispatch = useDispatch();
@@ -22,11 +25,13 @@ function App() {
     <div>
       <Navbar />
       <NavbarNear />
+      <ZeroList />
       <BodyFirst />
       <FirstList />
-      <hr/>
+      <hr />
       <SecondList />
-      
+      <ThirdList />
+      <FourthList />
     </div>
   );
 }
