@@ -9,27 +9,27 @@ function Navbar() {
   return (
     <div className="flex justify-around bg-[#0071DC] p-6 items-center">
       <div className="flex justify-between w-[30%]">
-        <div class="text-white text-3xl">
+        <div className="text-white text-3xl">
           Walmart
           <img
-            class="h-8 w-8 inline"
+            className="h-8 w-8 inline"
             src="https://cdn-icons-png.flaticon.com/512/5977/5977595.png"
             alt="icon"
           />
         </div>
-        <div class="text-white  font-bold mt-2"><HiOutlineSquares2X2 className="inline mx-1 text-xl mb-1"/>Department</div>
+        <div className="text-white  font-bold mt-2"><HiOutlineSquares2X2 className="inline mx-1 text-xl mb-1"/>Department</div>
 
-        <div class="text-white font-bold mt-2"><HiOutlineSquares2X2 className="inline mx-1 text-xl mb-1"/>Services</div>
+        <div className="text-white font-bold mt-2"><HiOutlineSquares2X2 className="inline mx-1 text-xl mb-1"/>Services</div>
       </div>
       
       <div className="w-[68%] relative left-10 flex ml-4">
         <input
           type="text"
-          class="p-2 rounded-3xl w-[85%] focus:outline-[#0071DC]"
+          className="p-2 rounded-3xl w-[85%] focus:outline-[#0071DC]"
           placeholder="Search everything at Walmart online and in store "
         />
         <div className="bg-[#FFC220] rounded-[50%]  w-8 h-8  flex justify-center items-center relative top-1 -left-9">
-          <AiOutlineSearch class="inline text-center text-xl" />
+          <AiOutlineSearch className="inline text-center text-xl" />
         </div>
       </div>
 
@@ -40,7 +40,7 @@ function Navbar() {
           </div>
           <div>
             <div className="text-white"> Reorder</div>
-            <div class="text-white text-md font-semibold">My Items</div>
+            <div className="text-white text-md font-semibold">My Items</div>
           </div>
         </div>
         <div>
@@ -50,11 +50,11 @@ function Navbar() {
             </div>
             <div>
               <div className="text-white">Sign in</div>
-              <div class="text-white text-md font-semibold">Account</div>
+              <div className="text-white text-md font-semibold">Account</div>
             </div>
           </div>
         </div>
-        <div class="text-white text-xl font-bold">
+        <div className="text-white text-xl font-bold">
           <div className="bg-[#FFC220] rounded-[50%]  w-5 h-5 text-black text-sm flex align-center justify-center">
             3
           </div>

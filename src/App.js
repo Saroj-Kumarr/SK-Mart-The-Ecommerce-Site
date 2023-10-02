@@ -5,15 +5,28 @@ import NavbarNear from "./NavbarNear";
 import BodyFirst from "./BodyFirst";
 import FirstList from "./FirstList";
 import SecondList from "./SecondList";
+import { useDispatch } from "react-redux";
+import { useEffect } from "react";
+import { fetchProduct } from "./Slice";
+import Test from "./Test";
+import Shimmer from "./Shimmer";
 
 function App() {
+  const dispatch = useDispatch();
+
+  useEffect(() => {
+    dispatch(fetchProduct());
+  }, []);
+
   return (
     <div>
       <Navbar />
-      <NavbarNear/>
-      <BodyFirst/>
-      <FirstList/>
-      <SecondList/>
+      <NavbarNear />
+      <BodyFirst />
+      <FirstList />
+      <hr/>
+      <SecondList />
+      
     </div>
   );
 }

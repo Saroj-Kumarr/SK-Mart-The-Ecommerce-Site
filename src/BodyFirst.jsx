@@ -1,3 +1,4 @@
+import './BodyFirst.css';
 import React from "react";
 import boy from "./Images/boy.jpg";
 import girl from "./Images/girl.jpg";
@@ -28,7 +29,7 @@ function BodyFirst() {
     <div className="flex p-4">
       <div>
         <div className="h-60 w-80 ">
-          <img className="rounded-2xl opacity-80" src={boy} alt="boy-image" />
+          <img className="rounded-2xl " src={boy} alt="boy-image" />
 
           <div className="absolute top-44 m-2">
             <h1 className="font-bold text-3xl">Fits that hit</h1>
@@ -49,14 +50,14 @@ function BodyFirst() {
           </a>
           <img
             src="https://media.boohoo.com/i/boohoo/fzz56869_black_xl?$product_image_main_mobile$&fmt=webp"
-            className="w-[320px] h-[500px] opacity-80 rounded-2xl border-2"
+            className="w-[320px] h-[500px]  rounded-2xl border-2"
             alt="footerwear"
           />
         </div>
         <div className="h-52">
           <div className="relative top-8">
             <img
-              className="rounded-2xl border-2 opacity-80 h-56 w-80"
+              className="rounded-2xl border-2  h-56 w-80"
               src="https://www.luckyfurniture.in/wp-content/uploads/2018/07/dining-table-18.jpg"
               alt="boy-image"
             />
@@ -101,29 +102,29 @@ function BodyFirst() {
             className="mySwiper"
           >
             <SwiperSlide>
-              <img className="opacity-80" src={productFour} alt="first" />
+              <img className="" src={productFour} alt="first" />
             </SwiperSlide>
             <SwiperSlide>
-              <img className="opacity-80" src={productTwo} alt="first" />
+              <img className="" src={productTwo} alt="first" />
             </SwiperSlide>
             <SwiperSlide>
-              <img className="opacity-80" src={productEight} alt="first" />
+              <img className="" src={productEight} alt="first" />
             </SwiperSlide>
             <SwiperSlide>
-              <img className="opacity-80" src={productEleven} alt="first" />
+              <img className="" src={productEleven} alt="first" />
             </SwiperSlide>
             <SwiperSlide>
-              <img className="opacity-80" src={productTen} alt="first" />
+              <img className="" src={productTen} alt="first" />
             </SwiperSlide>
             <SwiperSlide>
-              <img className="opacity-80" src={productFive} alt="first" />
+              <img className="" src={productFive} alt="first" />
             </SwiperSlide>
             <SwiperSlide>
-              <img className="opacity-80" src={productSix} alt="first" />
+              <img className="" src={productSix} alt="first" />
             </SwiperSlide>
 
             <SwiperSlide>
-              <img className="opacity-80" src={productEight} alt="first" />
+              <img className="" src={productEight} alt="first" />
             </SwiperSlide>
           </Swiper>
         </div>
@@ -166,7 +167,7 @@ function BodyFirst() {
       </div>
       <div>
         <div>
-          <img className="rounded-2xl opacity-80" src={girl} alt="girl-image" />
+          <img className="rounded-2xl " src={girl} alt="girl-image" />
 
           <div className="absolute top-44 m-2">
             <h1 className="font-bold text-2xl">
@@ -191,12 +192,12 @@ function BodyFirst() {
           </a>
           <img
             src="https://media.istockphoto.com/id/485374828/photo/in-these-clothes-i-can-feel-femininely.webp?s=2048x2048&w=is&k=20&c=Yvg_09S9XLVH_FGChk0KkM8-c4loxULBggBGhFVRuC4="
-            className="w-[320px] h-[500px] opacity-80 rounded-2xl"
+            className="w-[320px] h-[500px]  rounded-2xl"
             alt="footerwear"
           />
         </div>
         <div className="relative top-16">
-          <img className="rounded-2xl h-52 opacity-80" src="https://media.wired.com/photos/6495f3af2cc57777ec67f0ed/16:9/w_2400,h_1350,c_limit/bellroy-tokyo-work-bag-source-bellroy-Gear.jpg" alt="girl-image" />
+          <img className="rounded-2xl h-52 " src="https://media.wired.com/photos/6495f3af2cc57777ec67f0ed/16:9/w_2400,h_1350,c_limit/bellroy-tokyo-work-bag-source-bellroy-Gear.jpg" alt="girl-image" />
 
           <div className="absolute top-1 left-1">
             <h1 className="font-bold text-2xl ">
