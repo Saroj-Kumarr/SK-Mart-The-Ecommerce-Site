@@ -2,7 +2,7 @@ import React from "react";
 
 function ZeroList() {
 
-    const list=['paints','bags','shirts','Books','Mobiles','Laptop','Mackup','Grocerry'];
+    const list=['Mobiles','Laptops','Clothes','Watches','Appliances','Grocery','Vehicles','Footwear'];
 
 
 

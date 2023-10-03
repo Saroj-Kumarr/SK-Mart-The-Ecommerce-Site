@@ -13,6 +13,8 @@ import Shimmer from "./Shimmer";
 import ThirdList from "./ThirdList";
 import FourthList from "./FourthList";
 import ZeroList from "./ZeroList";
+import FifthList from "./FifthList";
+import Footer from "./Footer";
 
 function App() {
   const dispatch = useDispatch();
@@ -32,6 +34,8 @@ function App() {
       <SecondList />
       <ThirdList />
       <FourthList />
+      <FifthList />
+      <Footer/>
     </div>
   );
 }
