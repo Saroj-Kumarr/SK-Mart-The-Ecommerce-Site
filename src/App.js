@@ -15,6 +15,7 @@ import FourthList from "./FourthList";
 import ZeroList from "./ZeroList";
 import FifthList from "./FifthList";
 import Footer from "./Footer";
+import MobilePage from "./MobilePage";
 
 function App() {
   const dispatch = useDispatch();
@@ -26,16 +27,17 @@ function App() {
   return (
     <div>
       <Navbar />
-      <NavbarNear />
-      <ZeroList />
+      <ZeroList /> 
+      
       <BodyFirst />
       <FirstList />
       <hr />
       <SecondList />
       <ThirdList />
       <FourthList />
-      <FifthList />
-      <Footer/>
+      <FifthList /> 
+       <Footer/>
+      <MobilePage />
     </div>
   );
 }

@@ -1,32 +1,27 @@
 import React from "react";
 import { AiOutlineSearch, AiOutlineHeart } from "react-icons/ai";
 import { FiShoppingCart } from "react-icons/fi";
-import { FaRegUser } from "react-icons/fa";
+import { FaRegUser, FaUserCircle } from "react-icons/fa";
 import { HiOutlineSquares2X2 } from "react-icons/hi2";
+import { BiSolidShoppingBags } from "react-icons/bi";
 
+// FaUserCircle
 
 function Navbar() {
   return (
     <div className="flex justify-around z-20 bg-[#0071DC] p-6 items-center fixed w-full -mt-8">
-      <div className="flex justify-between w-[30%]">
-        <div className="text-white text-3xl">
-          Walmart
-          <img
-            className="h-8 w-8 inline"
-            src="https://cdn-icons-png.flaticon.com/512/5977/5977595.png"
-            alt="icon"
-          />
-        </div>
-        <div className="text-white  font-bold mt-2"><HiOutlineSquares2X2 className="inline mx-1 text-xl mb-1"/>Department</div>
-
-        <div className="text-white font-bold mt-2"><HiOutlineSquares2X2 className="inline mx-1 text-xl mb-1"/>Services</div>
+      <div className="flex">
+        <h1 className="font-bold text-3xl text-white">
+          SK <BiSolidShoppingBags className="inline text-[#FFC220] mb-1" />{" "}
+          <span>Mart</span>
+        </h1>
       </div>
-      
-      <div className="w-[68%] relative left-10 flex ml-4">
+
+      <div className="relative w-[600px] relative left-20  flex flex-1 ">
         <input
           type="text"
           className="p-2 rounded-3xl w-[85%] focus:outline-[#0071DC]"
-          placeholder="Search everything at Walmart online and in store "
+          placeholder="Search the product here..."
         />
         <div className="bg-[#FFC220] rounded-[50%]  w-8 h-8  flex justify-center items-center relative top-1 -left-9">
           <AiOutlineSearch className="inline text-center text-xl" />
@@ -34,31 +29,20 @@ function Navbar() {
       </div>
 
       <div className="flex justify-between w-[20%]">
-        <div className="flex">
-          <div className="relative text-white relative top-4 -left-2 ">
-            <AiOutlineHeart className="" />
-          </div>
-          <div>
-            <div className="text-white"> Reorder</div>
-            <div className="text-white text-md font-semibold">My Items</div>
-          </div>
-        </div>
-        <div>
-          <div className="flex">
-            <div className="relative text-white relative top-4 -left-2">
-              <FaRegUser className="font-bold" />
+        <div className="text-white flex justify-around w-60  text-xl font-bold">
+          <h1 className="mt-[1px] relative z-20  text-[#FFC220] hover:text-white duration-300">
+            Home
+          </h1>
+          <h1 className="mt-[1px] text-[#FFC220] hover:text-white duration-300">
+            Contact
+          </h1>
+          <FaUserCircle className="text-2xl ml-2 mt-[5px]" />
+          <div className="ml-4 -mt-1">
+            <div className="bg-[#FFC220] rounded-[50%]  w-5 h-5 text-black text-sm flex align-center justify-center">
+              3
             </div>
-            <div>
-              <div className="text-white">Sign in</div>
-              <div className="text-white text-md font-semibold">Account</div>
-            </div>
+            <FiShoppingCart className="relative -top-1 -left-1" />
           </div>
-        </div>
-        <div className="text-white text-xl font-bold">
-          <div className="bg-[#FFC220] rounded-[50%]  w-5 h-5 text-black text-sm flex align-center justify-center">
-            3
-          </div>
-          <FiShoppingCart className="relative -top-1 -left-1" />
         </div>
       </div>
     </div>

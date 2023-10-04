@@ -54,28 +54,8 @@ function BodyFirst() {
             alt="footerwear"
           />
         </div>
-        <div className="h-52">
-          <div className="relative top-8">
-            <img
-              className="rounded-2xl border-2  h-56 w-80"
-              src="https://www.luckyfurniture.in/wp-content/uploads/2018/07/dining-table-18.jpg"
-              alt="boy-image"
-            />
 
-            <div className="absolute top-1 left-2">
-              <h1 className="font-bold text-2xl">
-                Your super host <br />
-                tabletop{" "}
-                <a
-                  href="#"
-                  className="font-normal text-base border-2 bg-white p-1 rounded-xl font-semibold"
-                >
-                  See more
-                </a>
-              </h1>
-            </div>
-          </div>
-        </div>
+        
       </div>
       <div className="mx-4 -mt-[82px] slider-main-container w-[55%]">
         <div className="relative top-32 text-center -left-64 z-10">
@@ -128,36 +108,13 @@ function BodyFirst() {
             </SwiperSlide>
           </Swiper>
         </div>
-        <div className="flex relative left-4 top-32">
 
+        <div className="h-[210px]  rounded-2xl border-2 mt-32 mx-4">
 
-            <div >
-           <img className=" w-[95%]  border-2 rounded-xl"  src="https://img.freepik.com/free-vector/super-sale-banner-design-vector-illustration_1035-14931.jpg?w=2000" alt="iphone" />
-
-            <div className="absolute top-8 left-2">
-            <h1 className="text-2xl font-bold ">Flash Deals </h1>
-           <a href="#" className="underline ">Shop now</a>
-            </div>
-
-            </div>
-
-
-            <div>
-            <img className=" w-[95%]  border-2 rounded-xl"  src="https://img.freepik.com/free-vector/super-sale-banner-design-vector-illustration_1035-14931.jpg?w=2000" alt="iphone" />
-
-            <div className="absolute top-8 left-[410px]">
-            <h1 className="text-2xl font-bold ">Flash Deals </h1>
-           <a href="#" className="underline ">Shop now</a>
-            </div>
-
-            
-           
-            </div>
-          <div>
-
-          </div>
+          <img className="h-[210px] w-full rounded-2xl" src="https://png.pngtree.com/background/20220714/original/pngtree-flash-sale-banner-picture-image_1606885.jpg" alt="banner" />
 
         </div>
+        
         <div className="relative top-32 left-4 mt-6 ">
           {/* <div className="">
             <img className="w-[97%] h-44 rounded-xl" src="https://i5.walmartimages.com/dfw/4ff9c6c9-21d7/k2-_010ce435-9cfa-4871-98d9-b58993dee070.v1.jpg?odnHeight=216&odnWidth=794&odnBg=&odnDynImageQuality=70" alt="offer"/>
@@ -196,21 +153,9 @@ function BodyFirst() {
             alt="footerwear"
           />
         </div>
-        <div className="relative top-16">
-          <img className="rounded-2xl h-52 " src="https://media.wired.com/photos/6495f3af2cc57777ec67f0ed/16:9/w_2400,h_1350,c_limit/bellroy-tokyo-work-bag-source-bellroy-Gear.jpg" alt="girl-image" />
-
-          <div className="absolute top-1 left-1">
-            <h1 className="font-bold text-2xl ">
-              Everything in its <br />
-              place
-            </h1>
-            <a href="#" className="underline ">
-              Show More
-            </a>
-          </div>
-
-        </div>
+        
       </div>
+     
     </div>
   );
 }

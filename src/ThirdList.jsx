@@ -20,38 +20,43 @@ function ThirdList() {
   }
 
   return (
-    <div className="flex mb-10 p-4 mt-10">
-      <button
-        onClick={() => {
-          handlePagePrev();
-        }}
-      >
-        ◀️
-      </button>
+    <>
+      <h1 className="bg-slate-200 h-[1px] mt-10"></h1>
 
-      {productItems.length == 0 ? (
-        <Shimmer />
-      ) : (
-        productItems.slice(page * 6 - 6, page * 6).map((obj) => {
-          return (
-            <CardFirst
-              image={obj.images[0]}
-              title={obj.title}
-              price={obj.price}
-              rating={obj.rating}
-              key={obj.id}
-            />
-          );
-        })
-      )}
-      <button
-        onClick={() => {
-          handlePageNext();
-        }}
-      >
-        ▶️
-      </button>
-    </div>
+      <div className="flex mb-10 p-4 mt-10">
+        <button
+          onClick={() => {
+            handlePagePrev();
+          }}
+        >
+          ◀️
+        </button>
+
+        {productItems.length == 0 ? (
+          <Shimmer />
+        ) : (
+          productItems.slice(page * 6 - 6, page * 6).map((obj) => {
+            return (
+              <CardFirst
+                image={obj.images[0]}
+                title={obj.title}
+                price={obj.price}
+                rating={obj.rating}
+                key={obj.id}
+              />
+            );
+          })
+        )}
+        <button
+          onClick={() => {
+            handlePageNext();
+          }}
+        >
+          ▶️
+        </button>
+      </div>
+      <h1 className="bg-slate-200 h-[1px] mt-10"></h1>
+    </>
   );
 }
 

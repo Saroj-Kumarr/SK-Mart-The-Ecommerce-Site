@@ -6,7 +6,7 @@ export const Mobiles = [
     rating: "4.8",
     description:
       "iPhone is a very powerful phone which is having a high-performance processor and QHD+ display.",
-    imageUrl:
+    image:
       "https://www.designinfo.in/wp-content/uploads/2023/01/Apple-iPhone-14-Pro-Mobile-Phone-493177786-i-1-1200Wx1200H-485x485-optimized.jpeg",
     category: "Mobile",
     brand: "iPhone",
@@ -24,7 +24,7 @@ export const Mobiles = [
     rating: "4.7",
     description:
       "The Samsung Galaxy S22 offers a stunning display and powerful performance.",
-    imageUrl:
+    image:
       "https://images.samsung.com/is/image/samsung/assets/in/smartphones/galaxy-s22/buy/S22_KV_3_MO.jpg",
     category: "Mobile",
     brand: "Samsung",
@@ -42,8 +42,8 @@ export const Mobiles = [
     rating: "4.6",
     description:
       "Experience the best of Google with the Pixel 7 Pro's exceptional camera and pure Android experience.",
-    imageUrl:
-      "https://rukminim1.flixcart.com/image/850/1000/xif0q/mobile/t/u/m/-original-imaggsuehy3nyj3b.jpeg?q=90",
+    image:
+      "https://cdn.dxomark.com/wp-content/uploads/medias/post-126764/Google-Pixel-7-Pro_featured-image-packshot-review.jpg",
     category: "Mobile",
     brand: "Google",
     ram: "8 GB",
@@ -60,7 +60,7 @@ export const Mobiles = [
     rating: "4.7",
     description:
       "The OnePlus 9 Pro offers fast performance and a Hasselblad-tuned camera system.",
-    imageUrl: "https://m.media-amazon.com/images/I/61LvUvbZGlL.jpg",
+    image: "https://m.media-amazon.com/images/I/61LvUvbZGlL.jpg",
     category: "Mobile",
     brand: "OnePlus",
     ram: "8 GB",
@@ -77,7 +77,7 @@ export const Mobiles = [
     rating: "4.6",
     description:
       "The Xiaomi Mi 11 offers top-notch performance and a high-refresh-rate display.",
-    imageUrl: "https://www.notebookcheck.net/uploads/tx_nbc2/XiaomiMi11Pro.jpg",
+    image: "https://www.notebookcheck.net/uploads/tx_nbc2/XiaomiMi11Pro.jpg",
     category: "Mobile",
     brand: "Xiaomi",
     ram: "12 GB",
@@ -94,7 +94,7 @@ export const Mobiles = [
     rating: "4.7",
     description:
       "The Oppo Find X5 Pro boasts a stunning display and a versatile camera system.",
-    imageUrl:
+    image:
       "https://www.gigahertz.com.ph/cdn/shop/products/6abf3237-272f-4d48-a72d-39f5643cf2cb_2048x__96942.jpg?v=1677573379",
     category: "Mobile",
     brand: "Oppo",
@@ -112,7 +112,7 @@ export const Mobiles = [
     rating: "4.8",
     description:
       "The Sony Xperia 1 III offers a 4K display and advanced camera features.",
-    imageUrl:
+    image:
       "https://www.clove.co.uk/cdn/shop/products/99b59a08-7eff-4238-b91e-a9e76b15f03f_1200x.jpg?v=1652285871",
     category: "Mobile",
     brand: "Sony",
@@ -130,7 +130,7 @@ export const Mobiles = [
     rating: "4.5",
     description:
       "The LG G8 ThinQ features a crystal clear OLED display and advanced audio capabilities.",
-    imageUrl:
+    image:
       "https://www.gizmochina.com/wp-content/uploads/2019/08/Lg-G8-ThinQ-468x600.png",
     category: "Mobile",
     brand: "LG",
@@ -148,7 +148,7 @@ export const Mobiles = [
     rating: "4.9",
     description:
       "The Asus ROG Phone 5 is a gaming powerhouse with a high-refresh-rate display and customizable RGB lighting.",
-    imageUrl:
+    image:
       "https://5.imimg.com/data5/SELLER/Default/2022/1/RI/JR/CX/145421816/asus-rog-phone-5s.jpg",
     category: "Mobile",
     brand: "Asus",
@@ -166,7 +166,7 @@ export const Mobiles = [
     rating: "4.7",
     description:
       "The Huawei P50 Pro offers an impressive camera system and a sleek design.",
-    imageUrl:
+    image:
       "https://d1rlzxa98cyc61.cloudfront.net/catalog/product/cache/1801c418208f9607a371e61f8d9184d9/1/8/181010_2020_7.jpg",
     category: "Mobile",
     brand: "Huawei",
@@ -184,7 +184,7 @@ export const Mobiles = [
     rating: "4.6",
     description:
       "The Motorola Moto G Power offers exceptional battery life and a budget-friendly price.",
-    imageUrl:
+    image:
       "https://www.gizmochina.com/wp-content/uploads/2020/02/Motorola-Moto-G-Power.jpg",
     category: "Mobile",
     brand: "Motorola",
@@ -203,7 +203,7 @@ export const Mobiles = [
     rating: "4.6",
     description:
       "The Xiaomi Redmi Note 11 Pro offers a great balance of performance and affordability.",
-    imageUrl: "https://m.media-amazon.com/images/I/71UDT0TuNDL.jpg",
+    image: "https://m.media-amazon.com/images/I/71UDT0TuNDL.jpg",
     category: "Mobile",
     brand: "Xiaomi",
     ram: "6 GB",
@@ -220,7 +220,7 @@ export const Mobiles = [
     rating: "4.7",
     description:
       "The Sony Xperia 5 III features a compact design and a powerful camera system.",
-    imageUrl:
+    image:
       "https://buycheapphones.co.uk/wp-content/uploads/2023/03/sony-xperia-5-iii-pink-1.jpg",
     category: "Mobile",
     brand: "Sony",
@@ -238,7 +238,7 @@ export const Mobiles = [
     rating: "4.8",
     description:
       "The Google Pixel 6a offers the best of Google in a compact and affordable package.",
-    imageUrl:
+    image:
       "https://rukminim2.flixcart.com/image/850/1000/xif0q/mobile/g/g/3/-original-imaggbrccwsnygar.jpeg?q=90",
     category: "Mobile",
     brand: "Google",
@@ -256,7 +256,7 @@ export const Mobiles = [
     rating: "4.7",
     description:
       "The Realme GT Neo 2 offers flagship-level performance at an affordable price.",
-    imageUrl:
+    image:
       "https://images.jdmagicbox.com/quickquotes/images_main/realme-gt-neo-2-ram-12-gb-256-gb-neo-blue-241073706-e39lh.png",
     category: "Mobile",
     brand: "Realme",
@@ -274,7 +274,7 @@ export const Mobiles = [
     rating: "4.7",
     description:
       "The OnePlus Nord 2 offers a powerful performance and a sleek design.",
-    imageUrl:
+    image:
       "https://oasis.opstatics.com/content/dam/oasis/page/2021/ebba/spec/nord2_Green%20Wood.png",
     category: "Mobile",
     brand: "OnePlus",
@@ -292,7 +292,7 @@ export const Mobiles = [
     rating: "4.6",
     description:
       "The Samsung Galaxy A52s 5G offers 5G connectivity and a versatile camera system.",
-    imageUrl: "https://m.media-amazon.com/images/I/91WFF6Rsn0L.jpg",
+    image: "https://m.media-amazon.com/images/I/91WFF6Rsn0L.jpg",
     category: "Mobile",
     brand: "Samsung",
     ram: "6 GB",
@@ -309,7 +309,7 @@ export const Mobiles = [
     rating: "4.5",
     description:
       "The Xiaomi Mi 11 Lite offers a lightweight design and a vibrant AMOLED display.",
-    imageUrl: "https://m.media-amazon.com/images/I/51K4vNxMAhS.jpg",
+    image: "https://m.media-amazon.com/images/I/51K4vNxMAhS.jpg",
     category: "Mobile",
     brand: "Xiaomi",
     ram: "6 GB",
@@ -326,7 +326,7 @@ export const Mobiles = [
     rating: "4.7",
     description:
       "The Motorola Moto G Stylus 5G offers 5G connectivity and a built-in stylus for note-taking and creativity.",
-    imageUrl:
+    image:
       "https://www.gizmochina.com/wp-content/uploads/2022/04/Motorola-Moto-G-Stylus-5G-2022-500x500.jpg",
     category: "Mobile",
     brand: "Motorola",
@@ -344,7 +344,7 @@ export const Mobiles = [
     rating: "4.8",
     description:
       "The Google Pixel 6 Pro offers a premium camera experience and the power of Google's AI.",
-    imageUrl: "https://m.media-amazon.com/images/I/71FpXTBHDnL.jpg",
+    image: "https://m.media-amazon.com/images/I/71FpXTBHDnL.jpg",
     category: "Mobile",
     brand: "Google",
     ram: "12 GB",
@@ -361,7 +361,7 @@ export const Mobiles = [
     rating: "4.6",
     description:
       "The Sony Xperia 10 III offers a compact design and a versatile camera setup.",
-    imageUrl: "https://m.media-amazon.com/images/I/71v2qIXg7KS.jpg",
+    image: "https://m.media-amazon.com/images/I/51cZ1nSznjL.jpg",
     category: "Mobile",
     brand: "Sony",
     ram: "6 GB",
@@ -378,7 +378,7 @@ export const Mobiles = [
     rating: "4.5",
     description:
       "The Realme Narzo 50 offers a budget-friendly option with a large display and decent performance.",
-    imageUrl: "https://www.notebookcheck.net/uploads/tx_nbc2/realmenarzo50.jpg",
+    image: "https://www.notebookcheck.net/uploads/tx_nbc2/realmenarzo50.jpg",
     category: "Mobile",
     brand: "Realme",
     ram: "4 GB",
@@ -395,7 +395,7 @@ export const Mobiles = [
     rating: "4.6",
     description:
       "The Nokia X20 offers a clean Android experience and a durable design.",
-    imageUrl:
+    image:
       "https://priceinall.com/wp-content/uploads/2021/04/nokia-x20-1-600x600.jpg",
     category: "Mobile",
     brand: "Nokia",
@@ -413,13 +413,13 @@ export const Mobiles = [
     rating: "4.7",
     description:
       "The Vivo V23 Pro offers a dual front camera setup for stunning selfies and a sleek design.",
-    imageUrl:
-      "https://i.gadgets360cdn.com/products/large/vivo-v23-pro-5g-649x800-1641366966.jpg",
+    image:
+      "https://in-exstatic-vivofs.vivo.com/gdHFRinHEMrj3yPG/1641264348467/5f877463ee3573ff31f89716195c368e.png",
     category: "Mobile",
     brand: "Vivo",
     ram: "8 GB",
     rom: "128 GB",
-    frontCamera: "44 MP + 8 MP",
+    frontCamera: "8 MP",
     backCamera: "64 MP",
     Processor: "Mediatek Dimensity 920",
     display: "6.44 inch AMOLED",
@@ -431,7 +431,7 @@ export const Mobiles = [
     rating: "4.8",
     description:
       "The OnePlus 10 Pro offers top-tier performance and a stunning display.",
-    imageUrl:
+    image:
       "https://image01-in.oneplus.net/ebp/202207/11/1-m00-3c-e0-cpgm7wll9c2absdqaamvuvxwc5u151.png",
     category: "Mobile",
     brand: "OnePlus",
@@ -449,7 +449,7 @@ export const Mobiles = [
     rating: "4.6",
     description:
       "The Motorola Edge 30 Pro offers a high-refresh-rate display and capable camera system.",
-    imageUrl:
+    image:
       "https://motorolain.vtexassets.com/arquivos/ids/157000/motorola-edge30-pro-pdp-render-Stardust-3-8p1zhqcj.png?v=637835332500100000",
     category: "Mobile",
     brand: "Motorola",
@@ -467,7 +467,7 @@ export const Mobiles = [
     rating: "4.7",
     description:
       "The Xiaomi Redmi K50 offers powerful performance and a high-resolution display.",
-    imageUrl:
+    image:
       "https://phonepricearena.com/wp-content/uploads/2023/02/Xiaomi-Redmi-K50-Gaming-price-in-india-600x600.jpg",
     category: "Mobile",
     brand: "Xiaomi",
@@ -485,7 +485,7 @@ export const Mobiles = [
     rating: "4.8",
     description:
       "The Realme GT 2 Pro is a flagship with a focus on performance and photography.",
-    imageUrl:
+    image:
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiienEz_xnen7xvOuoMmz_8PbhVtosQGOy6xZSAgiao80Q65cVXZO_wl9bfHaEn5E-r1I&usqp=CAU",
     category: "Mobile",
     brand: "Realme",
@@ -503,7 +503,7 @@ export const Mobiles = [
     rating: "4.9",
     description:
       "The Samsung Galaxy Z Fold 4 is a foldable phone with a large foldable display and powerful specs.",
-    imageUrl: "https://m.media-amazon.com/images/I/61cInRWmClL.jpg",
+    image: "https://m.media-amazon.com/images/I/61cInRWmClL.jpg",
     category: "Mobile",
     brand: "Samsung",
     ram: "12 GB",
@@ -520,7 +520,7 @@ export const Mobiles = [
     rating: "4.7",
     description:
       "The Google Pixel 7 offers a premium camera experience and the latest Android features.",
-    imageUrl:
+    image:
       "https://rukminim2.flixcart.com/image/850/1000/xif0q/mobile/l/2/y/-original-imaggswcffkgcupp.jpeg?q=90",
     category: "Mobile",
     brand: "Google",
@@ -530,42 +530,6 @@ export const Mobiles = [
     backCamera: "50 MP",
     Processor: "Google Tensor",
     display: "6.2 inch OLED",
-  },
-  {
-    id: "31",
-    title: "Sony Xperia Pro 1 III",
-    price: "119999",
-    rating: "4.8",
-    description:
-      "The Sony Xperia Pro 1 III offers a professional camera system and 4K HDR display.",
-    imageUrl:
-      "https://www.sony-asia.com/image/bec37fd1196426136aae242507e874b0?fmt=pjpeg&wid=330&bgcolor=FFFFFF&bgc=FFFFFF",
-    category: "Mobile",
-    brand: "Sony",
-    ram: "12 GB",
-    rom: "256 GB",
-    frontCamera: "12 MP",
-    backCamera: "50 MP",
-    Processor: "Qualcomm Snapdragon 888",
-    display: "6.5 inch 4K HDR OLED",
-  },
-  {
-    id: "32",
-    title: "OnePlus 9T",
-    price: "79999",
-    rating: "4.7",
-    description:
-      "The OnePlus 9T offers fast performance and a high-refresh-rate display.",
-    imageUrl:
-      "https://image01.oneplus.net/ebp/202103/12/1-m00-21-ef-rb8lb2blj_eah4rsaahmeobqcb4967.png",
-    category: "Mobile",
-    brand: "OnePlus",
-    ram: "8 GB",
-    rom: "128 GB",
-    frontCamera: "16 MP",
-    backCamera: "48 MP",
-    Processor: "Qualcomm Snapdragon 870",
-    display: "6.55 inch Fluid AMOLED",
   },
 ];
 
@@ -577,7 +541,7 @@ export const Laptops = [
     rating: "4.4",
     description:
       "This laptop has an OLED display with 2K resolution and HDR+ support.",
-    imageUrl:
+    image:
       "https://cdn.thewirecutter.com/wp-content/media/2023/06/businesslaptops-2048px-0943.jpg?auto=webp&quality=75&crop=1.91:1&width=1200",
     category: "Laptop",
     brand: "Asus",
@@ -594,7 +558,7 @@ export const Laptops = [
     rating: "4.5",
     description:
       "Powerful laptop with Intel Core i7 processor and a 15.6-inch Full HD display.",
-    imageUrl: "https://example.com/dell-inspiron-15.jpg",
+    image: "https://example.com/dell-inspiron-15.jpg",
     category: "Laptop",
     brand: "Dell",
     ram: "16 GB",
@@ -610,7 +574,7 @@ export const Laptops = [
     rating: "4.7",
     description:
       "Convertible laptop with a stunning 4K OLED display and powerful performance.",
-    imageUrl: "https://example.com/hp-spectre-x360.jpg",
+    image: "https://example.com/hp-spectre-x360.jpg",
     category: "Laptop",
     brand: "HP",
     ram: "16 GB",
@@ -626,7 +590,7 @@ export const Laptops = [
     rating: "4.6",
     description:
       "Ultra-light and durable laptop with a 14-inch WQHD display and great keyboard.",
-    imageUrl: "https://example.com/lenovo-thinkpad-x1.jpg",
+    image: "https://example.com/lenovo-thinkpad-x1.jpg",
     category: "Laptop",
     brand: "Lenovo",
     ram: "8 GB",
@@ -642,7 +606,7 @@ export const Laptops = [
     rating: "4.5",
     description:
       "Gaming laptop with a high-refresh-rate display and powerful NVIDIA GeForce RTX graphics.",
-    imageUrl: "https://example.com/acer-predator-helios.jpg",
+    image: "https://example.com/acer-predator-helios.jpg",
     category: "Gaming Laptop",
     brand: "Acer",
     ram: "16 GB",
@@ -658,7 +622,7 @@ export const Laptops = [
     rating: "4.8",
     description:
       "Sleek and lightweight laptop with Apple's M1 chip and Retina display.",
-    imageUrl: "https://example.com/apple-macbook-air.jpg",
+    image: "https://example.com/apple-macbook-air.jpg",
     category: "Laptop",
     brand: "Apple",
     ram: "8 GB",
@@ -674,7 +638,7 @@ export const Laptops = [
     rating: "4.7",
     description:
       "Premium Windows laptop with a high-resolution PixelSense touchscreen.",
-    imageUrl: "https://example.com/microsoft-surface-laptop.jpg",
+    image: "https://example.com/microsoft-surface-laptop.jpg",
     category: "Laptop",
     brand: "Microsoft",
     ram: "16 GB",
@@ -690,7 +654,7 @@ export const Laptops = [
     rating: "4.9",
     description:
       "Premium gaming laptop with a 4K OLED display and NVIDIA RTX 30 series graphics.",
-    imageUrl: "https://example.com/razer-blade-15.jpg",
+    image: "https://example.com/razer-blade-15.jpg",
     category: "Gaming Laptop",
     brand: "Razer",
     ram: "32 GB",
@@ -706,7 +670,7 @@ export const Laptops = [
     rating: "4.2",
     description:
       "Affordable Chromebook with a 14-inch Full HD display and long battery life.",
-    imageUrl: "https://example.com/acer-chromebook-14.jpg",
+    image: "https://example.com/acer-chromebook-14.jpg",
     category: "Chromebook",
     brand: "Acer",
     ram: "4 GB",
@@ -722,7 +686,7 @@ export const Laptops = [
     rating: "4.6",
     description:
       "High-performance gaming laptop with NVIDIA RTX graphics and fast refresh rate.",
-    imageUrl: "https://example.com/hp-omen-15.jpg",
+    image: "https://example.com/hp-omen-15.jpg",
     category: "Gaming Laptop",
     brand: "HP",
     ram: "16 GB",
@@ -738,7 +702,7 @@ export const Laptops = [
     rating: "4.7",
     description:
       "Compact and powerful laptop with a stunning InfinityEdge display.",
-    imageUrl: "https://example.com/dell-xps-13.jpg",
+    image: "https://example.com/dell-xps-13.jpg",
     category: "Laptop",
     brand: "Dell",
     ram: "16 GB",
@@ -754,7 +718,7 @@ export const Laptops = [
     rating: "4.5",
     description:
       "2-in-1 laptop with a 4K touchscreen and integrated stylus for creative tasks.",
-    imageUrl: "https://example.com/lenovo-yoga-c930.jpg",
+    image: "https://example.com/lenovo-yoga-c930.jpg",
     category: "2-in-1 Laptop",
     brand: "Lenovo",
     ram: "16 GB",
@@ -770,7 +734,7 @@ export const Laptops = [
     rating: "4.5",
     description:
       "Slim and lightweight laptop with a Super AMOLED display and S Pen support.",
-    imageUrl: "https://example.com/samsung-galaxy-book-pro.jpg",
+    image: "https://example.com/samsung-galaxy-book-pro.jpg",
     category: "Laptop",
     brand: "Samsung",
     ram: "8 GB",
@@ -786,7 +750,7 @@ export const Laptops = [
     rating: "4.8",
     description:
       "High-end gaming laptop with a 240Hz display and NVIDIA RTX 30 series graphics.",
-    imageUrl: "https://example.com/msi-gs66-stealth.jpg",
+    image: "https://example.com/msi-gs66-stealth.jpg",
     category: "Gaming Laptop",
     brand: "MSI",
     ram: "32 GB",
@@ -802,7 +766,7 @@ export const Laptops = [
     rating: "4.3",
     description:
       "Sleek and lightweight Chromebook with a high-resolution touchscreen.",
-    imageUrl: "https://example.com/google-pixelbook-go.jpg",
+    image: "https://example.com/google-pixelbook-go.jpg",
     category: "Chromebook",
     brand: "Google",
     ram: "8 GB",
@@ -818,7 +782,7 @@ export const Laptops = [
     rating: "4.9",
     description:
       "Premium gaming laptop with Alienware's signature design and high-refresh-rate display.",
-    imageUrl: "https://example.com/alienware-m15.jpg",
+    image: "https://example.com/alienware-m15.jpg",
     category: "Gaming Laptop",
     brand: "Alienware",
     ram: "32 GB",
@@ -834,7 +798,7 @@ export const Laptops = [
     rating: "4.7",
     description:
       "Ultrabook with a 13.4-inch 4K touchscreen and Intel Evo platform for enhanced performance.",
-    imageUrl: "https://example.com/razer-book-13.jpg",
+    image: "https://example.com/razer-book-13.jpg",
     category: "Ultrabook",
     brand: "Razer",
     ram: "16 GB",
@@ -850,7 +814,7 @@ export const Laptops = [
     rating: "4.5",
     description:
       "Ultralight laptop with a 14-inch Full HD display and long battery life.",
-    imageUrl: "https://example.com/acer-swift-5.jpg",
+    image: "https://example.com/acer-swift-5.jpg",
     category: "Ultrabook",
     brand: "Acer",
     ram: "16 GB",
@@ -866,7 +830,7 @@ export const Laptops = [
     rating: "4.6",
     description:
       "Ultra-lightweight laptop with a 17-inch WQXGA display and long-lasting battery.",
-    imageUrl: "https://example.com/lg-gram-17.jpg",
+    image: "https://example.com/lg-gram-17.jpg",
     category: "Ultrabook",
     brand: "LG",
     ram: "16 GB",
@@ -882,7 +846,7 @@ export const Laptops = [
     rating: "4.7",
     description:
       "High-performance gaming laptop with a 16-inch QHD display and NVIDIA RTX 30 series graphics.",
-    imageUrl: "https://example.com/lenovo-legion-5-pro.jpg",
+    image: "https://example.com/lenovo-legion-5-pro.jpg",
     category: "Gaming Laptop",
     brand: "Lenovo",
     ram: "32 GB",
@@ -898,7 +862,7 @@ export const Laptops = [
     rating: "4.6",
     description:
       "Premium ultrabook with a 13.9-inch 3K touchscreen and powerful performance.",
-    imageUrl: "https://example.com/huawei-matebook-x-pro.jpg",
+    image: "https://example.com/huawei-matebook-x-pro.jpg",
     category: "Ultrabook",
     brand: "Huawei",
     ram: "16 GB",
@@ -914,7 +878,7 @@ export const Laptops = [
     rating: "4.8",
     description:
       "Top-of-the-line gaming laptop with a 17.3-inch 360Hz display and powerful graphics.",
-    imageUrl: "https://example.com/dell-alienware-x17.jpg",
+    image: "https://example.com/dell-alienware-x17.jpg",
     category: "Gaming Laptop",
     brand: "Dell",
     ram: "32 GB",
@@ -930,7 +894,7 @@ export const Laptops = [
     rating: "4.7",
     description:
       "Premium ultrabook with a 14-inch 4K touchscreen and sleek design.",
-    imageUrl: "https://example.com/sony-vaio-z.jpg",
+    image: "https://example.com/sony-vaio-z.jpg",
     category: "Ultrabook",
     brand: "Sony",
     ram: "16 GB",
@@ -946,7 +910,7 @@ export const Laptops = [
     rating: "4.3",
     description:
       "Affordable laptop with a 15.6-inch Full HD display and AMD Ryzen processor.",
-    imageUrl: "https://example.com/acer-aspire-5.jpg",
+    image: "https://example.com/acer-aspire-5.jpg",
     category: "Laptop",
     brand: "Acer",
     ram: "8 GB",
@@ -962,7 +926,7 @@ export const Laptops = [
     rating: "4.7",
     description:
       "Creative laptop with a 16-inch 4K touchscreen and NVIDIA RTX 30 series graphics.",
-    imageUrl: "https://example.com/msi-creator-z16.jpg",
+    image: "https://example.com/msi-creator-z16.jpg",
     category: "Laptop",
     brand: "MSI",
     ram: "32 GB",
@@ -978,7 +942,7 @@ export const Laptops = [
     rating: "4.2",
     description:
       "Budget-friendly laptop with a 14-inch HD display and AMD Ryzen processor.",
-    imageUrl: "https://example.com/lenovo-ideapad-3.jpg",
+    image: "https://example.com/lenovo-ideapad-3.jpg",
     category: "Laptop",
     brand: "Lenovo",
     ram: "4 GB",
@@ -994,7 +958,7 @@ export const Laptops = [
     rating: "4.4",
     description:
       "Convertible laptop with a 15.6-inch Full HD touchscreen and AMD Ryzen processor.",
-    imageUrl: "https://example.com/hp-envy-x360.jpg",
+    image: "https://example.com/hp-envy-x360.jpg",
     category: "2-in-1 Laptop",
     brand: "HP",
     ram: "8 GB",
@@ -1010,7 +974,7 @@ export const Laptops = [
     rating: "4.6",
     description:
       "Workstation laptop with a 17-inch 4K touchscreen and powerful performance.",
-    imageUrl: "https://example.com/dell-precision-5750.jpg",
+    image: "https://example.com/dell-precision-5750.jpg",
     category: "Workstation Laptop",
     brand: "Dell",
     ram: "32 GB",
@@ -1026,7 +990,7 @@ export const Laptops = [
     rating: "4.8",
     description:
       "Slim gaming laptop with a 15.6-inch 360Hz display and NVIDIA RTX 30 series graphics.",
-    imageUrl: "https://example.com/acer-predator-triton-500.jpg",
+    image: "https://example.com/acer-predator-triton-500.jpg",
     category: "Gaming Laptop",
     brand: "Acer",
     ram: "32 GB",
@@ -1042,7 +1006,7 @@ export const Laptops = [
     rating: "4.9",
     description:
       "Professional-grade laptop with a 16-inch 4K display and Apple M1 Pro chip.",
-    imageUrl: "https://example.com/apple-macbook-pro-16.jpg",
+    image: "https://example.com/apple-macbook-pro-16.jpg",
     category: "Laptop",
     brand: "Apple",
     ram: "32 GB",
@@ -1062,7 +1026,7 @@ export const Watches = [
     description: "This is a waterproof watch with FHD+ display",
     rating: "4.4",
     display: "3.4 inch FHD+",
-    imageUrl:
+    image:
       "https://www.fnp.com/images/pr/l/v20210613005057/sonata-white-dial-golden-strap-mens-watch_1.jpg",
   },
   {
@@ -1073,7 +1037,7 @@ export const Watches = [
     description: "A stylish black leather watch for men",
     rating: "4.2",
     display: "2.5 inch HD",
-    imageUrl:
+    image:
       "https://www.timex.com/on/demandware.static/-/Sites-timex_us-Library/default/dw717b10c2/images/2019/q4/b/leather-strap-watches.jpg",
   },
   {
@@ -1084,7 +1048,7 @@ export const Watches = [
     description: "A beautiful rose gold watch with a sleek design",
     rating: "4.6",
     display: "3.0 inch AMOLED",
-    imageUrl: "https://images.fossil.com/is/image/FossilPartners/ES5070_main",
+    image: "https://images.fossil.com/is/image/FossilPartners/ES5070_main",
   },
   {
     id: "4",
@@ -1094,7 +1058,7 @@ export const Watches = [
     description: "A digital sports watch with multiple features",
     rating: "4.0",
     display: "2.8 inch LCD",
-    imageUrl: "https://www.casio.com/products/watches/g-shock/ga2100-1a1",
+    image: "https://www.casio.com/products/watches/g-shock/ga2100-1a1",
   },
   {
     id: "5",
@@ -1104,7 +1068,7 @@ export const Watches = [
     description: "A timeless silver wristwatch with automatic movement",
     rating: "4.5",
     display: "2.7 inch Analog",
-    imageUrl:
+    image:
       "https://www.seikousa.com/dw/image/v2/BBQV_PRD/on/demandware.static/-/Sites-Seiko-US-Library/default/dw2650cc56/images/SEIKO/SKX007/SKX007_MAIN.jpg?sw=500&sh=500&sm=fit",
   },
   {
@@ -1115,7 +1079,7 @@ export const Watches = [
     description: "A smartwatch with fitness tracking capabilities",
     rating: "4.3",
     display: "1.8 inch OLED",
-    imageUrl:
+    image:
       "https://www.fitbit.com/global/content/dam/fitbit/global/pdp/watches/versa4/landing-5/promo-carousel/launch/night-shade/night-shade-drawer-2-2x.jpg",
   },
   {
@@ -1126,7 +1090,7 @@ export const Watches = [
     description: "A luxurious gold chronograph watch with a Rolex logo",
     rating: "4.8",
     display: "3.5 inch Sapphire",
-    imageUrl:
+    image:
       "https://www.rolex.com/content/dam/rolexcom/products/watches/2021/yacht-master/m226659-0002/m226659-0002__png_m.png",
   },
   {
@@ -1137,7 +1101,7 @@ export const Watches = [
     description: "A high-quality diving watch for underwater enthusiasts",
     rating: "4.7",
     display: "3.2 inch Super-LumiNova",
-    imageUrl:
+    image:
       "https://www.tagheuer.com/sites/default/files/styles/featured_large/public/2022-05/127764_News_Aquaracer_Professional_300_-_with_product_product_SPF.jpg",
   },
   {
@@ -1148,7 +1112,7 @@ export const Watches = [
     description: "A smart sports watch with GPS and heart rate monitoring",
     rating: "4.2",
     display: "2.4 inch Touchscreen",
-    imageUrl: "https://buy.garmin.com/en-US/US/images/spotlight/fenix5.jpg",
+    image: "https://buy.garmin.com/en-US/US/images/spotlight/fenix5.jpg",
   },
   {
     id: "10",
@@ -1158,7 +1122,7 @@ export const Watches = [
     description: "A fashionable women's watch with a rose gold finish",
     rating: "4.5",
     display: "2.6 inch Quartz",
-    imageUrl:
+    image:
       "https://www.michaelkors.com/dw/image/v2/AAUZ_PRD/on/demandware.static/-/Sites-mk-master-catalog/default/dw135a2359/images/66975056_zoom.jpg?sw=2000&sh=2000&sm=fit",
   },
   {
@@ -1169,7 +1133,7 @@ export const Watches = [
     description: "A durable outdoor watch with built-in altimeter and compass",
     rating: "4.1",
     display: "2.2 inch Transflective",
-    imageUrl:
+    image:
       "https://www.suunto.com/__/media/suunto/products/productpages/suunto7/Suunto-7_WhiteSide_2020_HiRes-min.jpg",
   },
   {
@@ -1180,7 +1144,7 @@ export const Watches = [
     description: "A luxurious diamond-studded watch for special occasions",
     rating: "4.9",
     display: "3.7 inch Diamond",
-    imageUrl:
+    image:
       "https://www.omegawatches.com/media/catalog/product/cache/3e81a65d74298b1943a1ea00bc12db8a/0/2/02108465536021.jpg",
   },
   {
@@ -1191,7 +1155,7 @@ export const Watches = [
     description: "A minimalist leather watch with a sleek black dial",
     rating: "4.3",
     display: "2.5 inch Analog",
-    imageUrl: "https://images.movado.com/is/image/Movado/3600302_movado-main",
+    image: "https://images.movado.com/is/image/Movado/3600302_movado-main",
   },
   {
     id: "14",
@@ -1201,7 +1165,7 @@ export const Watches = [
     description: "A chronograph watch inspired by aviator style",
     rating: "4.5",
     display: "2.8 inch Eco-Drive",
-    imageUrl:
+    image:
       "https://www.citizenwatch.com/content/dam/citizenwatch/us/products/military/aw1465-06h/e_aw1465-06h_l.png",
   },
   {
@@ -1212,7 +1176,7 @@ export const Watches = [
     description: "A stylish rose gold smartwatch with fitness tracking",
     rating: "4.4",
     display: "2.9 inch Super AMOLED",
-    imageUrl:
+    image:
       "https://images.samsung.com/is/image/samsung/p6pim/latin/3y-stationary/438091/438091-th-harga-TH-160545055?$FB_TYPE_A_JPG$",
   },
   {
@@ -1224,7 +1188,7 @@ export const Watches = [
       "A skeletonized mechanical watch with a clear view of the movement",
     rating: "4.2",
     display: "2.6 inch Skeleton",
-    imageUrl: "https://bulova.scene7.com/is/image/Bulova/96A199_001?$ddlarge$",
+    image: "https://bulova.scene7.com/is/image/Bulova/96A199_001?$ddlarge$",
   },
   {
     id: "17",
@@ -1234,7 +1198,7 @@ export const Watches = [
     description: "A rugged digital camo sports watch with shock resistance",
     rating: "4.0",
     display: "2.8 inch LCD",
-    imageUrl: "https://www.casio.com/products/watches/g-shock/gd120cm-5",
+    image: "https://www.casio.com/products/watches/g-shock/gd120cm-5",
   },
   {
     id: "18",
@@ -1244,7 +1208,7 @@ export const Watches = [
     description: "An elegant silver dress watch with a classic design",
     rating: "4.5",
     display: "2.7 inch Analog",
-    imageUrl:
+    image:
       "https://www.hamiltonwatch.com/media/catalog/product/cache/8e8b33e34f75ed6312d30d3d4f7b8ce8/H_384110003.jpg",
   },
   {
@@ -1255,7 +1219,7 @@ export const Watches = [
     description: "A colorful fitness tracker watch designed for kids",
     rating: "4.2",
     display: "1.2 inch Color LCD",
-    imageUrl:
+    image:
       "https://buy.garmin.com/en-US/US/images/spotlight/vivofitjr4/vivofit-jr4.jpg",
   },
   {
@@ -1266,7 +1230,7 @@ export const Watches = [
     description: "A women's watch with a rose gold finish and crystal accents",
     rating: "4.3",
     display: "2.0 inch Analog",
-    imageUrl: "https://images.fossil.com/is/image/FossilPartners/ES4942_main",
+    image: "https://images.fossil.com/is/image/FossilPartners/ES4942_main",
   },
   {
     id: "21",
@@ -1277,7 +1241,7 @@ export const Watches = [
       "A stainless steel diving watch with water resistance up to 300 meters",
     rating: "4.7",
     display: "3.2 inch Eco-Drive",
-    imageUrl:
+    image:
       "https://www.citizenwatch.com/content/dam/citizenwatch/us/products/military/bn0191-80l/e_bn0191-80l_l.png",
   },
   {
@@ -1289,7 +1253,7 @@ export const Watches = [
       "A fitness tracker with a built-in heart rate monitor and sleep tracking",
     rating: "4.2",
     display: "1.8 inch OLED",
-    imageUrl:
+    image:
       "https://www.fitbit.com/global/content/dam/fitbit/global/pdp/watches/versa4/landing-5/promo-carousel/launch/night-shade/night-shade-drawer-2-2x.jpg",
   },
   {
@@ -1300,7 +1264,7 @@ export const Watches = [
     description: "A classic gold pocket watch with a chain",
     rating: "4.4",
     display: "2.5 inch Analog",
-    imageUrl:
+    image:
       "https://www.tissotwatches.com/media/catalog/product/cache/8e8b33e34f75ed6312d30d3d4f7b8ce8/H_T0704051641100.png",
   },
   {
@@ -1311,7 +1275,7 @@ export const Watches = [
     description: "A military-style field watch with luminous hands and markers",
     rating: "4.2",
     display: "2.6 inch Indiglo",
-    imageUrl:
+    image:
       "https://www.timex.com/on/demandware.static/-/Sites-timex_us-Library/default/dw717b10c2/images/2019/q4/b/leather-strap-watches.jpg",
   },
   {
@@ -1323,7 +1287,7 @@ export const Watches = [
       "A digital sports watch with rugged design and water resistance",
     rating: "4.0",
     display: "2.8 inch LCD",
-    imageUrl: "https://www.casio.com/products/watches/g-shock/gd350-1b",
+    image: "https://www.casio.com/products/watches/g-shock/gd350-1b",
   },
   {
     id: "26",
@@ -1333,7 +1297,7 @@ export const Watches = [
     description: "A silver bracelet watch with a date function",
     rating: "4.5",
     display: "2.7 inch Analog",
-    imageUrl:
+    image:
       "https://www.seikousa.com/dw/image/v2/BBQV_PRD/on/demandware.static/-/Sites-Seiko-US-Library/default/dw2650cc56/images/SEIKO/SKX007/SKX007_MAIN.jpg?sw=500&sh=500&sm=fit",
   },
   {
@@ -1344,7 +1308,7 @@ export const Watches = [
     description: "A GPS running watch with advanced tracking features",
     rating: "4.3",
     display: "1.8 inch Color LCD",
-    imageUrl:
+    image:
       "https://buy.garmin.com/en-US/US/images/spotlight/forerunner945/forerunner-945-music.jpg",
   },
   {
@@ -1355,7 +1319,7 @@ export const Watches = [
     description: "A luxury watch with diamond accents and automatic movement",
     rating: "4.9",
     display: "3.7 inch Diamond",
-    imageUrl:
+    image:
       "https://www.omegawatches.com/media/catalog/product/cache/3e81a65d74298b1943a1ea00bc12db8a/0/2/02108465536021.jpg",
   },
   {
@@ -1366,7 +1330,7 @@ export const Watches = [
     description: "A chronograph watch with a striking blue dial",
     rating: "4.3",
     display: "2.5 inch Analog",
-    imageUrl: "https://images.movado.com/is/image/Movado/3600302_movado-main",
+    image: "https://images.movado.com/is/image/Movado/3600302_movado-main",
   },
   {
     id: "30",
@@ -1376,7 +1340,7 @@ export const Watches = [
     description: "An adventure watch with altimeter, barometer, and compass",
     rating: "4.1",
     display: "2.2 inch Transflective",
-    imageUrl:
+    image:
       "https://www.suunto.com/__/media/suunto/products/productpages/suunto7/Suunto-7_WhiteSide_2020_HiRes-min.jpg",
   },
 ];
@@ -1695,7 +1659,7 @@ export const Shirts = [
     size: "Medium",
     ordered: "210+ people ordered in the last month",
     description: "Classic corduroy shirt with a timeless look for men.",
-    imageUrl:
+    image:
       "https://assets.ajio.com/medias/sys_master/root/20230602/Dtgx/64795c65d55b7d0c633c778c/-1117Wx1400H-462323964-white-MODEL.jpg",
   },
   {
@@ -1707,7 +1671,7 @@ export const Shirts = [
     size: "Large",
     ordered: "150+ people ordered in the last month",
     description: "Stylish slim-fit checkered shirt for casual occasions.",
-    imageUrl:
+    image:
       "https://cdn11.bigcommerce.com/s-kk6i2/products/352/images/453/SC6019__50900.1618901972.386.513.jpg",
   },
   {
@@ -1719,7 +1683,7 @@ export const Shirts = [
     size: "Small",
     ordered: "180+ people ordered in the last month",
     description: "Fashionable floral print blouse for women.",
-    imageUrl:
+    image:
       "https://lp2.hm.com/hmgoepprod?set=quality[79],source[/7a/ab/7aab77fb9480af3df44f64df53af3de2022f4bd9.jpg],origin[dam],category[ladies_blouses_shirts_blouses],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/main]",
   },
   {
@@ -1731,7 +1695,7 @@ export const Shirts = [
     size: "X-Large",
     ordered: "220+ people ordered in the last month",
     description: "Classic denim western shirt for a rugged look.",
-    imageUrl:
+    image:
       "https://www.wrangler.com/dw/image/v2/AAJP_PRD/on/demandware.static/-/Sites-main/default/dwb09760a4/images/WR/MSHRTLG.gif",
   },
   {
@@ -1743,7 +1707,7 @@ export const Shirts = [
     size: "Medium",
     ordered: "130+ people ordered in the last month",
     description: "Striped button-up shirt with a classic design for women.",
-    imageUrl: "https://www.gap.com/webcontent/0019/728/841/cn19728841.jpg",
+    image: "https://www.gap.com/webcontent/0019/728/841/cn19728841.jpg",
   },
   {
     id: "6",
@@ -1754,7 +1718,7 @@ export const Shirts = [
     size: "Large",
     ordered: "250+ people ordered in the last month",
     description: "Warm and durable plaid flannel shirt for men.",
-    imageUrl:
+    image:
       "https://www.carhartt.com/dw/image/v2/AAMJ_PRD/on/demandware.static/-/Sites-master-catalog/default/dw2c1e95be/images/2025/020.2025.412.extra/020.2025.412.zoom.jpg",
   },
   {
@@ -1766,7 +1730,7 @@ export const Shirts = [
     size: "Small",
     ordered: "160+ people ordered in the last month",
     description: "Elegant ruffled blouse with a feminine touch for women.",
-    imageUrl:
+    image:
       "https://static.zara.net/photos///2022/V/0/1/p/6840/901/074/2/w/1993/6840901074_6_1_1.jpg",
   },
   {
@@ -1778,7 +1742,7 @@ export const Shirts = [
     size: "X-Large",
     ordered: "140+ people ordered in the last month",
     description: "Classic oxford dress shirt for men by Brooks Brothers.",
-    imageUrl:
+    image:
       "https://www.brooksbrothers.com/on/demandware.static/-/Sites-BrooksBrothers-Site/Sites-BrooksBrothers-Library/default/dw1f26f498/images/zoom/553Q_bk.jpg",
   },
   {
@@ -1790,7 +1754,7 @@ export const Shirts = [
     size: "Medium",
     ordered: "190+ people ordered in the last month",
     description: "Comfortable chambray shirt for women with a relaxed fit.",
-    imageUrl: "https://oldnavy.gap.com/webcontent/0019/286/543/cn19286543.jpg",
+    image: "https://oldnavy.gap.com/webcontent/0019/286/543/cn19286543.jpg",
   },
   {
     id: "10",
@@ -1801,7 +1765,7 @@ export const Shirts = [
     size: "Large",
     ordered: "300+ people ordered in the last month",
     description: "Cool and breathable linen blend shirt for men.",
-    imageUrl:
+    image:
       "https://cdn.uniqlo.com/3/images/us/pc/goods/422691/item/21_422691_fmb.jpg",
   },
   {
@@ -1813,7 +1777,7 @@ export const Shirts = [
     size: "Small",
     ordered: "110+ people ordered in the last month",
     description: "Stylish polka dot blouse for women with a playful design.",
-    imageUrl:
+    image:
       "https://lp2.hm.com/hmgoepprod?set=quality[79],source[/53/52/5352dd1aa47f7d8f94d3f55a46a34323dfc59d19.jpg],origin[dam],category[ladies_blouses_shirts_blouses],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/main]",
   },
   {
@@ -1825,7 +1789,7 @@ export const Shirts = [
     size: "Medium",
     ordered: "180+ people ordered in the last month",
     description: "Timeless classic white dress shirt for men.",
-    imageUrl:
+    image:
       "https://slimages.macys.com/is/image/MCY/products/3/optimized/2145443_fpx.tif?$thumb$",
   },
   {
@@ -1838,7 +1802,7 @@ export const Shirts = [
     ordered: "120+ people ordered in the last month",
     description:
       "Linen button-down shirt for women with a relaxed and breezy style.",
-    imageUrl:
+    image:
       "https://cdn2.mos.cms.futurecdn.net/2apEq9gPd1ZepEksg4PpbT-1200-80.jpg",
   },
   {
@@ -1850,7 +1814,7 @@ export const Shirts = [
     size: "Large",
     ordered: "210+ people ordered in the last month",
     description: "Durable plaid flannel work shirt for tough jobs.",
-    imageUrl:
+    image:
       "https://www.carhartt.com/dw/image/v2/AAMJ_PRD/on/demandware.static/-/Sites-master-catalog/default/dw69b71b75/images/2025/301.2025.412.zoom.jpg",
   },
   {
@@ -1862,7 +1826,7 @@ export const Shirts = [
     size: "Medium",
     ordered: "150+ people ordered in the last month",
     description: "Oversized chambray shirt for women with a relaxed fit.",
-    imageUrl:
+    image:
       "https://static.zara.net/photos///2022/V/0/1/p/6835/142/505/2/w/1652/6835142505_1_1_1.jpg",
   },
   {
@@ -1874,7 +1838,7 @@ export const Shirts = [
     size: "X-Large",
     ordered: "240+ people ordered in the last month",
     description: "Comfortable short-sleeve shirt for casual wear.",
-    imageUrl:
+    image:
       "https://www.columbia.com/dw/image/v2/AATU_PRD/on/demandware.static/-/Sites-columbia_us-Library/default/dw4282edc6/images/innovation/technology/onmodel/M-SS-ButtonDown-ON-MODEL.jpg",
   },
   {
@@ -1886,7 +1850,7 @@ export const Shirts = [
     size: "Small",
     ordered: "170+ people ordered in the last month",
     description: "Peplum blouse with a stylish print for women.",
-    imageUrl:
+    image:
       "https://lp2.hm.com/hmgoepprod?set=quality[79],source[/a5/9c/a59c312d8dbacef37c7d6c3f48b80f00d8d0f90e.jpg],origin[dam],category[ladies_blouses_shirts_blouses],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/main]",
   },
   {
@@ -1898,7 +1862,7 @@ export const Shirts = [
     size: "Medium",
     ordered: "190+ people ordered in the last month",
     description: "Slim-fit dress shirt for a sharp and modern look.",
-    imageUrl:
+    image:
       "https://www.express.com/content/dam/express/2019/projects/landing-pages/pdp/0923/desktop/slimfitdressshirt-productitem-1.jpg",
   },
   {
@@ -1910,7 +1874,7 @@ export const Shirts = [
     size: "Small",
     ordered: "100+ people ordered in the last month",
     description: "Elegant satin blouse with a luxurious feel for women.",
-    imageUrl:
+    image:
       "https://cdn2.mos.cms.futurecdn.net/2QZSrFoKGQ7TzrVLdpHLnt-1200-80.jpg",
   },
   {
@@ -1922,7 +1886,7 @@ export const Shirts = [
     size: "Large",
     ordered: "130+ people ordered in the last month",
     description: "Tropical-themed short-sleeve Hawaiian shirt for men.",
-    imageUrl:
+    image:
       "https://www.tommybahama.com/dw/image/v2/AAFW_PRD/on/demandware.static/-/Sites-TB-Library/en_US/dw18f9b94b/images/126164__E351.jpg?sw=600&sh=600&sm=fit&sfrm=png",
   },
   {
@@ -1934,7 +1898,7 @@ export const Shirts = [
     size: "Medium",
     ordered: "110+ people ordered in the last month",
     description: "Oversized denim shirt for a relaxed and trendy look.",
-    imageUrl: "https://www.gap.com/webcontent/0019/140/471/cn19140471.jpg",
+    image: "https://www.gap.com/webcontent/0019/140/471/cn19140471.jpg",
   },
   {
     id: "22",
@@ -1946,7 +1910,7 @@ export const Shirts = [
     ordered: "300+ people ordered in the last month",
     description:
       "Classic fit polo shirt with the iconic Lacoste crocodile logo.",
-    imageUrl:
+    image:
       "https://media.lacoste.com/i/lacoste/L1212-FXX-25-001.jpg?$plpProductImage$&locale=en_GB",
   },
   {
@@ -1958,7 +1922,7 @@ export const Shirts = [
     size: "Small",
     ordered: "120+ people ordered in the last month",
     description: "Versatile long-sleeve tunic for women with a relaxed fit.",
-    imageUrl: "https://oldnavy.gap.com/webcontent/0019/520/471/cn19520471.jpg",
+    image: "https://oldnavy.gap.com/webcontent/0019/520/471/cn19520471.jpg",
   },
   {
     id: "24",
@@ -1969,7 +1933,7 @@ export const Shirts = [
     size: "Large",
     ordered: "180+ people ordered in the last month",
     description: "Comfortable casual V-neck t-shirt for men.",
-    imageUrl:
+    image:
       "https://images.hanes.com/is/image/hanesbrands/H5590_01_6031_000.jpg?$600x600$",
   },
   {
@@ -1981,7 +1945,7 @@ export const Shirts = [
     size: "Medium",
     ordered: "160+ people ordered in the last month",
     description: "Bohemian-style off-shoulder peasant top for women.",
-    imageUrl:
+    image:
       "https://images.freepeople.com/is/image/FreePeople/36395868_018_a?$a15pdp-600$",
   },
   {
@@ -1993,7 +1957,7 @@ export const Shirts = [
     size: "X-Large",
     ordered: "250+ people ordered in the last month",
     description: "Sporty graphic print t-shirt for men.",
-    imageUrl:
+    image:
       "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/i1-3e6ef7a1-2ef0-4b59-aa45-0c67c33d982b/sportswear-club-mens-t-shirt-75SThz.jpg",
   },
   {
@@ -2005,7 +1969,7 @@ export const Shirts = [
     size: "Small",
     ordered: "220+ people ordered in the last month",
     description: "Boho-style lace blouse with intricate details for women.",
-    imageUrl:
+    image:
       "https://images.anthropologie.com/is/image/Anthropologie/59818506_001_b?$a15pdp-zoom$&qlt=80&fit=constrain",
   },
   {
@@ -2017,7 +1981,7 @@ export const Shirts = [
     size: "Large",
     ordered: "230+ people ordered in the last month",
     description: "Classic crewneck sweatshirt for casual comfort.",
-    imageUrl:
+    image:
       "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/95aa9352d9f7462ba72ea89e00e173d1_9366/Essentials_Classic_Treb/Sweatshirt_B46504_01_laydown.jpg",
   },
   {
@@ -2029,7 +1993,7 @@ export const Shirts = [
     size: "Medium",
     ordered: "200+ people ordered in the last month",
     description: "Cropped tank top with a trendy style for women.",
-    imageUrl:
+    image:
       "https://images.forever21.com/is/image/Forever21/00427582-01?$image_quality_100$",
   },
   {
@@ -2041,7 +2005,7 @@ export const Shirts = [
     size: "X-Large",
     ordered: "210+ people ordered in the last month",
     description: "Casual henley shirt for a laid-back style.",
-    imageUrl:
+    image:
       "https://image.jcrew.com/waterfall/c/5e5a19e4/f4d44dce-f24f-4e6d-8823-0b4f1740c481.jpg",
   },
 ];
@@ -2057,7 +2021,7 @@ export const Shoes = [
     ordered: "450+ people ordered in the last month",
     description:
       "Comfortable sports shoes for men with various sizes available.",
-    imageUrl: "https://m.media-amazon.com/images/I/715TLEvzxUS._SY500_.jpg",
+    image: "https://m.media-amazon.com/images/I/715TLEvzxUS._SY500_.jpg",
   },
   {
     id: "2",
@@ -2068,7 +2032,7 @@ export const Shoes = [
     size: "7",
     ordered: "400+ people ordered in the last month",
     description: "High-quality running shoes for women by Nike.",
-    imageUrl:
+    image:
       "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/2a8c198b-5c07-48bb-a21a-77ae166bb0ee/air-zoom-pegasus-38-running-shoe-93PrnT.jpg",
   },
   {
@@ -2080,7 +2044,7 @@ export const Shoes = [
     size: "9",
     ordered: "350+ people ordered in the last month",
     description: "Durable and stylish basketball shoes for men.",
-    imageUrl:
+    image:
       "https://assets.adidas.com/images/h_2000,f_auto,q_auto:sensitive,fl_lossy/abf5222a31a7408ab2bea7b700fc134c_9366/Harden_Vol_5_Shoes_Black_FY9832.jpg",
   },
   {
@@ -2092,7 +2056,7 @@ export const Shoes = [
     size: "6",
     ordered: "320+ people ordered in the last month",
     description: "Versatile yoga and workout shoes for women by Reebok.",
-    imageUrl:
+    image:
       "https://assets.reebok.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy/f27662ecf1674980911baf5800fb493f_9366/Nano_X1_Women_Shoes_Black_GY5971.jpg",
   },
   {
@@ -2104,7 +2068,7 @@ export const Shoes = [
     size: "10",
     ordered: "380+ people ordered in the last month",
     description: "Cross training shoes designed for men's fitness needs.",
-    imageUrl: "https://nb.scene7.com/is/image/NB/mt100v1_nb_02_i?$pdpPictExp$",
+    image: "https://nb.scene7.com/is/image/NB/mt100v1_nb_02_i?$pdpPictExp$",
   },
   {
     id: "6",
@@ -2116,8 +2080,7 @@ export const Shoes = [
     ordered: "300+ people ordered in the last month",
     description:
       "Trail running shoes with excellent grip for women by Salomon.",
-    imageUrl:
-      "https://content-api-secure.salomon.com/api/v1/images/261189/master",
+    image: "https://content-api-secure.salomon.com/api/v1/images/261189/master",
   },
   {
     id: "7",
@@ -2128,7 +2091,7 @@ export const Shoes = [
     size: "9.5",
     ordered: "280+ people ordered in the last month",
     description: "Soccer cleats designed for men's performance on the field.",
-    imageUrl:
+    image:
       "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb,f_auto,w_450,h_450/global/105585/02/fnd/ECOM",
   },
   {
@@ -2140,7 +2103,7 @@ export const Shoes = [
     size: "8",
     ordered: "260+ people ordered in the last month",
     description: "Durable hiking boots for women by Columbia.",
-    imageUrl:
+    image:
       "https://www.columbia.com/dw/image/v2/AAAP_PRD/on/demandware.static/-/Sites-columbia_us-Library/default/dwd3b2f1ee/images/innovation/technology/onmodel/W-Newton-Ridge-Plus-Hiking-Boot-WIDE-BL3865-010-laydown.jpg",
   },
   {
@@ -2152,7 +2115,7 @@ export const Shoes = [
     size: "10.5",
     ordered: "340+ people ordered in the last month",
     description: "Stylish and comfortable skateboarding shoes for men by Vans.",
-    imageUrl:
+    image:
       "https://images.vans.com/is/image/Vans/44d8ea84e3de2d274f0a0aa6e950eb88?fit=fill&bg=0FFF&w=650&h=410&auto=format%2Ccompress",
   },
   {
@@ -2164,7 +2127,7 @@ export const Shoes = [
     size: "7.5",
     ordered: "320+ people ordered in the last month",
     description: "High-performance tennis shoes for women by ASICS.",
-    imageUrl:
+    image:
       "https://www.asics.com/on/demandware.static/-/Sites-ASICS-Library/default/dw527b1cb3/images/product/dynaflyte/1012A543/1012A543_001_d.png",
   },
   {
@@ -2177,7 +2140,7 @@ export const Shoes = [
     ordered: "360+ people ordered in the last month",
     description:
       "Trail running shoes with superior comfort for men by Merrell.",
-    imageUrl:
+    image:
       "https://www.merrell.com/dw/image/v2/BBLD_PRD/on/demandware.static/-/Sites-merrell_us-Library/en_US/dw7eb7fc7a/products/M098754/M098754_L2.jpg?sw=900",
   },
   {
@@ -2189,7 +2152,7 @@ export const Shoes = [
     size: "7",
     ordered: "310+ people ordered in the last month",
     description: "Crossfit shoes designed for women's intense workouts.",
-    imageUrl:
+    image:
       "https://assets.reebok.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy/ab1707d7407e4c9f944ba8bd0167c82a_9366/Speed_TR_Women_Shoes_Black_FY9393.jpg",
   },
   {
@@ -2201,7 +2164,7 @@ export const Shoes = [
     size: "10",
     ordered: "290+ people ordered in the last month",
     description: "Golf shoes with excellent traction for men by FootJoy.",
-    imageUrl:
+    image:
       "https://www.footjoy.com/dw/image/v2/AAJN_PRD/on/demandware.static/-/Sites-master-catalog/default/dw54c8d41c/images/56201/56201-heroproduct-21SP_T_0001-zoom.jpg",
   },
   {
@@ -2213,7 +2176,7 @@ export const Shoes = [
     size: "8.5",
     ordered: "280+ people ordered in the last month",
     description: "Elegant ballet flats for women by Sam Edelman.",
-    imageUrl:
+    image:
       "https://images.prod.meredith.com/product/c1337f0e65a39d2ee8ca3b9906855f8f/1f178e155ab5a1b5236f2c3f6e197f2d1f1e7c19f106a0ad06f8ef568f4f1783_large.jpg",
   },
   {
@@ -2225,7 +2188,7 @@ export const Shoes = [
     size: "9.5",
     ordered: "330+ people ordered in the last month",
     description: "Classic and comfortable casual sneakers for men by Converse.",
-    imageUrl:
+    image:
       "https://image.converse.com/image/upload/v1607685950/eu/regionPL/603668C_001.png",
   },
   {
@@ -2237,7 +2200,7 @@ export const Shoes = [
     size: "8",
     ordered: "270+ people ordered in the last month",
     description: "Stylish ankle boots for women by Steve Madden.",
-    imageUrl:
+    image:
       "https://images.prod.meredith.com/product/04b3a6d7629918d18132100b08b52b0d/07c11a634f9340eaccb5466d9e2923d03a6f200a361f822b6c3eeef72d460aab_large.jpg",
   },
   {
@@ -2249,7 +2212,7 @@ export const Shoes = [
     size: "10",
     ordered: "350+ people ordered in the last month",
     description: "High-performance running sneakers for men by Saucony.",
-    imageUrl:
+    image:
       "https://www.saucony.com/dw/image/v2/BCFQ_PRD/on/demandware.static/-/Sites-saucony_us-Library/default/dw1e6f4327/images/product/x/i/xim/159310/01/alt/159310-01-1300.jpg",
   },
   {
@@ -2261,7 +2224,7 @@ export const Shoes = [
     size: "7.5",
     ordered: "300+ people ordered in the last month",
     description: "Stylish espadrille wedges for women by TOMS.",
-    imageUrl:
+    image:
       "https://www.toms.com/dw/image/v2/BBCX_PRD/on/demandware.static/-/Sites-toms-master/default/dw9ff3be57/images/10016950/10016950_014.jpg",
   },
   {
@@ -2273,7 +2236,7 @@ export const Shoes = [
     size: "9.5",
     ordered: "290+ people ordered in the last month",
     description: "Luxurious dress loafers for men by Gucci.",
-    imageUrl:
+    image:
       "https://media.gucci.com/style/DarkGray_Center_0_0_1200x1200/1534258745/195193_A9L00_2156_001_100_0000_Light-Mocassini-GG-coda_05.jpg",
   },
   {
@@ -2286,7 +2249,7 @@ export const Shoes = [
     ordered: "270+ people ordered in the last month",
     description:
       "Iconic red-soled high heel pumps for women by Christian Louboutin.",
-    imageUrl:
+    image:
       "https://images.prod.meredith.com/product/eb73aa08e0634a13482b9c2641d9d7cb/853e050fa68545eaa80b1bc6963650e1941b703c0f3e61073e5f650344dbcebd_large.jpg",
   },
   {
@@ -2298,7 +2261,7 @@ export const Shoes = [
     size: "10",
     ordered: "320+ people ordered in the last month",
     description: "Classic Chelsea boots for men by Clarks.",
-    imageUrl:
+    image:
       "https://media.clarks.eu/media/cp/assets/24.37436/26149318/EG_061_Sneak_Amb 4.jpg",
   },
   {
@@ -2310,7 +2273,7 @@ export const Shoes = [
     size: "7.5",
     ordered: "340+ people ordered in the last month",
     description: "Comfortable wedge sandals for women by UGG.",
-    imageUrl:
+    image:
       "https://ugg.scene7.com/is/image/UGG/1121397_001?$USD-SD-lg$&$v3_SL1100$&hei=500&wid=500",
   },
   {
@@ -2322,7 +2285,7 @@ export const Shoes = [
     size: "9",
     ordered: "280+ people ordered in the last month",
     description: "Elegant Oxford shoes for men by Cole Haan.",
-    imageUrl:
+    image:
       "https://images.prod.meredith.com/product/7f61b84d25be995c4d3ee52e9f17e17e/9e0b7988b04c4e9e86c301b9e1f679591c6e2d41ec61d503dbada4e538287d68_large.jpg",
   },
   {
@@ -2334,7 +2297,7 @@ export const Shoes = [
     size: "8",
     ordered: "310+ people ordered in the last month",
     description: "Convenient slip-on sneakers for women by Skechers.",
-    imageUrl: "https://skechers.scene7.com/is/image/Skechers/16010_WSL_F",
+    image: "https://skechers.scene7.com/is/image/Skechers/16010_WSL_F",
   },
   {
     id: "25",
@@ -2345,8 +2308,7 @@ export const Shoes = [
     size: "10.5",
     ordered: "350+ people ordered in the last month",
     description: "Classic boat shoes for men by Sperry.",
-    imageUrl:
-      "https://images.sperry.com/is/image/Sperry/STS22634-HERO?$290x258$",
+    image: "https://images.sperry.com/is/image/Sperry/STS22634-HERO?$290x258$",
   },
   {
     id: "26",
@@ -2357,7 +2319,7 @@ export const Shoes = [
     size: "7",
     ordered: "300+ people ordered in the last month",
     description: "Cozy moccasin slippers for women by Minnetonka.",
-    imageUrl:
+    image:
       "https://images.prod.meredith.com/product/e259496e0e2f4bb46ac20207ca7f9756/6e49670e9c0c49f981ff5ec10dd293d64773c59f515850ee1cbfba549a07be26_large.jpg",
   },
   {
@@ -2369,7 +2331,7 @@ export const Shoes = [
     size: "9.5",
     ordered: "320+ people ordered in the last month",
     description: "Comfortable loafer shoes for men by Hush Puppies.",
-    imageUrl:
+    image:
       "https://images.prod.meredith.com/product/0f77deaae6b24008b2710d56a08c8347/5341ce4b7b06463e8be384d1be19c238b130c46db7b2a6df869b97d4b76e6e9b_large.jpg",
   },
   {
@@ -2381,7 +2343,7 @@ export const Shoes = [
     size: "8",
     ordered: "310+ people ordered in the last month",
     description: "Durable rain boots for women by Hunter.",
-    imageUrl:
+    image:
       "https://images.prod.meredith.com/product/738078ebf3c1f9e422f5d68d9fdd0fb6/d82f703d61e94eeb926b8d8bca82ec71ca369fdd64e85dbdb5c967d20707cc02_large.jpg",
   },
   {
@@ -2393,7 +2355,7 @@ export const Shoes = [
     size: "10",
     ordered: "340+ people ordered in the last month",
     description: "Comfortable sandals for men by Birkenstock.",
-    imageUrl:
+    image:
       "https://images.birkenstock.com/is/image/Birkenstock/1016221_1016221.jpg?wid=500&hei=500&fmt=jpg&bgc=f5f5f5&fit=fill&qlt=100,1&resmode=sharp&op_usm=1,1,1,8&iccEmbed=0&icc=AdobeRGB",
   },
   {
@@ -2405,8 +2367,7 @@ export const Shoes = [
     size: "7.5",
     ordered: "330+ people ordered in the last month",
     description: "Warm and waterproof snow boots for women by Columbia.",
-    imageUrl:
-      "https://content-api-secure.salomon.com/api/v1/images/261189/master",
+    image: "https://content-api-secure.salomon.com/api/v1/images/261189/master",
   },
 ];
 
@@ -2420,7 +2381,7 @@ export const Bags = [
     rating: "4.4",
     description: "This is a waterproof bag with great styling",
     ordered: "830+ people ordered in the last month",
-    imageUrl: "https://5.imimg.com/data5/KK/CR/MY-5458350/kids-school-bag.jpg",
+    image: "https://5.imimg.com/data5/KK/CR/MY-5458350/kids-school-bag.jpg",
   },
   {
     id: "2",
@@ -2431,7 +2392,7 @@ export const Bags = [
     description:
       "Spacious backpack with lots of compartments for organized travel.",
     ordered: "720+ people ordered in the last month",
-    imageUrl: "https://example.com/image2.jpg",
+    image: "https://example.com/image2.jpg",
   },
   {
     id: "3",
@@ -2441,7 +2402,7 @@ export const Bags = [
     rating: "4.9",
     description: "Premium leather laptop bag for a professional look.",
     ordered: "450+ people ordered in the last month",
-    imageUrl: "https://example.com/image3.jpg",
+    image: "https://example.com/image3.jpg",
   },
   {
     id: "4",
@@ -2451,7 +2412,7 @@ export const Bags = [
     rating: "4.2",
     description: "Durable canvas backpack suitable for daily activities.",
     ordered: "620+ people ordered in the last month",
-    imageUrl: "https://example.com/image4.jpg",
+    image: "https://example.com/image4.jpg",
   },
   {
     id: "5",
@@ -2462,7 +2423,7 @@ export const Bags = [
     description:
       "Perfect for outdoor enthusiasts with a built-in hydration system.",
     ordered: "320+ people ordered in the last month",
-    imageUrl: "https://example.com/image5.jpg",
+    image: "https://example.com/image5.jpg",
   },
   {
     id: "6",
@@ -2472,7 +2433,7 @@ export const Bags = [
     rating: "4.5",
     description: "Retro-style leather rucksack for a vintage look.",
     ordered: "280+ people ordered in the last month",
-    imageUrl: "https://example.com/image6.jpg",
+    image: "https://example.com/image6.jpg",
   },
   {
     id: "7",
@@ -2482,7 +2443,7 @@ export const Bags = [
     rating: "4.0",
     description: "Compact and lightweight daypack for minimalist travelers.",
     ordered: "510+ people ordered in the last month",
-    imageUrl: "https://example.com/image7.jpg",
+    image: "https://example.com/image7.jpg",
   },
   {
     id: "8",
@@ -2493,7 +2454,7 @@ export const Bags = [
     description:
       "Stylish floral print backpack for fashion-forward individuals.",
     ordered: "390+ people ordered in the last month",
-    imageUrl: "https://example.com/image8.jpg",
+    image: "https://example.com/image8.jpg",
   },
   {
     id: "9",
@@ -2503,7 +2464,7 @@ export const Bags = [
     rating: "4.8",
     description: "Waterproof backpack designed for outdoor adventures.",
     ordered: "370+ people ordered in the last month",
-    imageUrl: "https://example.com/image9.jpg",
+    image: "https://example.com/image9.jpg",
   },
   {
     id: "10",
@@ -2513,7 +2474,7 @@ export const Bags = [
     rating: "4.6",
     description: "Laptop backpack with a built-in USB charging port.",
     ordered: "600+ people ordered in the last month",
-    imageUrl: "https://example.com/image10.jpg",
+    image: "https://example.com/image10.jpg",
   },
   {
     id: "11",
@@ -2523,7 +2484,7 @@ export const Bags = [
     rating: "4.4",
     description: "Gym bag with a dedicated shoe compartment.",
     ordered: "440+ people ordered in the last month",
-    imageUrl: "https://example.com/image11.jpg",
+    image: "https://example.com/image11.jpg",
   },
   {
     id: "12",
@@ -2533,7 +2494,7 @@ export const Bags = [
     rating: "4.9",
     description: "Timeless leather messenger bag for business use.",
     ordered: "330+ people ordered in the last month",
-    imageUrl: "https://example.com/image12.jpg",
+    image: "https://example.com/image12.jpg",
   },
   {
     id: "13",
@@ -2544,7 +2505,7 @@ export const Bags = [
     description:
       "Fun and colorful school bag for kids with cartoon characters.",
     ordered: "680+ people ordered in the last month",
-    imageUrl: "https://example.com/image13.jpg",
+    image: "https://example.com/image13.jpg",
   },
   {
     id: "14",
@@ -2554,7 +2515,7 @@ export const Bags = [
     rating: "4.7",
     description: "Military-style backpack built for rugged outdoor use.",
     ordered: "420+ people ordered in the last month",
-    imageUrl: "https://example.com/image14.jpg",
+    image: "https://example.com/image14.jpg",
   },
   {
     id: "15",
@@ -2564,7 +2525,7 @@ export const Bags = [
     rating: "4.5",
     description: "Stylish leather backpack for fashionable travelers.",
     ordered: "290+ people ordered in the last month",
-    imageUrl: "https://example.com/image15.jpg",
+    image: "https://example.com/image15.jpg",
   },
   {
     id: "16",
@@ -2574,7 +2535,7 @@ export const Bags = [
     rating: "4.2",
     description: "Canvas laptop bag with a comfortable shoulder strap.",
     ordered: "480+ people ordered in the last month",
-    imageUrl: "https://example.com/image16.jpg",
+    image: "https://example.com/image16.jpg",
   },
   {
     id: "17",
@@ -2584,7 +2545,7 @@ export const Bags = [
     rating: "4.6",
     description: "Travel backpack with multiple pockets and RFID protection.",
     ordered: "380+ people ordered in the last month",
-    imageUrl: "https://example.com/image17.jpg",
+    image: "https://example.com/image17.jpg",
   },
   {
     id: "18",
@@ -2594,7 +2555,7 @@ export const Bags = [
     rating: "4.3",
     description: "Recycled materials backpack for eco-conscious individuals.",
     ordered: "360+ people ordered in the last month",
-    imageUrl: "https://example.com/image18.jpg",
+    image: "https://example.com/image18.jpg",
   },
   {
     id: "19",
@@ -2604,7 +2565,7 @@ export const Bags = [
     rating: "4.1",
     description: "Sleek urban backpack for city commuters.",
     ordered: "520+ people ordered in the last month",
-    imageUrl: "https://example.com/image19.jpg",
+    image: "https://example.com/image19.jpg",
   },
   {
     id: "20",
@@ -2614,7 +2575,7 @@ export const Bags = [
     rating: "4.8",
     description: "Camouflage backpack designed for outdoor enthusiasts.",
     ordered: "410+ people ordered in the last month",
-    imageUrl: "https://example.com/image20.jpg",
+    image: "https://example.com/image20.jpg",
   },
   {
     id: "21",
@@ -2624,7 +2585,7 @@ export const Bags = [
     rating: "4.5",
     description: "Stylish leather tote bag designed for women.",
     ordered: "350+ people ordered in the last month",
-    imageUrl: "https://example.com/image21.jpg",
+    image: "https://example.com/image21.jpg",
   },
   {
     id: "22",
@@ -2635,7 +2596,7 @@ export const Bags = [
     description:
       "Water-resistant backpack with a dedicated laptop compartment.",
     ordered: "490+ people ordered in the last month",
-    imageUrl: "https://example.com/image22.jpg",
+    image: "https://example.com/image22.jpg",
   },
   {
     id: "23",
@@ -2645,7 +2606,7 @@ export const Bags = [
     rating: "4.0",
     description: "Compact and foldable daypack for travelers on the go.",
     ordered: "600+ people ordered in the last month",
-    imageUrl: "https://example.com/image23.jpg",
+    image: "https://example.com/image23.jpg",
   },
   {
     id: "24",
@@ -2655,7 +2616,7 @@ export const Bags = [
     rating: "4.3",
     description: "Timeless canvas messenger bag for daily use.",
     ordered: "470+ people ordered in the last month",
-    imageUrl: "https://example.com/image24.jpg",
+    image: "https://example.com/image24.jpg",
   },
   {
     id: "25",
@@ -2665,7 +2626,7 @@ export const Bags = [
     rating: "4.7",
     description: "Vintage leather backpack with a retro flair.",
     ordered: "320+ people ordered in the last month",
-    imageUrl: "https://example.com/image25.jpg",
+    image: "https://example.com/image25.jpg",
   },
   {
     id: "26",
@@ -2675,7 +2636,7 @@ export const Bags = [
     rating: "4.2",
     description: "Fun and trendy floral print school bag for kids.",
     ordered: "590+ people ordered in the last month",
-    imageUrl: "https://example.com/image26.jpg",
+    image: "https://example.com/image26.jpg",
   },
   {
     id: "27",
@@ -2685,7 +2646,7 @@ export const Bags = [
     rating: "4.6",
     description: "Durable outdoor backpack with adjustable straps.",
     ordered: "410+ people ordered in the last month",
-    imageUrl: "https://example.com/image27.jpg",
+    image: "https://example.com/image27.jpg",
   },
   {
     id: "28",
@@ -2695,7 +2656,7 @@ export const Bags = [
     rating: "4.4",
     description: "Stylish leather satchel bag designed for women.",
     ordered: "380+ people ordered in the last month",
-    imageUrl: "https://example.com/image28.jpg",
+    image: "https://example.com/image28.jpg",
   },
   {
     id: "29",
@@ -2705,7 +2666,7 @@ export const Bags = [
     rating: "4.9",
     description: "Elegant laptop briefcase for business professionals.",
     ordered: "300+ people ordered in the last month",
-    imageUrl: "https://example.com/image29.jpg",
+    image: "https://example.com/image29.jpg",
   },
   {
     id: "30",
@@ -2716,7 +2677,7 @@ export const Bags = [
     description:
       "Tactical military backpack with a Molle system for customization.",
     ordered: "340+ people ordered in the last month",
-    imageUrl: "https://example.com/image30.jpg",
+    image: "https://example.com/image30.jpg",
   },
 ];
 
@@ -2730,7 +2691,7 @@ export const Grocery = [
     quantity: "1 kg",
     category: "grocery",
     description: "It's so tasty and full with vitamins so eat and feat",
-    imageUrl: "https://nutsandmore.in/wp-content/uploads/2020/07/TES0256-2.jpg",
+    image: "https://nutsandmore.in/wp-content/uploads/2020/07/TES0256-2.jpg",
   },
   {
     id: "2",
@@ -2741,7 +2702,7 @@ export const Grocery = [
     quantity: "2 kg",
     category: "grocery",
     description: "100% organic brown rice for a healthy meal option.",
-    imageUrl: "https://example.com/rice.jpg",
+    image: "https://example.com/rice.jpg",
   },
   {
     id: "3",
@@ -2752,7 +2713,7 @@ export const Grocery = [
     quantity: "1 dozen",
     category: "grocery",
     description: "Farm-fresh eggs for your breakfast needs.",
-    imageUrl: "https://example.com/eggs.jpg",
+    image: "https://example.com/eggs.jpg",
   },
   {
     id: "4",
@@ -2763,7 +2724,7 @@ export const Grocery = [
     quantity: "500g",
     category: "grocery",
     description: "Delicious and pure honey for sweetening your dishes.",
-    imageUrl: "https://example.com/honey.jpg",
+    image: "https://example.com/honey.jpg",
   },
   {
     id: "5",
@@ -2774,7 +2735,7 @@ export const Grocery = [
     quantity: "100g",
     category: "grocery",
     description: "Organic green tea for a refreshing and healthy drink.",
-    imageUrl: "https://example.com/greentea.jpg",
+    image: "https://example.com/greentea.jpg",
   },
   {
     id: "6",
@@ -2785,7 +2746,7 @@ export const Grocery = [
     quantity: "1 kg",
     category: "grocery",
     description: "Crisp and juicy apples for snacking or cooking.",
-    imageUrl: "https://example.com/apples.jpg",
+    image: "https://example.com/apples.jpg",
   },
   {
     id: "7",
@@ -2796,7 +2757,7 @@ export const Grocery = [
     quantity: "400g",
     category: "grocery",
     description: "Healthy whole wheat bread for sandwiches.",
-    imageUrl: "https://example.com/bread.jpg",
+    image: "https://example.com/bread.jpg",
   },
   {
     id: "8",
@@ -2807,7 +2768,7 @@ export const Grocery = [
     quantity: "1 liter",
     category: "grocery",
     description: "Farm-fresh milk for your daily needs.",
-    imageUrl: "https://example.com/milk.jpg",
+    image: "https://example.com/milk.jpg",
   },
   {
     id: "9",
@@ -2818,7 +2779,7 @@ export const Grocery = [
     quantity: "500g",
     category: "grocery",
     description: "Nutrient-rich organic spinach for your salads.",
-    imageUrl: "https://example.com/spinach.jpg",
+    image: "https://example.com/spinach.jpg",
   },
   {
     id: "10",
@@ -2829,7 +2790,7 @@ export const Grocery = [
     quantity: "400g",
     category: "grocery",
     description: "Delicious canned tomato soup for a quick meal.",
-    imageUrl: "https://example.com/tomatosoup.jpg",
+    image: "https://example.com/tomatosoup.jpg",
   },
   {
     id: "11",
@@ -2840,7 +2801,7 @@ export const Grocery = [
     quantity: "250g",
     category: "grocery",
     description: "Freshly ground coffee beans for your morning brew.",
-    imageUrl: "https://example.com/coffee.jpg",
+    image: "https://example.com/coffee.jpg",
   },
   {
     id: "12",
@@ -2851,7 +2812,7 @@ export const Grocery = [
     quantity: "500g",
     category: "grocery",
     description: "Organic quinoa for a healthy and versatile grain.",
-    imageUrl: "https://example.com/quinoa.jpg",
+    image: "https://example.com/quinoa.jpg",
   },
   {
     id: "13",
@@ -2862,7 +2823,7 @@ export const Grocery = [
     quantity: "750ml",
     category: "grocery",
     description: "High-quality extra virgin olive oil for cooking.",
-    imageUrl: "https://example.com/oliveoil.jpg",
+    image: "https://example.com/oliveoil.jpg",
   },
   {
     id: "14",
@@ -2873,7 +2834,7 @@ export const Grocery = [
     quantity: "350g",
     category: "grocery",
     description: "Healthy and natural peanut butter for spreads.",
-    imageUrl: "https://example.com/peanutbutter.jpg",
+    image: "https://example.com/peanutbutter.jpg",
   },
   {
     id: "15",
@@ -2884,7 +2845,7 @@ export const Grocery = [
     quantity: "2 kg",
     category: "grocery",
     description: "Sweet and juicy oranges for a vitamin C boost.",
-    imageUrl: "https://example.com/oranges.jpg",
+    image: "https://example.com/oranges.jpg",
   },
   {
     id: "16",
@@ -2895,7 +2856,7 @@ export const Grocery = [
     quantity: "500g",
     category: "grocery",
     description: "Classic spaghetti pasta for your Italian dishes.",
-    imageUrl: "https://example.com/spaghetti.jpg",
+    image: "https://example.com/spaghetti.jpg",
   },
   {
     id: "17",
@@ -2906,7 +2867,7 @@ export const Grocery = [
     quantity: "500g",
     category: "grocery",
     description: "Organic cucumbers for salads and snacking.",
-    imageUrl: "https://example.com/cucumber.jpg",
+    image: "https://example.com/cucumber.jpg",
   },
   {
     id: "18",
@@ -2917,7 +2878,7 @@ export const Grocery = [
     quantity: "200g",
     category: "grocery",
     description: "Canned tuna for quick and easy protein.",
-    imageUrl: "https://example.com/tuna.jpg",
+    image: "https://example.com/tuna.jpg",
   },
   {
     id: "19",
@@ -2928,7 +2889,7 @@ export const Grocery = [
     quantity: "500g",
     category: "grocery",
     description: "Creamy and natural yogurt for a healthy snack.",
-    imageUrl: "https://example.com/yogurt.jpg",
+    image: "https://example.com/yogurt.jpg",
   },
   {
     id: "20",
@@ -2939,7 +2900,7 @@ export const Grocery = [
     quantity: "1 kg",
     category: "grocery",
     description: "Ripe and juicy tomatoes for cooking and salads.",
-    imageUrl: "https://example.com/tomatoes.jpg",
+    image: "https://example.com/tomatoes.jpg",
   },
   {
     id: "21",
@@ -2950,7 +2911,7 @@ export const Grocery = [
     quantity: "400g",
     category: "grocery",
     description: "Whole wheat pasta for a healthier pasta dish.",
-    imageUrl: "https://example.com/wheatpasta.jpg",
+    image: "https://example.com/wheatpasta.jpg",
   },
   {
     id: "22",
@@ -2961,7 +2922,7 @@ export const Grocery = [
     quantity: "1 kg",
     category: "grocery",
     description: "Organic Honeycrisp apples for a sweet and crisp snack.",
-    imageUrl: "https://example.com/honeycrisp.jpg",
+    image: "https://example.com/honeycrisp.jpg",
   },
   {
     id: "23",
@@ -2972,7 +2933,7 @@ export const Grocery = [
     quantity: "400g",
     category: "grocery",
     description: "Healthy brown bread for your sandwiches.",
-    imageUrl: "https://example.com/brownbread.jpg",
+    image: "https://example.com/brownbread.jpg",
   },
   {
     id: "24",
@@ -2983,7 +2944,7 @@ export const Grocery = [
     quantity: "1 liter",
     category: "grocery",
     description: "Freshly squeezed orange juice for a refreshing drink.",
-    imageUrl: "https://example.com/orangejuice.jpg",
+    image: "https://example.com/orangejuice.jpg",
   },
   {
     id: "25",
@@ -2994,7 +2955,7 @@ export const Grocery = [
     quantity: "250g",
     category: "grocery",
     description: "Organic chia seeds for a nutritious boost.",
-    imageUrl: "https://example.com/chia.jpg",
+    image: "https://example.com/chia.jpg",
   },
   {
     id: "26",
@@ -3005,7 +2966,7 @@ export const Grocery = [
     quantity: "200g",
     category: "grocery",
     description: "Crispy potato chips for snacking.",
-    imageUrl: "https://example.com/potatochips.jpg",
+    image: "https://example.com/potatochips.jpg",
   },
   {
     id: "27",
@@ -3016,7 +2977,7 @@ export const Grocery = [
     quantity: "1 piece",
     category: "grocery",
     description: "Fresh organic avocado for your salads and spreads.",
-    imageUrl: "https://example.com/avocado.jpg",
+    image: "https://example.com/avocado.jpg",
   },
   {
     id: "28",
@@ -3027,7 +2988,7 @@ export const Grocery = [
     quantity: "400g",
     category: "grocery",
     description: "Canned corn for salads and side dishes.",
-    imageUrl: "https://example.com/corn.jpg",
+    image: "https://example.com/corn.jpg",
   },
   {
     id: "29",
@@ -3038,7 +2999,7 @@ export const Grocery = [
     quantity: "350g",
     category: "grocery",
     description: "Organic almond butter for a healthy spread.",
-    imageUrl: "https://example.com/almondbutter.jpg",
+    image: "https://example.com/almondbutter.jpg",
   },
   {
     id: "30",
@@ -3049,7 +3010,7 @@ export const Grocery = [
     quantity: "500g",
     category: "grocery",
     description: "Fresh lemons for cooking and beverages.",
-    imageUrl: "https://example.com/lemons.jpg",
+    image: "https://example.com/lemons.jpg",
   },
 ];
 
@@ -3063,7 +3024,7 @@ export const Sports = [
     category: "sport",
     description:
       "Built with high-quality material and fabric that is so comfortable for your leg.",
-    imageUrl:
+    image:
       "https://assets.sunnewsonline.com/2021/08/1c5b1aa3386eeb2c21d633f04e2ddfbe.jpeg",
   },
   {
@@ -3075,7 +3036,7 @@ export const Sports = [
     category: "sport",
     description:
       "Top-notch running shoes designed for maximum comfort and performance.",
-    imageUrl: "https://example.com/product2.jpg",
+    image: "https://example.com/product2.jpg",
   },
   {
     id: "3",
@@ -3085,7 +3046,7 @@ export const Sports = [
     rating: "4.7",
     category: "sport",
     description: "High-quality yoga mat for your daily practice.",
-    imageUrl: "https://example.com/product3.jpg",
+    image: "https://example.com/product3.jpg",
   },
   {
     id: "4",
@@ -3095,7 +3056,7 @@ export const Sports = [
     rating: "4.6",
     category: "sport",
     description: "Pro-level tennis racket for serious players.",
-    imageUrl: "https://example.com/product4.jpg",
+    image: "https://example.com/product4.jpg",
   },
   {
     id: "5",
@@ -3105,7 +3066,7 @@ export const Sports = [
     rating: "4.5",
     category: "sport",
     description: "Comfortable and stylish basketball shorts for men.",
-    imageUrl: "https://example.com/product5.jpg",
+    image: "https://example.com/product5.jpg",
   },
   {
     id: "6",
@@ -3115,7 +3076,7 @@ export const Sports = [
     rating: "4.4",
     category: "sport",
     description: "Protective gloves for CrossFit workouts.",
-    imageUrl: "https://example.com/product6.jpg",
+    image: "https://example.com/product6.jpg",
   },
   {
     id: "7",
@@ -3125,7 +3086,7 @@ export const Sports = [
     rating: "4.8",
     category: "sport",
     description: "High-quality baseball glove for serious players.",
-    imageUrl: "https://example.com/product7.jpg",
+    image: "https://example.com/product7.jpg",
   },
   {
     id: "8",
@@ -3135,7 +3096,7 @@ export const Sports = [
     rating: "4.7",
     category: "sport",
     description: "Premium badminton racket for precision shots.",
-    imageUrl: "https://example.com/product8.jpg",
+    image: "https://example.com/product8.jpg",
   },
   {
     id: "9",
@@ -3145,7 +3106,7 @@ export const Sports = [
     rating: "4.6",
     category: "sport",
     description: "Durable hiking boots for outdoor adventures.",
-    imageUrl: "https://example.com/product9.jpg",
+    image: "https://example.com/product9.jpg",
   },
   {
     id: "10",
@@ -3155,7 +3116,7 @@ export const Sports = [
     rating: "4.5",
     category: "sport",
     description: "High-performance running shorts for women.",
-    imageUrl: "https://example.com/product10.jpg",
+    image: "https://example.com/product10.jpg",
   },
   {
     id: "11",
@@ -3165,7 +3126,7 @@ export const Sports = [
     rating: "4.8",
     category: "sport",
     description: "Official NBA basketball for serious players.",
-    imageUrl: "https://example.com/product11.jpg",
+    image: "https://example.com/product11.jpg",
   },
   {
     id: "12",
@@ -3175,7 +3136,7 @@ export const Sports = [
     rating: "4.7",
     category: "sport",
     description: "Supportive yoga block for better alignment.",
-    imageUrl: "https://example.com/product12.jpg",
+    image: "https://example.com/product12.jpg",
   },
   {
     id: "13",
@@ -3185,7 +3146,7 @@ export const Sports = [
     rating: "4.6",
     category: "sport",
     description: "Comfortable and stylish running shoes for men.",
-    imageUrl: "https://example.com/product13.jpg",
+    image: "https://example.com/product13.jpg",
   },
   {
     id: "14",
@@ -3195,7 +3156,7 @@ export const Sports = [
     rating: "4.5",
     category: "sport",
     description: "Tennis skirt for women with style and performance.",
-    imageUrl: "https://example.com/product14.jpg",
+    image: "https://example.com/product14.jpg",
   },
   {
     id: "15",
@@ -3205,7 +3166,7 @@ export const Sports = [
     rating: "4.8",
     category: "sport",
     description: "High-quality baseball bat for power hitters.",
-    imageUrl: "https://example.com/product15.jpg",
+    image: "https://example.com/product15.jpg",
   },
   {
     id: "16",
@@ -3215,7 +3176,7 @@ export const Sports = [
     rating: "4.7",
     category: "sport",
     description: "Official volleyball for competitive play.",
-    imageUrl: "https://example.com/product16.jpg",
+    image: "https://example.com/product16.jpg",
   },
   {
     id: "17",
@@ -3225,7 +3186,7 @@ export const Sports = [
     rating: "4.6",
     category: "sport",
     description: "CrossFit shoes for men with durability and support.",
-    imageUrl: "https://example.com/product17.jpg",
+    image: "https://example.com/product17.jpg",
   },
   {
     id: "18",
@@ -3235,7 +3196,7 @@ export const Sports = [
     rating: "4.5",
     category: "sport",
     description: "High-quality soccer ball for women's teams.",
-    imageUrl: "https://example.com/product18.jpg",
+    image: "https://example.com/product18.jpg",
   },
   {
     id: "19",
@@ -3245,7 +3206,7 @@ export const Sports = [
     rating: "4.8",
     category: "sport",
     description: "Softball glove designed for precision fielding.",
-    imageUrl: "https://example.com/product19.jpg",
+    image: "https://example.com/product19.jpg",
   },
   {
     id: "20",
@@ -3255,7 +3216,7 @@ export const Sports = [
     rating: "4.7",
     category: "sport",
     description: "High-quality shuttlecocks for badminton enthusiasts.",
-    imageUrl: "https://example.com/product20.jpg",
+    image: "https://example.com/product20.jpg",
   },
   {
     id: "21",
@@ -3265,7 +3226,7 @@ export const Sports = [
     rating: "4.6",
     category: "sport",
     description: "Durable outdoor jacket for women.",
-    imageUrl: "https://example.com/product21.jpg",
+    image: "https://example.com/product21.jpg",
   },
   {
     id: "22",
@@ -3275,7 +3236,7 @@ export const Sports = [
     rating: "4.5",
     category: "sport",
     description: "Wrestling shoes for men with grip and support.",
-    imageUrl: "https://example.com/product22.jpg",
+    image: "https://example.com/product22.jpg",
   },
   {
     id: "23",
@@ -3285,7 +3246,7 @@ export const Sports = [
     rating: "4.8",
     category: "sport",
     description: "In-ground basketball hoop for serious players.",
-    imageUrl: "https://example.com/product23.jpg",
+    image: "https://example.com/product23.jpg",
   },
   {
     id: "24",
@@ -3295,7 +3256,7 @@ export const Sports = [
     rating: "4.7",
     category: "sport",
     description: "High-quality yoga mat for comfortable practice.",
-    imageUrl: "https://example.com/product24.jpg",
+    image: "https://example.com/product24.jpg",
   },
   {
     id: "25",
@@ -3305,7 +3266,7 @@ export const Sports = [
     rating: "4.6",
     category: "sport",
     description: "Running shoes for women with style and performance.",
-    imageUrl: "https://example.com/product25.jpg",
+    image: "https://example.com/product25.jpg",
   },
   {
     id: "26",
@@ -3315,7 +3276,7 @@ export const Sports = [
     rating: "4.5",
     category: "sport",
     description: "Tennis racket for men with power and control.",
-    imageUrl: "https://example.com/product26.jpg",
+    image: "https://example.com/product26.jpg",
   },
   {
     id: "27",
@@ -3325,7 +3286,7 @@ export const Sports = [
     rating: "4.8",
     category: "sport",
     description: "Baseball glove designed for fielding excellence.",
-    imageUrl: "https://example.com/product27.jpg",
+    image: "https://example.com/product27.jpg",
   },
   {
     id: "28",
@@ -3335,7 +3296,7 @@ export const Sports = [
     rating: "4.7",
     category: "sport",
     description: "Durable soccer ball for recreational play.",
-    imageUrl: "https://example.com/product28.jpg",
+    image: "https://example.com/product28.jpg",
   },
   {
     id: "29",
@@ -3345,7 +3306,7 @@ export const Sports = [
     rating: "4.6",
     category: "sport",
     description: "CrossFit shorts for women with flexibility and style.",
-    imageUrl: "https://example.com/product29.jpg",
+    image: "https://example.com/product29.jpg",
   },
   {
     id: "30",
@@ -3355,6 +3316,6 @@ export const Sports = [
     rating: "4.5",
     category: "sport",
     description: "Soccer cleats for men with traction and control.",
-    imageUrl: "https://example.com/product30.jpg",
+    image: "https://example.com/product30.jpg",
   },
 ];
