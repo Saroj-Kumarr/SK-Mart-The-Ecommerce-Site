@@ -1793,7 +1793,8 @@ export const Shirts = [
     size: "Medium",
     ordered: "130+ people ordered in the last month",
     description: "Striped button-up shirt with a classic design for women.",
-    image: "https://img.freepik.com/free-photo/white-back-sweater_125540-792.jpg?w=996&t=st=1696539924~exp=1696540524~hmac=7780c17ab9cea066770f0784f9e3dfa0d4205bd6a4d90d4a8a8fad9ccd060bda",
+    image:
+      "https://img.freepik.com/free-photo/white-back-sweater_125540-792.jpg?w=996&t=st=1696539924~exp=1696540524~hmac=7780c17ab9cea066770f0784f9e3dfa0d4205bd6a4d90d4a8a8fad9ccd060bda",
   },
   {
     id: "6",
@@ -1840,7 +1841,8 @@ export const Shirts = [
     size: "Medium",
     ordered: "190+ people ordered in the last month",
     description: "Comfortable chambray shirt for women with a relaxed fit.",
-    image: "https://img.freepik.com/free-vector/mans-suit-realistic-composition-with-smart-costume-with-white-shirt-tie-jacket_1284-54345.jpg?w=740&t=st=1696539991~exp=1696540591~hmac=24c79fa4d781e23361eca676a27f6c8e2bca3b1337bdd49159b5eca26294d23d",
+    image:
+      "https://img.freepik.com/free-vector/mans-suit-realistic-composition-with-smart-costume-with-white-shirt-tie-jacket_1284-54345.jpg?w=740&t=st=1696539991~exp=1696540591~hmac=24c79fa4d781e23361eca676a27f6c8e2bca3b1337bdd49159b5eca26294d23d",
   },
   {
     id: "10",
@@ -1936,8 +1938,7 @@ export const Shirts = [
     size: "Small",
     ordered: "170+ people ordered in the last month",
     description: "Peplum blouse with a stylish print for women.",
-    image:
-      "https://m.media-amazon.com/images/I/61VJcIr3n0L._AC_UY1000_.jpg",
+    image: "https://m.media-amazon.com/images/I/61VJcIr3n0L._AC_UY1000_.jpg",
   },
   {
     id: "18",
@@ -1984,7 +1985,8 @@ export const Shirts = [
     size: "Medium",
     ordered: "110+ people ordered in the last month",
     description: "Oversized denim shirt for a relaxed and trendy look.",
-    image: "https://static.zara.net/photos///2023/V/0/3/p/8501/688/250/2/w/824/8501688250_6_2_1.jpg?ts=1674039459723",
+    image:
+      "https://static.zara.net/photos///2023/V/0/3/p/8501/688/250/2/w/824/8501688250_6_2_1.jpg?ts=1674039459723",
   },
   {
     id: "22",
@@ -2008,7 +2010,8 @@ export const Shirts = [
     size: "Small",
     ordered: "120+ people ordered in the last month",
     description: "Versatile long-sleeve tunic for women with a relaxed fit.",
-    image: "https://i5.walmartimages.com/asr/4f47ca96-7b1a-4b14-a70c-ab0f4400da94.8ba13242384612fae57fbeb62e62be00.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF",
+    image:
+      "https://i5.walmartimages.com/asr/4f47ca96-7b1a-4b14-a70c-ab0f4400da94.8ba13242384612fae57fbeb62e62be00.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF",
   },
   {
     id: "24",
@@ -2055,8 +2058,7 @@ export const Shirts = [
     size: "Small",
     ordered: "220+ people ordered in the last month",
     description: "Boho-style lace blouse with intricate details for women.",
-    image:
-      "https://images.meesho.com/images/products/326353038/tcsim_256.webp",
+    image: "https://images.meesho.com/images/products/326353038/tcsim_256.webp",
   },
   {
     id: "28",
@@ -2107,7 +2109,8 @@ export const Shoes = [
     ordered: "450+ people ordered in the last month",
     description:
       "Comfortable sports shoes for men with various sizes available.",
-    image: "",
+    image:
+      "https://img.freepik.com/free-photo/pair-trainers_144627-3799.jpg?w=826&t=st=1696542417~exp=1696543017~hmac=561de983df1565069dc25b72a19fe7ad312551c3f91fce66c83c8e3d2e24f3d4",
   },
   {
     id: "2",
@@ -2119,7 +2122,7 @@ export const Shoes = [
     ordered: "400+ people ordered in the last month",
     description: "High-quality running shoes for women by Nike.",
     image:
-      "",
+      "https://img.freepik.com/free-photo/sport-running-shoes_1203-3414.jpg?w=1060&t=st=1696542442~exp=1696543042~hmac=948f6ea61cad13d49142955a27cc20d10d862a218d9f472e8275864a3f24ab25",
   },
   {
     id: "3",
@@ -2131,7 +2134,7 @@ export const Shoes = [
     ordered: "350+ people ordered in the last month",
     description: "Durable and stylish basketball shoes for men.",
     image:
-      "",
+      "https://img.freepik.com/free-photo/fashion-shoes-sneakers_1203-7528.jpg?w=1060&t=st=1696542482~exp=1696543082~hmac=c9c11a2d1f55528f2f2be709bda21a9e718653b8737274d737bfa1c4f0627ca1",
   },
   {
     id: "4",
@@ -2143,7 +2146,7 @@ export const Shoes = [
     ordered: "320+ people ordered in the last month",
     description: "Versatile yoga and workout shoes for women by Reebok.",
     image:
-      "",
+      "https://img.freepik.com/free-photo/shoes-men-white-top-two_1203-6455.jpg?w=1060&t=st=1696542516~exp=1696543116~hmac=24cf9bcd34c461401c55418d06dd3ea11392b3ccf750e3093aab73eb4d4668a3",
   },
   {
     id: "5",
@@ -2154,7 +2157,8 @@ export const Shoes = [
     size: "10",
     ordered: "380+ people ordered in the last month",
     description: "Cross training shoes designed for men's fitness needs.",
-    image: "",
+    image:
+      "https://img.freepik.com/free-photo/men-shoes_1203-8440.jpg?w=1060&t=st=1696542533~exp=1696543133~hmac=698d75da6b4e21070fa6bf43562c1ea6881c06857dd7ebf6c6bb7c0c95a4facf",
   },
   {
     id: "6",
@@ -2166,7 +2170,8 @@ export const Shoes = [
     ordered: "300+ people ordered in the last month",
     description:
       "Trail running shoes with excellent grip for women by Salomon.",
-    image: "",
+    image:
+      "https://img.freepik.com/free-photo/fashion-shoes_1203-7555.jpg?t=st=1696542482~exp=1696543082~hmac=32cd8826580ccbddb2e08f65395502b2c623b807c2c641dfeee240f6c8c76763",
   },
   {
     id: "7",
@@ -2178,7 +2183,7 @@ export const Shoes = [
     ordered: "280+ people ordered in the last month",
     description: "Soccer cleats designed for men's performance on the field.",
     image:
-      "",
+      "https://img.freepik.com/free-photo/brown-leather-shoes_1203-7613.jpg?t=st=1696542588~exp=1696543188~hmac=fd9794c1a9f0b9197d0aa13eeec25f50af34ca6bf2a14a3bfe6af4ca12fb3b4f",
   },
   {
     id: "8",
@@ -2190,7 +2195,7 @@ export const Shoes = [
     ordered: "260+ people ordered in the last month",
     description: "Durable hiking boots for women by Columbia.",
     image:
-      "",
+      "https://img.freepik.com/free-photo/shoes_1203-8153.jpg?w=1060&t=st=1696542670~exp=1696543270~hmac=be396aa04958b21911b44428e47fb5eaa3d2835efad279005841305f3de5bb00",
   },
   {
     id: "9",
@@ -2202,7 +2207,7 @@ export const Shoes = [
     ordered: "340+ people ordered in the last month",
     description: "Stylish and comfortable skateboarding shoes for men by Vans.",
     image:
-      "",
+      "https://img.freepik.com/free-photo/sport-shoes-running_1203-7549.jpg?w=1060&t=st=1696542686~exp=1696543286~hmac=15f44c98cde15423d4f0fd5cb8da56723376fdbc549c94eb790e1353b7c752d1",
   },
   {
     id: "10",
@@ -2214,7 +2219,7 @@ export const Shoes = [
     ordered: "320+ people ordered in the last month",
     description: "High-performance tennis shoes for women by ASICS.",
     image:
-      "",
+      "https://img.freepik.com/free-photo/men-shoes_1203-8654.jpg?w=1060&t=st=1696542702~exp=1696543302~hmac=0579ff28600e2e6db002df0098f1d631b5979127facb2476aaf3b9f5a933f95e",
   },
   {
     id: "11",
@@ -2227,7 +2232,7 @@ export const Shoes = [
     description:
       "Trail running shoes with superior comfort for men by Merrell.",
     image:
-      "",
+      "https://img.freepik.com/free-photo/brown-leather-shoes_1203-7562.jpg?w=1060&t=st=1696542755~exp=1696543355~hmac=dc887a5d099765af840e29502532f875d4b8e0ea44ffb3838051552cf5ced60e",
   },
   {
     id: "12",
@@ -2239,7 +2244,7 @@ export const Shoes = [
     ordered: "310+ people ordered in the last month",
     description: "Crossfit shoes designed for women's intense workouts.",
     image:
-      "",
+      "https://img.freepik.com/free-photo/brown-leather-shoes_74190-2610.jpg?w=1060&t=st=1696542782~exp=1696543382~hmac=917a9c44df5f41e6222ac5bab30851ebe31c35c94d5380403b801fb781c43e86",
   },
   {
     id: "13",
@@ -2251,7 +2256,7 @@ export const Shoes = [
     ordered: "290+ people ordered in the last month",
     description: "Golf shoes with excellent traction for men by FootJoy.",
     image:
-      "",
+      "https://img.freepik.com/free-photo/men-shoes_1203-8659.jpg?w=1060&t=st=1696542925~exp=1696543525~hmac=ef6ad5b344b1f7c9b231fbc23db13edfbac75889d3adfbffedb0ad16dd3e6e80",
   },
   {
     id: "14",
@@ -2263,7 +2268,7 @@ export const Shoes = [
     ordered: "280+ people ordered in the last month",
     description: "Elegant ballet flats for women by Sam Edelman.",
     image:
-      "",
+      "https://img.freepik.com/free-photo/woman-leather-shoes_1203-8260.jpg?t=st=1696542755~exp=1696543355~hmac=de04ca5ffefa6ca400c7d9815047518eac7fffcaa10257562be0dd06d5f4ea27",
   },
   {
     id: "15",
@@ -2275,7 +2280,7 @@ export const Shoes = [
     ordered: "330+ people ordered in the last month",
     description: "Classic and comfortable casual sneakers for men by Converse.",
     image:
-      "",
+      "https://img.freepik.com/free-photo/men-shoes_1203-8388.jpg?w=1060&t=st=1696542903~exp=1696543503~hmac=48bc170d08b5ae0e652430055b06d04ec99e9054bea6e395d4fd0ae394187f8c",
   },
   {
     id: "16",
@@ -2287,7 +2292,7 @@ export const Shoes = [
     ordered: "270+ people ordered in the last month",
     description: "Stylish ankle boots for women by Steve Madden.",
     image:
-      "",
+      "https://img.freepik.com/free-photo/shoes-men-white-top-two_1203-6455.jpg?t=st=1696542925~exp=1696543525~hmac=767bcb1425b846170fd686f5275296961777afaac10ad025ac48539edbf453e7",
   },
   {
     id: "17",
@@ -2299,7 +2304,7 @@ export const Shoes = [
     ordered: "350+ people ordered in the last month",
     description: "High-performance running sneakers for men by Saucony.",
     image:
-      "",
+      "https://img.freepik.com/free-photo/modern-clothing-beauty-business-top_1203-6452.jpg?w=1060&t=st=1696542944~exp=1696543544~hmac=29d1f6247b32636c010791ed4302bfd8519f06b2cfd517a52e212debb27d4086",
   },
   {
     id: "18",
@@ -2311,7 +2316,7 @@ export const Shoes = [
     ordered: "300+ people ordered in the last month",
     description: "Stylish espadrille wedges for women by TOMS.",
     image:
-      "",
+      "https://img.freepik.com/free-photo/background-red-retro-model-tennis_1203-3993.jpg?w=1060&t=st=1696542997~exp=1696543597~hmac=9492d3a44b942b70334da7a4f6dd1d01a0127e72d11b4cb61d917cf9806cd587",
   },
   {
     id: "19",
@@ -2323,7 +2328,7 @@ export const Shoes = [
     ordered: "290+ people ordered in the last month",
     description: "Luxurious dress loafers for men by Gucci.",
     image:
-      "",
+      "https://img.freepik.com/free-photo/leather-boots_1203-8147.jpg?w=1060&t=st=1696543208~exp=1696543808~hmac=dac1319ee60fa830d6e707a2dc1fab36554d92243940ffeb50a7943c78c4f181",
   },
   {
     id: "20",
@@ -2336,7 +2341,7 @@ export const Shoes = [
     description:
       "Iconic red-soled high heel pumps for women by Christian Louboutin.",
     image:
-      "",
+      "https://img.freepik.com/free-photo/brown-shoes-isolated-white-background_268835-1352.jpg?w=1060&t=st=1696543293~exp=1696543893~hmac=f9d52fcd6f44eb8a606281c0acaee2e6f45765313f5bf812ed88dd2cc04f9a93",
   },
   {
     id: "21",
@@ -2348,7 +2353,7 @@ export const Shoes = [
     ordered: "320+ people ordered in the last month",
     description: "Classic Chelsea boots for men by Clarks.",
     image:
-      "",
+      "https://img.freepik.com/free-photo/pair-trainers_144627-3809.jpg?w=740&t=st=1696543151~exp=1696543751~hmac=44a279c7c552ea6a61ceeede0c6d7abf91953eaf167bffde45dda8377f102c0b",
   },
   {
     id: "22",
@@ -2360,7 +2365,7 @@ export const Shoes = [
     ordered: "340+ people ordered in the last month",
     description: "Comfortable wedge sandals for women by UGG.",
     image:
-      "",
+      "https://img.freepik.com/free-photo/new-pair-white-sneakers-isolated-white_93675-133037.jpg?w=996&t=st=1696543461~exp=1696544061~hmac=dd100a8e58d1ec749ae0244b30b2370de90507ffcea4bbf474b9a4077735c0b8",
   },
   {
     id: "23",
@@ -2372,7 +2377,7 @@ export const Shoes = [
     ordered: "280+ people ordered in the last month",
     description: "Elegant Oxford shoes for men by Cole Haan.",
     image:
-      "",
+      "https://img.freepik.com/free-photo/brown-leather-slip-men-s-shoes-fashion_53876-104481.jpg?w=996&t=st=1696543389~exp=1696543989~hmac=159d0d7fab67fbb2888390b702568353bbc601016ce555f94fe27ab6ae551e31",
   },
   {
     id: "24",
@@ -2383,7 +2388,8 @@ export const Shoes = [
     size: "8",
     ordered: "310+ people ordered in the last month",
     description: "Convenient slip-on sneakers for women by Skechers.",
-    image: "",
+    image:
+      "https://img.freepik.com/free-photo/men-shoes_1203-8694.jpg?w=1060&t=st=1696543518~exp=1696544118~hmac=b78561412267602906e9d5a70be64c76a53cce68dd88217ba907fb12b21395d4",
   },
   {
     id: "25",
@@ -2394,7 +2400,8 @@ export const Shoes = [
     size: "10.5",
     ordered: "350+ people ordered in the last month",
     description: "Classic boat shoes for men by Sperry.",
-    image: "",
+    image:
+      "https://img.freepik.com/free-vector/realistic-pare-black-shiny-leather-male-shoes-isolated-white-background-vector-illustration_1284-81463.jpg?w=740&t=st=1696543496~exp=1696544096~hmac=a01d4b394666efbb3784032dd560a5aade9465ae7ee5d7dacc0ba66320821cca",
   },
   {
     id: "26",
@@ -2406,7 +2413,7 @@ export const Shoes = [
     ordered: "300+ people ordered in the last month",
     description: "Cozy moccasin slippers for women by Minnetonka.",
     image:
-      "",
+      "https://img.freepik.com/free-photo/men-shoes_1203-8429.jpg?w=1060&t=st=1696543546~exp=1696544146~hmac=6c3da988442a2d06cc34dd5597319754c440b9e20914c1f420b8175bbc4fc10c",
   },
   {
     id: "27",
@@ -2418,7 +2425,7 @@ export const Shoes = [
     ordered: "320+ people ordered in the last month",
     description: "Comfortable loafer shoes for men by Hush Puppies.",
     image:
-      "",
+      "https://img.freepik.com/free-photo/brown-shoes-isolated-white-background-studio_268835-1354.jpg?w=1060&t=st=1696543827~exp=1696544427~hmac=a3ca2b87b321df9e6b82fbaf881e6fbe807ce6d802e1e562da6d5fc501a4762f",
   },
   {
     id: "28",
@@ -2430,7 +2437,7 @@ export const Shoes = [
     ordered: "310+ people ordered in the last month",
     description: "Durable rain boots for women by Hunter.",
     image:
-      "",
+      "https://img.freepik.com/free-photo/red-leather-shoes-stand-light-wooden-floor_8353-691.jpg?w=1060&t=st=1696543858~exp=1696544458~hmac=c31e5b1f0c63382b523cd11c4deaa8be6096bfde1df2a053ebdf717887c89ec7",
   },
   {
     id: "29",
@@ -2442,7 +2449,7 @@ export const Shoes = [
     ordered: "340+ people ordered in the last month",
     description: "Comfortable sandals for men by Birkenstock.",
     image:
-      "",
+      "https://img.freepik.com/free-photo/brown-leather-shoes_1203-8174.jpg?w=1060&t=st=1696543888~exp=1696544488~hmac=073760a8b862fe4f6ad77c0c54598ea8f6c67c5666448a9e5eadb6820ea188e5",
   },
   {
     id: "30",
@@ -2453,7 +2460,8 @@ export const Shoes = [
     size: "7.5",
     ordered: "330+ people ordered in the last month",
     description: "Warm and waterproof snow boots for women by Columbia.",
-    image: "",
+    image:
+      "https://img.freepik.com/free-photo/black-leather-shoes_1203-8181.jpg?w=1060&t=st=1696543905~exp=1696544505~hmac=8b11927f773fc7dd71fb80b13eb73089c93044522aaed3b4ec7436f2e4c14d7f",
   },
 ];
 
