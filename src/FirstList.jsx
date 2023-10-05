@@ -21,7 +21,7 @@ function FirstList() {
 
   return (
     <>
-    <h1 className="bg-slate-200 h-[1px] mt-10"></h1>
+    <h1 className="bg-slate-200 h-[1px] m-6 mt-10"></h1>
     <div className="flex mb-10 p-4 mt-10">
       <button
         onClick={() => {

@@ -29,14 +29,14 @@ function App() {
       <Navbar />
       <ZeroList /> 
       
-      <BodyFirst />
+      {/* <BodyFirst />
       <FirstList />
       <hr />
       <SecondList />
       <ThirdList />
       <FourthList />
       <FifthList /> 
-       <Footer/>
+       <Footer/> */}
       <MobilePage />
     </div>
   );

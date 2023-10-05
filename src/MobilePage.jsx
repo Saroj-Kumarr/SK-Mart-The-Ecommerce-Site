@@ -43,7 +43,7 @@ function MobilePage() {
             setSearchText(e.target.value);
           }}
         />
-        
+
         <datalist id="mobiles">
           <option value="4 GB" />
           <option value="8 GB" />

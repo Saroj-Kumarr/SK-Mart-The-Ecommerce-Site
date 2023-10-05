@@ -50,6 +50,7 @@ function ZeroList() {
   ];
 
   return (
+    <>
     <div className="flex m-6">
       {List.map(({ name, image }) => {
         return (
@@ -63,6 +64,8 @@ function ZeroList() {
         );
       })}
     </div>
+    <h1 className="bg-slate-200 h-[1px] m-6"></h1>
+    </>
   );
 }
 

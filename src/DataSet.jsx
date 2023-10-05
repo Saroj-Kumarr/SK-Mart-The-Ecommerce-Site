@@ -558,7 +558,8 @@ export const Laptops = [
     rating: "4.5",
     description:
       "Powerful laptop with Intel Core i7 processor and a 15.6-inch Full HD display.",
-    image: "https://example.com/dell-inspiron-15.jpg",
+    image:
+      "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/inspiron-notebooks/15-3535-amd/spi/plastic/black/ng/notebook-inspiron-15-3535-plastic-black-campaign-hero-504x350-ng.psd?fmt=jpg&wid=570&hei=400",
     category: "Laptop",
     brand: "Dell",
     ram: "16 GB",
@@ -574,7 +575,7 @@ export const Laptops = [
     rating: "4.7",
     description:
       "Convertible laptop with a stunning 4K OLED display and powerful performance.",
-    image: "https://example.com/hp-spectre-x360.jpg",
+    image: "https://m.media-amazon.com/images/I/81zr9PW9YtS.jpg",
     category: "Laptop",
     brand: "HP",
     ram: "16 GB",
@@ -590,7 +591,7 @@ export const Laptops = [
     rating: "4.6",
     description:
       "Ultra-light and durable laptop with a 14-inch WQHD display and great keyboard.",
-    image: "https://example.com/lenovo-thinkpad-x1.jpg",
+    image: "https://m.media-amazon.com/images/I/71wJJL7q8nL.jpg",
     category: "Laptop",
     brand: "Lenovo",
     ram: "8 GB",
@@ -606,7 +607,7 @@ export const Laptops = [
     rating: "4.5",
     description:
       "Gaming laptop with a high-refresh-rate display and powerful NVIDIA GeForce RTX graphics.",
-    image: "https://example.com/acer-predator-helios.jpg",
+    image: "https://m.media-amazon.com/images/I/4171S5t64vS._AC_SS300_.jpg",
     category: "Gaming Laptop",
     brand: "Acer",
     ram: "16 GB",
@@ -622,7 +623,8 @@ export const Laptops = [
     rating: "4.8",
     description:
       "Sleek and lightweight laptop with Apple's M1 chip and Retina display.",
-    image: "https://example.com/apple-macbook-air.jpg",
+    image:
+      "https://www.apple.com/newsroom/images/product/mac/standard/Apple_new-macbookair-wallpaper-screen_11102020_big.jpg.large.jpg",
     category: "Laptop",
     brand: "Apple",
     ram: "8 GB",
@@ -638,7 +640,8 @@ export const Laptops = [
     rating: "4.7",
     description:
       "Premium Windows laptop with a high-resolution PixelSense touchscreen.",
-    image: "https://example.com/microsoft-surface-laptop.jpg",
+    image:
+      "https://www.notebookcheck.net/fileadmin/Notebooks/Microsoft/Surface_Laptop_4_13_i7/IMG_0721.JPG",
     category: "Laptop",
     brand: "Microsoft",
     ram: "16 GB",
@@ -654,7 +657,8 @@ export const Laptops = [
     rating: "4.9",
     description:
       "Premium gaming laptop with a 4K OLED display and NVIDIA RTX 30 series graphics.",
-    image: "https://example.com/razer-blade-15.jpg",
+    image:
+      "https://5.imimg.com/data5/SELLER/Default/2021/1/OZ/AP/BY/10759647/razer-blade-15-base-15-6-gaming-laptop-core-i7-16gb-nvidia-geforce-rtx-2060-512gb-ssd-black-500x500.jpg",
     category: "Gaming Laptop",
     brand: "Razer",
     ram: "32 GB",
@@ -670,7 +674,7 @@ export const Laptops = [
     rating: "4.2",
     description:
       "Affordable Chromebook with a 14-inch Full HD display and long battery life.",
-    image: "https://example.com/acer-chromebook-14.jpg",
+    image: "https://m.media-amazon.com/images/I/71Erq-PlhhL.jpg",
     category: "Chromebook",
     brand: "Acer",
     ram: "4 GB",
@@ -686,7 +690,7 @@ export const Laptops = [
     rating: "4.6",
     description:
       "High-performance gaming laptop with NVIDIA RTX graphics and fast refresh rate.",
-    image: "https://example.com/hp-omen-15.jpg",
+    image: "https://m.media-amazon.com/images/I/81gK0I7rkvL._AC_SS300_.jpg",
     category: "Gaming Laptop",
     brand: "HP",
     ram: "16 GB",
@@ -702,7 +706,8 @@ export const Laptops = [
     rating: "4.7",
     description:
       "Compact and powerful laptop with a stunning InfinityEdge display.",
-    image: "https://example.com/dell-xps-13.jpg",
+    image:
+      "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/xps-notebooks/xps-13-9320/media-gallery/xs9320nt-xnb-shot-5-1-sl.psd?fmt=pjpg&pscan=auto&scl=1&wid=3782&hei=2988&qlt=100,1&resMode=sharp2&size=3782,2988&chrss=full&imwidth=5000",
     category: "Laptop",
     brand: "Dell",
     ram: "16 GB",
@@ -718,7 +723,8 @@ export const Laptops = [
     rating: "4.5",
     description:
       "2-in-1 laptop with a 4K touchscreen and integrated stylus for creative tasks.",
-    image: "https://example.com/lenovo-yoga-c930.jpg",
+    image:
+      "https://p1-ofp.static.pub/medias/bWFzdGVyfHJvb3R8MTAwMTQxfGltYWdlL2pwZ3xoMDAvaDk2Lzk4MzI3MjM1MTMzNzQuanBnfDAwYzZlNzQ0OTBlNDMxNzYyZDBhZTMwMjg3ODFiNmMyZWI0MzE0NDIyZDEwYzFjMDA3ZWQ0NGI1MWUzMzEyYWY/lenovo-laptop-yoga-c930-glass-4.jpg",
     category: "2-in-1 Laptop",
     brand: "Lenovo",
     ram: "16 GB",
@@ -734,7 +740,7 @@ export const Laptops = [
     rating: "4.5",
     description:
       "Slim and lightweight laptop with a Super AMOLED display and S Pen support.",
-    image: "https://example.com/samsung-galaxy-book-pro.jpg",
+    image: "https://m.media-amazon.com/images/I/81sdLAtiPtS.jpg",
     category: "Laptop",
     brand: "Samsung",
     ram: "8 GB",
@@ -750,7 +756,8 @@ export const Laptops = [
     rating: "4.8",
     description:
       "High-end gaming laptop with a 240Hz display and NVIDIA RTX 30 series graphics.",
-    image: "https://example.com/msi-gs66-stealth.jpg",
+    image:
+      "https://www.msi.dotcomstores.in/wp-content/uploads/2023/07/game.jpg",
     category: "Gaming Laptop",
     brand: "MSI",
     ram: "32 GB",
@@ -766,7 +773,8 @@ export const Laptops = [
     rating: "4.3",
     description:
       "Sleek and lightweight Chromebook with a high-resolution touchscreen.",
-    image: "https://example.com/google-pixelbook-go.jpg",
+    image:
+      "https://5.imimg.com/data5/SELLER/Default/2021/8/YE/LY/KA/11078779/google-pixel-book-go.jpg",
     category: "Chromebook",
     brand: "Google",
     ram: "8 GB",
@@ -782,7 +790,8 @@ export const Laptops = [
     rating: "4.9",
     description:
       "Premium gaming laptop with Alienware's signature design and high-refresh-rate display.",
-    image: "https://example.com/alienware-m15.jpg",
+    image:
+      "https://images.hothardware.com/contentimages/newsitem/55062/content/4x3_1600x1200_highres-m15_R6_open_right_angled.jpg",
     category: "Gaming Laptop",
     brand: "Alienware",
     ram: "32 GB",
@@ -798,7 +807,8 @@ export const Laptops = [
     rating: "4.7",
     description:
       "Ultrabook with a 13.4-inch 4K touchscreen and Intel Evo platform for enhanced performance.",
-    image: "https://example.com/razer-book-13.jpg",
+    image:
+      "https://www.techspot.com/articles-info/2223/images/razer-book-15.jpg",
     category: "Ultrabook",
     brand: "Razer",
     ram: "16 GB",
@@ -814,7 +824,8 @@ export const Laptops = [
     rating: "4.5",
     description:
       "Ultralight laptop with a 14-inch Full HD display and long battery life.",
-    image: "https://example.com/acer-swift-5.jpg",
+    image:
+      "https://img1.gadgetsnow.com/gd/images/products/original/G334315.jpg",
     category: "Ultrabook",
     brand: "Acer",
     ram: "16 GB",
@@ -830,7 +841,8 @@ export const Laptops = [
     rating: "4.6",
     description:
       "Ultra-lightweight laptop with a 17-inch WQXGA display and long-lasting battery.",
-    image: "https://example.com/lg-gram-17.jpg",
+    image:
+      "https://www.lg.com/in/images/computers/md07571038/gallery/17Z90R-G-Laptop-front-view-with-keyboard-D-02.jpg",
     category: "Ultrabook",
     brand: "LG",
     ram: "16 GB",
@@ -846,7 +858,8 @@ export const Laptops = [
     rating: "4.7",
     description:
       "High-performance gaming laptop with a 16-inch QHD display and NVIDIA RTX 30 series graphics.",
-    image: "https://example.com/lenovo-legion-5-pro.jpg",
+    image:
+      "https://www.lenovo.com/medias/lenovo-laptops-legion-5-pro-gen-7-16-amd-hero.png?context=bWFzdGVyfHJvb3R8Mjk2NDEyfGltYWdlL3BuZ3xoNjcvaDE3LzE0ODAwNzA5MDU4NTkwLnBuZ3w4NTU4Y2E0NGI2NGMxYzI5ZWZhMGZmMzdhZGU4ZDgxNDE0MmU3MTcwM2NlODk4Yzk5YzA2ODNjMTU0YmMzNThl",
     category: "Gaming Laptop",
     brand: "Lenovo",
     ram: "32 GB",
@@ -862,7 +875,8 @@ export const Laptops = [
     rating: "4.6",
     description:
       "Premium ultrabook with a 13.9-inch 3K touchscreen and powerful performance.",
-    image: "https://example.com/huawei-matebook-x-pro.jpg",
+    image:
+      "https://consumer.huawei.com/content/dam/huawei-cbg-site/cee-nordics/common/mkt/pdp/laptops/matebook-x-pro-2023-13th-gen-core/list/blue.png",
     category: "Ultrabook",
     brand: "Huawei",
     ram: "16 GB",
@@ -878,7 +892,8 @@ export const Laptops = [
     rating: "4.8",
     description:
       "Top-of-the-line gaming laptop with a 17.3-inch 360Hz display and powerful graphics.",
-    image: "https://example.com/dell-alienware-x17.jpg",
+    image:
+      "https://rukminim2.flixcart.com/image/850/1000/xif0q/computer/x/s/g/alienware-x17-r1-gaming-laptop-dell-original-imagjwuydgaedekm.jpeg?q=90",
     category: "Gaming Laptop",
     brand: "Dell",
     ram: "32 GB",
@@ -894,7 +909,8 @@ export const Laptops = [
     rating: "4.7",
     description:
       "Premium ultrabook with a 14-inch 4K touchscreen and sleek design.",
-    image: "https://example.com/sony-vaio-z.jpg",
+    image:
+      "https://www.trustedreviews.com/wp-content/uploads/sites/54/2008/11/9153-img6892s-1.jpg",
     category: "Ultrabook",
     brand: "Sony",
     ram: "16 GB",
@@ -910,7 +926,7 @@ export const Laptops = [
     rating: "4.3",
     description:
       "Affordable laptop with a 15.6-inch Full HD display and AMD Ryzen processor.",
-    image: "https://example.com/acer-aspire-5.jpg",
+    image: "https://m.media-amazon.com/images/I/71vvXGmdKWL.jpg",
     category: "Laptop",
     brand: "Acer",
     ram: "8 GB",
@@ -926,7 +942,8 @@ export const Laptops = [
     rating: "4.7",
     description:
       "Creative laptop with a 16-inch 4K touchscreen and NVIDIA RTX 30 series graphics.",
-    image: "https://example.com/msi-creator-z16.jpg",
+    image:
+      "https://rukminim1.flixcart.com/image/850/1000/kv8fbm80/computer/6/p/u/creator-z16-a11uet-gaming-laptop-msi-original-imag86cyw2fhuzf8.jpeg?q=90",
     category: "Laptop",
     brand: "MSI",
     ram: "32 GB",
@@ -942,7 +959,8 @@ export const Laptops = [
     rating: "4.2",
     description:
       "Budget-friendly laptop with a 14-inch HD display and AMD Ryzen processor.",
-    image: "https://example.com/lenovo-ideapad-3.jpg",
+    image:
+      "https://www.lenovo.com/medias/lenovo-laptop-ideapad-3-15-intel-hero.png?context=bWFzdGVyfHJvb3R8MjczNzUyfGltYWdlL3BuZ3xoMGQvaDYxLzE0MTkwNTI5Njc1Mjk0LnBuZ3xmYTMyYzBlZmE5NTcyNzAyMTZhZmJlMmFmOTVjMmZmYTM4ZTdjNWFiZWM0YzE5YWQ2YzcxNmM3OTE2MThjZmE4",
     category: "Laptop",
     brand: "Lenovo",
     ram: "4 GB",
@@ -958,7 +976,8 @@ export const Laptops = [
     rating: "4.4",
     description:
       "Convertible laptop with a 15.6-inch Full HD touchscreen and AMD Ryzen processor.",
-    image: "https://example.com/hp-envy-x360.jpg",
+    image:
+      "https://www.ubuy.co.in/productimg/?image=aHR0cHM6Ly9pbWFnZXMtY2RuLnVidXkuY28uaW4vNjMzYjE5YjRjNDdkNDQyOWRmNTFmOGFkLWhwLXgzNjAtMi0xLmpwZw.jpg",
     category: "2-in-1 Laptop",
     brand: "HP",
     ram: "8 GB",
@@ -974,7 +993,8 @@ export const Laptops = [
     rating: "4.6",
     description:
       "Workstation laptop with a 17-inch 4K touchscreen and powerful performance.",
-    image: "https://example.com/dell-precision-5750.jpg",
+    image:
+      "https://www.digitalengineering247.com/images/article/DE2010_Review_Dell5750_Fig01_475.jpg",
     category: "Workstation Laptop",
     brand: "Dell",
     ram: "32 GB",
@@ -990,7 +1010,7 @@ export const Laptops = [
     rating: "4.8",
     description:
       "Slim gaming laptop with a 15.6-inch 360Hz display and NVIDIA RTX 30 series graphics.",
-    image: "https://example.com/acer-predator-triton-500.jpg",
+    image: "https://m.media-amazon.com/images/I/71ztiDRipGL.jpg",
     category: "Gaming Laptop",
     brand: "Acer",
     ram: "32 GB",
@@ -1006,7 +1026,8 @@ export const Laptops = [
     rating: "4.9",
     description:
       "Professional-grade laptop with a 16-inch 4K display and Apple M1 Pro chip.",
-    image: "https://example.com/apple-macbook-pro-16.jpg",
+    image:
+      "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/mbp16-spacegray-select-202301?wid=904&hei=840&fmt=jpeg&qlt=90&.v=1671304673202",
     category: "Laptop",
     brand: "Apple",
     ram: "32 GB",
@@ -1027,7 +1048,7 @@ export const Watches = [
     rating: "4.4",
     display: "3.4 inch FHD+",
     image:
-      "https://www.fnp.com/images/pr/l/v20210613005057/sonata-white-dial-golden-strap-mens-watch_1.jpg",
+      "https://rukminim2.flixcart.com/image/850/1000/xif0q/watch/h/r/q/-original-imagqfu2dehjbwmb.jpeg?q=90",
   },
   {
     id: "2",
@@ -1038,7 +1059,7 @@ export const Watches = [
     rating: "4.2",
     display: "2.5 inch HD",
     image:
-      "https://www.timex.com/on/demandware.static/-/Sites-timex_us-Library/default/dw717b10c2/images/2019/q4/b/leather-strap-watches.jpg",
+      "https://slimages.macysassets.com/is/image/MCY/products/7/optimized/15102717_fpx.tif?op_sharpen=1&wid=700&hei=855&fit=fit,1",
   },
   {
     id: "3",
@@ -1048,7 +1069,7 @@ export const Watches = [
     description: "A beautiful rose gold watch with a sleek design",
     rating: "4.6",
     display: "3.0 inch AMOLED",
-    image: "https://images.fossil.com/is/image/FossilPartners/ES5070_main",
+    image: "https://m.media-amazon.com/images/I/51CCAsqrQNL._SL1500_.jpg",
   },
   {
     id: "4",
@@ -1058,7 +1079,8 @@ export const Watches = [
     description: "A digital sports watch with multiple features",
     rating: "4.0",
     display: "2.8 inch LCD",
-    image: "https://www.casio.com/products/watches/g-shock/ga2100-1a1",
+    image:
+      "https://img1.exportersindia.com/product_images/bc-full/dir_87/2585232/fujicell-sports-digital-analog-watches-from-japan-1485151432-2696984.jpeg",
   },
   {
     id: "5",
@@ -1091,7 +1113,7 @@ export const Watches = [
     rating: "4.8",
     display: "3.5 inch Sapphire",
     image:
-      "https://www.rolex.com/content/dam/rolexcom/products/watches/2021/yacht-master/m226659-0002/m226659-0002__png_m.png",
+      "https://rukminim2.flixcart.com/image/850/1000/keaaavk0/smart-band-tag/6/d/z/no-fp04-fitness-tracker-with-free-diet-and-fitness-plan-yes-original-imafuzzrsjnuskxj.jpeg?q=90",
   },
   {
     id: "8",
@@ -1102,7 +1124,7 @@ export const Watches = [
     rating: "4.7",
     display: "3.2 inch Super-LumiNova",
     image:
-      "https://www.tagheuer.com/sites/default/files/styles/featured_large/public/2022-05/127764_News_Aquaracer_Professional_300_-_with_product_product_SPF.jpg",
+      "https://cdn4.ethoswatches.com/the-watch-guide/wp-content/uploads/2020/08/Masthead-Mobile@2x-2.jpg",
   },
   {
     id: "9",
@@ -1112,7 +1134,8 @@ export const Watches = [
     description: "A smart sports watch with GPS and heart rate monitoring",
     rating: "4.2",
     display: "2.4 inch Touchscreen",
-    image: "https://buy.garmin.com/en-US/US/images/spotlight/fenix5.jpg",
+    image:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSC4nHJ18xY9sgF7RayW74QSMJsPUbjzyVy4NwLwQr5fMSIRDdv6UOqDBsH869nN_kBgw&usqp=CAU",
   },
   {
     id: "10",
@@ -1134,7 +1157,7 @@ export const Watches = [
     rating: "4.1",
     display: "2.2 inch Transflective",
     image:
-      "https://www.suunto.com/__/media/suunto/products/productpages/suunto7/Suunto-7_WhiteSide_2020_HiRes-min.jpg",
+      "https://www.garmin.co.in/m/in/g/products/instinct-solar-red-cf-lg.jpg",
   },
   {
     id: "12",
@@ -1154,8 +1177,8 @@ export const Watches = [
     brand: "Movado",
     description: "A minimalist leather watch with a sleek black dial",
     rating: "4.3",
-    display: "2.5 inch Analog",
-    image: "https://images.movado.com/is/image/Movado/3600302_movado-main",
+    display:
+      "https://img.freepik.com/free-photo/stylish-golden-watch-white-surface_181624-27078.jpg?w=740&t=st=1696533635~exp=1696534235~hmac=63e78857710a9dffb4e8f77d7de961f7232f8dbbd4e8c5ae1d68a5c6540b2f66",
   },
   {
     id: "14",
@@ -1166,7 +1189,7 @@ export const Watches = [
     rating: "4.5",
     display: "2.8 inch Eco-Drive",
     image:
-      "https://www.citizenwatch.com/content/dam/citizenwatch/us/products/military/aw1465-06h/e_aw1465-06h_l.png",
+      "https://img.freepik.com/free-photo/closeup-shot-golden-watch-isolated_181624-28492.jpg?w=740&t=st=1696533676~exp=1696534276~hmac=7dccdd2346a13f6e6a363805db9797cd462b4fc98d3ccac9f310d42794a449aa",
   },
   {
     id: "15",
@@ -1177,7 +1200,7 @@ export const Watches = [
     rating: "4.4",
     display: "2.9 inch Super AMOLED",
     image:
-      "https://images.samsung.com/is/image/samsung/p6pim/latin/3y-stationary/438091/438091-th-harga-TH-160545055?$FB_TYPE_A_JPG$",
+      "https://img.freepik.com/free-vector/round-wall-quartz-clock-red-color-isolated-white-background_1284-51545.jpg?w=740&t=st=1696533708~exp=1696534308~hmac=81faf1a30a12bdcff69776cc8232d50685b8d983dd7ce81ad6c55e1f4d0e7e9a",
   },
   {
     id: "16",
@@ -1187,8 +1210,8 @@ export const Watches = [
     description:
       "A skeletonized mechanical watch with a clear view of the movement",
     rating: "4.2",
-    display: "2.6 inch Skeleton",
-    image: "https://bulova.scene7.com/is/image/Bulova/96A199_001?$ddlarge$",
+    display:
+      "https://img.freepik.com/free-vector/smart-watch-realistic-image-black_1284-11873.jpg?w=740&t=st=1696533755~exp=1696534355~hmac=6f029f873f22e91660309934d6cee867e58840a82b23ce1d648ab349882f6260",
   },
   {
     id: "17",
@@ -1198,7 +1221,8 @@ export const Watches = [
     description: "A rugged digital camo sports watch with shock resistance",
     rating: "4.0",
     display: "2.8 inch LCD",
-    image: "https://www.casio.com/products/watches/g-shock/gd120cm-5",
+    image:
+      "https://img.freepik.com/free-vector/realistic-fitness-trackers_23-2148530529.jpg?w=740&t=st=1696533775~exp=1696534375~hmac=7680c6c3cf3db63282458a9ebb5840b8f8f8e9061d5ca15b40e8082e923ddc55",
   },
   {
     id: "18",
@@ -1209,7 +1233,7 @@ export const Watches = [
     rating: "4.5",
     display: "2.7 inch Analog",
     image:
-      "https://www.hamiltonwatch.com/media/catalog/product/cache/8e8b33e34f75ed6312d30d3d4f7b8ce8/H_384110003.jpg",
+      "https://img.freepik.com/free-vector/realistic-fitness-trackers_23-2148515661.jpg?w=740&t=st=1696533791~exp=1696534391~hmac=72fe253a91f605a948d46e7789a8265886cc3fe5acf22dcc17ef0a1661c3b4e8",
   },
   {
     id: "19",
@@ -1220,7 +1244,7 @@ export const Watches = [
     rating: "4.2",
     display: "1.2 inch Color LCD",
     image:
-      "https://buy.garmin.com/en-US/US/images/spotlight/vivofitjr4/vivofit-jr4.jpg",
+      "https://img.freepik.com/free-vector/realistic-fitness-tracker-bracelet-illustration_23-2148555260.jpg?w=740&t=st=1696533828~exp=1696534428~hmac=cdfc73428c29d7cd657c40de8bf93a726570e716c470e13c78f788b5962b08d1",
   },
   {
     id: "20",
@@ -1230,7 +1254,8 @@ export const Watches = [
     description: "A women's watch with a rose gold finish and crystal accents",
     rating: "4.3",
     display: "2.0 inch Analog",
-    image: "https://images.fossil.com/is/image/FossilPartners/ES4942_main",
+    image:
+      "https://img.freepik.com/free-photo/elegant-watch-with-silver-golden-chain-isolated_181624-27080.jpg?w=740&t=st=1696533860~exp=1696534460~hmac=d63ed51281f35d9f56181c1d4172849031088eea332ed3944bdb4d862f2755e3",
   },
   {
     id: "21",
@@ -1242,7 +1267,7 @@ export const Watches = [
     rating: "4.7",
     display: "3.2 inch Eco-Drive",
     image:
-      "https://www.citizenwatch.com/content/dam/citizenwatch/us/products/military/bn0191-80l/e_bn0191-80l_l.png",
+      "https://img.freepik.com/free-vector/realistic-fitness-trackers_23-2148530530.jpg?w=740&t=st=1696533810~exp=1696534410~hmac=b1b134a47a6dffa7ded6ab7c3c94b54a3d103a0cca7cd813b61aaa099a184d5b",
   },
   {
     id: "22",
@@ -1254,7 +1279,7 @@ export const Watches = [
     rating: "4.2",
     display: "1.8 inch OLED",
     image:
-      "https://www.fitbit.com/global/content/dam/fitbit/global/pdp/watches/versa4/landing-5/promo-carousel/launch/night-shade/night-shade-drawer-2-2x.jpg",
+      "https://img.freepik.com/free-photo/closeup-shot-golden-watch-isolated_181624-28492.jpg?w=740&t=st=1696533676~exp=1696534276~hmac=7dccdd2346a13f6e6a363805db9797cd462b4fc98d3ccac9f310d42794a449aa",
   },
   {
     id: "23",
@@ -1265,7 +1290,7 @@ export const Watches = [
     rating: "4.4",
     display: "2.5 inch Analog",
     image:
-      "https://www.tissotwatches.com/media/catalog/product/cache/8e8b33e34f75ed6312d30d3d4f7b8ce8/H_T0704051641100.png",
+      "https://img.freepik.com/free-vector/alarm-clock-concept-illustration_114360-14276.jpg?w=740&t=st=1696533929~exp=1696534529~hmac=8fc8a37620b8db327dca42093eb2ef3194e13afcdbb829b13d38927e60e7f69c",
   },
   {
     id: "24",
@@ -1287,7 +1312,8 @@ export const Watches = [
       "A digital sports watch with rugged design and water resistance",
     rating: "4.0",
     display: "2.8 inch LCD",
-    image: "https://www.casio.com/products/watches/g-shock/gd350-1b",
+    image:
+      "https://img.freepik.com/free-photo/classic-alarm-clock_74190-5691.jpg?t=st=1696501393~exp=1696501993~hmac=8e0e33adec042f587fd237c1650e2fc0e1f7635d398bc80ee5c582e6ef431cec",
   },
   {
     id: "26",
@@ -1298,7 +1324,7 @@ export const Watches = [
     rating: "4.5",
     display: "2.7 inch Analog",
     image:
-      "https://www.seikousa.com/dw/image/v2/BBQV_PRD/on/demandware.static/-/Sites-Seiko-US-Library/default/dw2650cc56/images/SEIKO/SKX007/SKX007_MAIN.jpg?sw=500&sh=500&sm=fit",
+      "https://img.freepik.com/free-photo/blue-alarm-clock-white-background_1112-483.jpg?t=st=1696533960~exp=1696534560~hmac=49868e3137098865dcd86921dc3c7ec202e1974272dc30ebe09b7b195b019baa",
   },
   {
     id: "27",
@@ -1320,7 +1346,7 @@ export const Watches = [
     rating: "4.9",
     display: "3.7 inch Diamond",
     image:
-      "https://www.omegawatches.com/media/catalog/product/cache/3e81a65d74298b1943a1ea00bc12db8a/0/2/02108465536021.jpg",
+      "https://img.freepik.com/free-vector/stop-watch-illustration_1262-7411.jpg?w=740&t=st=1696534058~exp=1696534658~hmac=345a016d5a72d44cb1b073e74dd27123f5d797bf3fdce4bdcad35cf781a74235",
   },
   {
     id: "29",
@@ -1330,7 +1356,8 @@ export const Watches = [
     description: "A chronograph watch with a striking blue dial",
     rating: "4.3",
     display: "2.5 inch Analog",
-    image: "https://images.movado.com/is/image/Movado/3600302_movado-main",
+    image:
+      "https://img.freepik.com/free-vector/time-management-poster_1284-13492.jpg?w=740&t=st=1696534095~exp=1696534695~hmac=3b97bdb39d2e56b2cd128a1a5d65c55240d8b3caa5b7535e95f45884b318c153",
   },
   {
     id: "30",
@@ -1341,7 +1368,7 @@ export const Watches = [
     rating: "4.1",
     display: "2.2 inch Transflective",
     image:
-      "https://www.suunto.com/__/media/suunto/products/productpages/suunto7/Suunto-7_WhiteSide_2020_HiRes-min.jpg",
+      "https://img.freepik.com/free-vector/morning-start-efficiency-classic-metallic_1368-340.jpg?t=st=1696534095~exp=1696534695~hmac=a1499232095bed23079c1afb0ac45193daf4e07f9d9a41458f65c19afa49db56",
   },
 ];
 
@@ -1355,6 +1382,8 @@ export const Paints = [
     size: "28",
     ordered: "200+ people ordered in the last month",
     description: "This is comfortable pants available in different colors.",
+    image:
+      "https://img.freepik.com/free-photo/jeans_1203-8094.jpg?w=740&t=st=1696534336~exp=1696534936~hmac=8f6e46bc43000259c7b12f4b4e6fa9ed841f41c5bbfab69cfd48852dcb824b35",
   },
   {
     id: "2",
@@ -1365,6 +1394,8 @@ export const Paints = [
     size: "30",
     ordered: "150+ people ordered in the last month",
     description: "Elegant and stylish slim-fit dress pants in navy blue.",
+    image:
+      "https://img.freepik.com/free-photo/jeans_1203-8095.jpg?w=1060&t=st=1696534367~exp=1696534967~hmac=db3127b8c27dff141e0317c1a800dd344997f2e3fccd38c09b3239cb4de65dcc",
   },
   {
     id: "3",
@@ -1375,6 +1406,8 @@ export const Paints = [
     size: "26",
     ordered: "180+ people ordered in the last month",
     description: "Classic high-waisted skinny jeans for women by Levi's.",
+    image:
+      "https://img.freepik.com/free-photo/casual-men-short-pants_1203-8186.jpg?w=740&t=st=1696534394~exp=1696534994~hmac=44da79af170342e2b10cc3997a7f4f7b99ee45346d5691220fc592160709397c",
   },
   {
     id: "4",
@@ -1385,6 +1418,8 @@ export const Paints = [
     size: "32",
     ordered: "220+ people ordered in the last month",
     description: "Durable cargo pants with ample pocket space for men.",
+    image:
+      "https://img.freepik.com/free-photo/pants-hanger-with-green-background_23-2150264163.jpg?w=360&t=st=1696534498~exp=1696535098~hmac=cf65e46eaa89f41cd30d3d65c2c6f1a0a4c5bd78ad972e836ce97fad3569b448",
   },
   {
     id: "5",
@@ -1395,6 +1430,8 @@ export const Paints = [
     size: "29",
     ordered: "130+ people ordered in the last month",
     description: "Comfortable and relaxed fit khaki trousers for women.",
+    image:
+      "https://img.freepik.com/free-photo/casual-men-short-pants_1203-8171.jpg?w=1060&t=st=1696534408~exp=1696535008~hmac=c9f1b3c3d8a26a717657d55bad97ec340060158119aa5551ee32b7f2d5fad9a5",
   },
   {
     id: "6",
@@ -1405,6 +1442,8 @@ export const Paints = [
     size: "31",
     ordered: "250+ people ordered in the last month",
     description: "Athletic fit jogger pants with a sporty look.",
+    image:
+      "https://img.freepik.com/free-photo/pants-hanger-with-green-background_23-2150264165.jpg?w=360&t=st=1696534527~exp=1696535127~hmac=8a35fcb1857821494615342a5bc60d6984f9245a6f37e400a6184d009f71fb0b",
   },
   {
     id: "7",
@@ -1415,6 +1454,8 @@ export const Paints = [
     size: "27",
     ordered: "160+ people ordered in the last month",
     description: "Elegant bootcut dress pants for women.",
+    image:
+      "https://img.freepik.com/free-photo/texture-blue-background-clothes-color_1203-6522.jpg?w=1060&t=st=1696534569~exp=1696535169~hmac=969c449b2b0ad4b84d9a7295b661f3eef655556ae0ae0efc8d11b8104bfd03bf",
   },
   {
     id: "8",
@@ -1425,6 +1466,8 @@ export const Paints = [
     size: "30",
     ordered: "190+ people ordered in the last month",
     description: "Classic chino trousers in a comfortable fit.",
+    image:
+      "https://image.shutterstock.com/image-vector/vector-single-cartoon-illustration-denim-260nw-1171726540.jpg",
   },
   {
     id: "9",
@@ -1435,6 +1478,8 @@ export const Paints = [
     size: "28",
     ordered: "300+ people ordered in the last month",
     description: "Stretchy and comfortable yoga pants for women.",
+    image:
+      "https://www.helikon-tex.com/media/catalog/product/cache/6/image/9df78eab33525d08d6e5fb8d27136e95/s/p/sp-pgm-dc-11.jpg",
   },
   {
     id: "10",
@@ -1445,6 +1490,8 @@ export const Paints = [
     size: "32",
     ordered: "140+ people ordered in the last month",
     description: "Elegant formal dress slacks for men by Brooks Brothers.",
+    image:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjQn9dQkI7rQ7WiDED8PzR0KQ0AwOYLFZ0c58rYbTN6Xlo4Il899weT8ZB8ZZ6x_6OmXk&usqp=CAU",
   },
   {
     id: "11",
@@ -1455,6 +1502,8 @@ export const Paints = [
     size: "26",
     ordered: "110+ people ordered in the last month",
     description: "Trendy skinny fit denim jeans for women.",
+    image:
+      "https://contents.mediadecathlon.com/p2399053/d375fff1f5ba3c9b5457bd801a2bea00/p2399053.jpg?format=auto&quality=70&f=650x0",
   },
   {
     id: "12",
@@ -1465,6 +1514,8 @@ export const Paints = [
     size: "31",
     ordered: "180+ people ordered in the last month",
     description: "Stylish corduroy pants with a classic look.",
+    image:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0JR6lzxtNF13xi5Hj5uOKPIhxUzWEyKFOy-I0hpo34vXElmQWACbn2CzS66z-QmLl1gs&usqp=CAU",
   },
   {
     id: "13",
@@ -1475,6 +1526,7 @@ export const Paints = [
     size: "28",
     ordered: "120+ people ordered in the last month",
     description: "Fashionable high-rise palazzo pants for women.",
+    image: "https://5.imimg.com/data5/FB/LK/MY-23883033/khaki-half-pants.jpg",
   },
   {
     id: "14",
@@ -1485,6 +1537,8 @@ export const Paints = [
     size: "32",
     ordered: "210+ people ordered in the last month",
     description: "Durable workwear trousers for tough jobs.",
+    image:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC2E-DhK06L134GQwUQf7HC1eOwyCjTnYy8w&usqp=CAU",
   },
   {
     id: "15",
@@ -1495,6 +1549,8 @@ export const Paints = [
     size: "29",
     ordered: "150+ people ordered in the last month",
     description: "Stylish wide-leg linen blend pants for women.",
+    image:
+      "https://5.imimg.com/data5/SELLER/Default/2022/7/CE/MH/PB/84589654/cargo-pant-500x500.jpg",
   },
   {
     id: "16",
@@ -1505,6 +1561,8 @@ export const Paints = [
     size: "30",
     ordered: "240+ people ordered in the last month",
     description: "Durable outdoor hiking pants for men.",
+    image:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ67K8SWDL2OGanbLKgvI_8z0aPHSS3Y_DZZw&usqp=CAU",
   },
   {
     id: "17",
@@ -1515,6 +1573,8 @@ export const Paints = [
     size: "27",
     ordered: "170+ people ordered in the last month",
     description: "Cargo capri pants with a comfortable fit for women.",
+    image:
+      "https://2.wlimg.com/product_images/bc-full/2021/8/8635073/mens-half-pants-1628513125-5934257.jpeg",
   },
   {
     id: "18",
@@ -1525,6 +1585,8 @@ export const Paints = [
     size: "31",
     ordered: "200+ people ordered in the last month",
     description: "Stretchy and comfortable casual trousers for men.",
+    image:
+      "https://assets.ajio.com/medias/sys_master/root/20230719/j5eY/64b80c60a9b42d15c961fec8/-1117Wx1400H-410384255-khaki-MODEL2.jpg",
   },
   {
     id: "19",
@@ -1535,6 +1597,8 @@ export const Paints = [
     size: "28",
     ordered: "100+ people ordered in the last month",
     description: "Stylish patterned leggings for women.",
+    image:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSO-rvOohshwv_HwMY3m84-gSTrxIZPoT0rA&usqp=CAU",
   },
   {
     id: "20",
@@ -1545,6 +1609,8 @@ export const Paints = [
     size: "32",
     ordered: "130+ people ordered in the last month",
     description: "Elegant pleated front dress pants for men.",
+    image:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb_ELqrfIIrHY3Po2nqidfsgg4jNybCH2vSJi_f5QYDCZj-ebEbvqZPvQarl1t84CgpmA&usqp=CAU",
   },
   {
     id: "21",
@@ -1555,6 +1621,8 @@ export const Paints = [
     size: "29",
     ordered: "110+ people ordered in the last month",
     description: "Cool and comfortable linen trousers for women.",
+    image:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqcAC1Qad0baRzy-SZFKx-ImYu2aJbn6EQCQ&usqp=CAU",
   },
   {
     id: "22",
@@ -1565,6 +1633,8 @@ export const Paints = [
     size: "30",
     ordered: "180+ people ordered in the last month",
     description: "Tactical cargo pants with multiple pockets for men.",
+    image:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4rRRT6AzBwpQ19ZOPuIcIEnHJCi6f1f91cg&usqp=CAU",
   },
   {
     id: "23",
@@ -1575,6 +1645,8 @@ export const Paints = [
     size: "27",
     ordered: "160+ people ordered in the last month",
     description: "Cropped wide-leg pants in a fashionable style for women.",
+    image:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQA36SyrJA3KNMLIh1mZEGRZFjgpfC52Luepc9ObdZqKoGgoMPoxATKUEZYBRLqqYQQV7A&usqp=CAU",
   },
   {
     id: "24",
@@ -1585,6 +1657,8 @@ export const Paints = [
     size: "31",
     ordered: "170+ people ordered in the last month",
     description: "Vintage-style jeans with a rugged look for men.",
+    image:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqcAC1Qad0baRzy-SZFKx-ImYu2aJbn6EQCQ&usqp=CAU",
   },
   {
     id: "25",
@@ -1595,6 +1669,8 @@ export const Paints = [
     size: "28",
     ordered: "150+ people ordered in the last month",
     description: "Casual jogger pants with a comfortable fit for women.",
+    image:
+      "https://image.shutterstock.com/image-vector/vector-single-cartoon-illustration-denim-260nw-1171726540.jpg",
   },
   {
     id: "26",
@@ -1605,6 +1681,8 @@ export const Paints = [
     size: "32",
     ordered: "190+ people ordered in the last month",
     description: "Warm fleece-lined sweatpants for men.",
+    image:
+      "https://contents.mediadecathlon.com/p2399053/d375fff1f5ba3c9b5457bd801a2bea00/p2399053.jpg?format=auto&quality=70&f=650x0",
   },
   {
     id: "27",
@@ -1616,6 +1694,8 @@ export const Paints = [
     ordered: "220+ people ordered in the last month",
     description:
       "Flared yoga pants with a comfortable and stylish design for women.",
+    image:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjQn9dQkI7rQ7WiDED8PzR0KQ0AwOYLFZ0c58rYbTN6Xlo4Il899weT8ZB8ZZ6x_6OmXk&usqp=CAU",
   },
   {
     id: "28",
@@ -1626,6 +1706,8 @@ export const Paints = [
     size: "30",
     ordered: "250+ people ordered in the last month",
     description: "Convertible outdoor pants for versatile use.",
+    image:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjQn9dQkI7rQ7WiDED8PzR0KQ0AwOYLFZ0c58rYbTN6Xlo4Il899weT8ZB8ZZ6x_6OmXk&usqp=CAU",
   },
   {
     id: "29",
@@ -1636,6 +1718,8 @@ export const Paints = [
     size: "27",
     ordered: "230+ people ordered in the last month",
     description: "Stretch denim leggings for a comfortable and flattering fit.",
+    image:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ67K8SWDL2OGanbLKgvI_8z0aPHSS3Y_DZZw&usqp=CAU",
   },
   {
     id: "30",
@@ -1646,6 +1730,8 @@ export const Paints = [
     size: "31",
     ordered: "210+ people ordered in the last month",
     description: "Classic corduroy trousers with a timeless look for men.",
+    image:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqcAC1Qad0baRzy-SZFKx-ImYu2aJbn6EQCQ&usqp=CAU",
   },
 ];
 
@@ -1660,7 +1746,7 @@ export const Shirts = [
     ordered: "210+ people ordered in the last month",
     description: "Classic corduroy shirt with a timeless look for men.",
     image:
-      "https://assets.ajio.com/medias/sys_master/root/20230602/Dtgx/64795c65d55b7d0c633c778c/-1117Wx1400H-462323964-white-MODEL.jpg",
+      "https://img.freepik.com/free-psd/simple-black-men-s-tee-mockup_53876-57893.jpg?w=360&t=st=1696539820~exp=1696540420~hmac=092b6bc41b65615cdedc3417bf3b8a43700c05356efc51cd2360661d402b92b3",
   },
   {
     id: "2",
@@ -1672,7 +1758,7 @@ export const Shirts = [
     ordered: "150+ people ordered in the last month",
     description: "Stylish slim-fit checkered shirt for casual occasions.",
     image:
-      "https://cdn11.bigcommerce.com/s-kk6i2/products/352/images/453/SC6019__50900.1618901972.386.513.jpg",
+      "https://img.freepik.com/free-photo/graphic-shirt-trendy-design-mockup_460848-12971.jpg?w=740&t=st=1696539864~exp=1696540464~hmac=dfad93fde5604f2c122b4105f791e74d67bfdf26b4c20f032080002a84b492d9",
   },
   {
     id: "3",
@@ -1684,7 +1770,7 @@ export const Shirts = [
     ordered: "180+ people ordered in the last month",
     description: "Fashionable floral print blouse for women.",
     image:
-      "https://lp2.hm.com/hmgoepprod?set=quality[79],source[/7a/ab/7aab77fb9480af3df44f64df53af3de2022f4bd9.jpg],origin[dam],category[ladies_blouses_shirts_blouses],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/main]",
+      "https://img.freepik.com/free-photo/blue-t-shirt_125540-727.jpg?w=996&t=st=1696539901~exp=1696540501~hmac=437f35fb218283db4790edd8aeeecc354cc8166c5256fb294b5ff31feb3376b6",
   },
   {
     id: "4",
@@ -1696,7 +1782,7 @@ export const Shirts = [
     ordered: "220+ people ordered in the last month",
     description: "Classic denim western shirt for a rugged look.",
     image:
-      "https://www.wrangler.com/dw/image/v2/AAJP_PRD/on/demandware.static/-/Sites-main/default/dwb09760a4/images/WR/MSHRTLG.gif",
+      "https://img.freepik.com/free-psd/mens-ultra-cotton-tee-mockup-03_126278-145.jpg?w=740&t=st=1696539839~exp=1696540439~hmac=ae68523f3d02831e773024a2d981f375bf6771e6cc79cc176d4c1811c1f54a38",
   },
   {
     id: "5",
@@ -1707,7 +1793,7 @@ export const Shirts = [
     size: "Medium",
     ordered: "130+ people ordered in the last month",
     description: "Striped button-up shirt with a classic design for women.",
-    image: "https://www.gap.com/webcontent/0019/728/841/cn19728841.jpg",
+    image: "https://img.freepik.com/free-photo/white-back-sweater_125540-792.jpg?w=996&t=st=1696539924~exp=1696540524~hmac=7780c17ab9cea066770f0784f9e3dfa0d4205bd6a4d90d4a8a8fad9ccd060bda",
   },
   {
     id: "6",
@@ -1719,7 +1805,7 @@ export const Shirts = [
     ordered: "250+ people ordered in the last month",
     description: "Warm and durable plaid flannel shirt for men.",
     image:
-      "https://www.carhartt.com/dw/image/v2/AAMJ_PRD/on/demandware.static/-/Sites-master-catalog/default/dw2c1e95be/images/2025/020.2025.412.extra/020.2025.412.zoom.jpg",
+      "https://rukminim2.flixcart.com/image/850/1000/xif0q/shirt/o/k/u/s-leaf-men-s-printed-shirts-fitoda-fashion-original-imagr6ymt4btkhvg.jpeg?q=20",
   },
   {
     id: "7",
@@ -1731,7 +1817,7 @@ export const Shirts = [
     ordered: "160+ people ordered in the last month",
     description: "Elegant ruffled blouse with a feminine touch for women.",
     image:
-      "https://static.zara.net/photos///2022/V/0/1/p/6840/901/074/2/w/1993/6840901074_6_1_1.jpg",
+      "https://img.freepik.com/free-photo/pink-sweater-front_125540-746.jpg?w=996&t=st=1696539954~exp=1696540554~hmac=9c9a0a8d10aaecad9b3a2e31353bd8cd075126ae26ffd217fde34bbf68f554dc",
   },
   {
     id: "8",
@@ -1743,7 +1829,7 @@ export const Shirts = [
     ordered: "140+ people ordered in the last month",
     description: "Classic oxford dress shirt for men by Brooks Brothers.",
     image:
-      "https://www.brooksbrothers.com/on/demandware.static/-/Sites-BrooksBrothers-Site/Sites-BrooksBrothers-Library/default/dw1f26f498/images/zoom/553Q_bk.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKaprMpyOc9gLMsfVmxlnD-prm5o8iSJksMSNRMqFK6evDPJvs7_oYvS7GybQPzIXife4&usqp=CAU",
   },
   {
     id: "9",
@@ -1754,7 +1840,7 @@ export const Shirts = [
     size: "Medium",
     ordered: "190+ people ordered in the last month",
     description: "Comfortable chambray shirt for women with a relaxed fit.",
-    image: "https://oldnavy.gap.com/webcontent/0019/286/543/cn19286543.jpg",
+    image: "https://img.freepik.com/free-vector/mans-suit-realistic-composition-with-smart-costume-with-white-shirt-tie-jacket_1284-54345.jpg?w=740&t=st=1696539991~exp=1696540591~hmac=24c79fa4d781e23361eca676a27f6c8e2bca3b1337bdd49159b5eca26294d23d",
   },
   {
     id: "10",
@@ -1766,7 +1852,7 @@ export const Shirts = [
     ordered: "300+ people ordered in the last month",
     description: "Cool and breathable linen blend shirt for men.",
     image:
-      "https://cdn.uniqlo.com/3/images/us/pc/goods/422691/item/21_422691_fmb.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUZNbr_Z8LdEPBjSNMwx6RktdZ7CRU8uDZJAPGMtw_CiDqnwMbF0bhN1vxTF4ZTp3Tt3k&usqp=CAU",
   },
   {
     id: "11",
@@ -1803,7 +1889,7 @@ export const Shirts = [
     description:
       "Linen button-down shirt for women with a relaxed and breezy style.",
     image:
-      "https://cdn2.mos.cms.futurecdn.net/2apEq9gPd1ZepEksg4PpbT-1200-80.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE-lt_Q8imf6gnxaUHlWlxrwmwG_wHYp81YANQ9i3QpaPN0D8wlVIkimqpSE4TCia6xso&usqp=CAU",
   },
   {
     id: "14",
@@ -1815,7 +1901,7 @@ export const Shirts = [
     ordered: "210+ people ordered in the last month",
     description: "Durable plaid flannel work shirt for tough jobs.",
     image:
-      "https://www.carhartt.com/dw/image/v2/AAMJ_PRD/on/demandware.static/-/Sites-master-catalog/default/dw69b71b75/images/2025/301.2025.412.zoom.jpg",
+      "https://images.onlyandsons.com/22007112/3358938/002/onlysons-slimfitcheckedshirt-purple.jpg?v=0a94ba77a1e360777f118411757bbfa3&format=webp&rsampler=catmull&width=1280&quality=90&key=25-0-3",
   },
   {
     id: "15",
@@ -1827,7 +1913,7 @@ export const Shirts = [
     ordered: "150+ people ordered in the last month",
     description: "Oversized chambray shirt for women with a relaxed fit.",
     image:
-      "https://static.zara.net/photos///2022/V/0/1/p/6835/142/505/2/w/1652/6835142505_1_1_1.jpg",
+      "https://i5.walmartimages.com/asr/1e87ef99-2b84-40d3-9705-08f84646f7ca.093195ad9780c9ac72d111fdf1e3c046.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF",
   },
   {
     id: "16",
@@ -1839,7 +1925,7 @@ export const Shirts = [
     ordered: "240+ people ordered in the last month",
     description: "Comfortable short-sleeve shirt for casual wear.",
     image:
-      "https://www.columbia.com/dw/image/v2/AATU_PRD/on/demandware.static/-/Sites-columbia_us-Library/default/dw4282edc6/images/innovation/technology/onmodel/M-SS-ButtonDown-ON-MODEL.jpg",
+      "https://i5.walmartimages.com/seo/Mens-Long-Sleeve-Shirt-New-Casual-Fashion-Men-s-Plaid-Loose-Youth-Coat-Turndown-Collar-Blouse-Floral_6446861a-2981-46d1-b016-e60a022d51fa.17c2f0b4b0a9096caff46272c13b51c9.jpeg",
   },
   {
     id: "17",
@@ -1851,7 +1937,7 @@ export const Shirts = [
     ordered: "170+ people ordered in the last month",
     description: "Peplum blouse with a stylish print for women.",
     image:
-      "https://lp2.hm.com/hmgoepprod?set=quality[79],source[/a5/9c/a59c312d8dbacef37c7d6c3f48b80f00d8d0f90e.jpg],origin[dam],category[ladies_blouses_shirts_blouses],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/main]",
+      "https://m.media-amazon.com/images/I/61VJcIr3n0L._AC_UY1000_.jpg",
   },
   {
     id: "18",
@@ -1863,7 +1949,7 @@ export const Shirts = [
     ordered: "190+ people ordered in the last month",
     description: "Slim-fit dress shirt for a sharp and modern look.",
     image:
-      "https://www.express.com/content/dam/express/2019/projects/landing-pages/pdp/0923/desktop/slimfitdressshirt-productitem-1.jpg",
+      "https://img.tatacliq.com/images/i8/437Wx649H/MP000000012328483_437Wx649H_202203020526181.jpeg",
   },
   {
     id: "19",
@@ -1875,7 +1961,7 @@ export const Shirts = [
     ordered: "100+ people ordered in the last month",
     description: "Elegant satin blouse with a luxurious feel for women.",
     image:
-      "https://cdn2.mos.cms.futurecdn.net/2QZSrFoKGQ7TzrVLdpHLnt-1200-80.jpg",
+      "https://img0.junaroad.com/uiproducts/17978414/zoom_0-1631367139.jpg",
   },
   {
     id: "20",
@@ -1898,7 +1984,7 @@ export const Shirts = [
     size: "Medium",
     ordered: "110+ people ordered in the last month",
     description: "Oversized denim shirt for a relaxed and trendy look.",
-    image: "https://www.gap.com/webcontent/0019/140/471/cn19140471.jpg",
+    image: "https://static.zara.net/photos///2023/V/0/3/p/8501/688/250/2/w/824/8501688250_6_2_1.jpg?ts=1674039459723",
   },
   {
     id: "22",
@@ -1911,7 +1997,7 @@ export const Shirts = [
     description:
       "Classic fit polo shirt with the iconic Lacoste crocodile logo.",
     image:
-      "https://media.lacoste.com/i/lacoste/L1212-FXX-25-001.jpg?$plpProductImage$&locale=en_GB",
+      "https://5.imimg.com/data5/JX/MF/MY-30925159/hard-core-navy-blue-printed-apple-cut-t-shirt-500x500.jpg",
   },
   {
     id: "23",
@@ -1922,7 +2008,7 @@ export const Shirts = [
     size: "Small",
     ordered: "120+ people ordered in the last month",
     description: "Versatile long-sleeve tunic for women with a relaxed fit.",
-    image: "https://oldnavy.gap.com/webcontent/0019/520/471/cn19520471.jpg",
+    image: "https://i5.walmartimages.com/asr/4f47ca96-7b1a-4b14-a70c-ab0f4400da94.8ba13242384612fae57fbeb62e62be00.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF",
   },
   {
     id: "24",
@@ -1934,7 +2020,7 @@ export const Shirts = [
     ordered: "180+ people ordered in the last month",
     description: "Comfortable casual V-neck t-shirt for men.",
     image:
-      "https://images.hanes.com/is/image/hanesbrands/H5590_01_6031_000.jpg?$600x600$",
+      "https://rukminim2.flixcart.com/image/300/350/xif0q/shirt/4/h/i/m-zrsh1100-524-maroon-zombom-original-imaghat2ahtzprju.jpeg?q=90",
   },
   {
     id: "25",
@@ -1946,7 +2032,7 @@ export const Shirts = [
     ordered: "160+ people ordered in the last month",
     description: "Bohemian-style off-shoulder peasant top for women.",
     image:
-      "https://images.freepeople.com/is/image/FreePeople/36395868_018_a?$a15pdp-600$",
+      "https://rukminim2.flixcart.com/image/850/1000/xif0q/shirt/1/h/d/xl-men-dark-green-shirt-cycless-world-original-imagk8vctx4djfzh.jpeg?q=20",
   },
   {
     id: "26",
@@ -1958,7 +2044,7 @@ export const Shirts = [
     ordered: "250+ people ordered in the last month",
     description: "Sporty graphic print t-shirt for men.",
     image:
-      "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/i1-3e6ef7a1-2ef0-4b59-aa45-0c67c33d982b/sportswear-club-mens-t-shirt-75SThz.jpg",
+      "https://rukminim2.flixcart.com/image/850/1000/xif0q/shirt/q/e/i/s-zb-3cs-pto-black-zombom-original-imagka25sxwuzs4x.jpeg?q=90",
   },
   {
     id: "27",
@@ -1970,7 +2056,7 @@ export const Shirts = [
     ordered: "220+ people ordered in the last month",
     description: "Boho-style lace blouse with intricate details for women.",
     image:
-      "https://images.anthropologie.com/is/image/Anthropologie/59818506_001_b?$a15pdp-zoom$&qlt=80&fit=constrain",
+      "https://images.meesho.com/images/products/326353038/tcsim_256.webp",
   },
   {
     id: "28",
@@ -1982,7 +2068,7 @@ export const Shirts = [
     ordered: "230+ people ordered in the last month",
     description: "Classic crewneck sweatshirt for casual comfort.",
     image:
-      "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/95aa9352d9f7462ba72ea89e00e173d1_9366/Essentials_Classic_Treb/Sweatshirt_B46504_01_laydown.jpg",
+      "https://fullyfilmy.in/cdn/shop/files/pig-with-wings_2_600x600.jpg?v=1688718721",
   },
   {
     id: "29",
@@ -1994,7 +2080,7 @@ export const Shirts = [
     ordered: "200+ people ordered in the last month",
     description: "Cropped tank top with a trendy style for women.",
     image:
-      "https://images.forever21.com/is/image/Forever21/00427582-01?$image_quality_100$",
+      "https://www.aristobrat.in/cdn/shop/files/ClassicShirt_SlateGreen_June23_1_1024x1024.jpg?v=1688126881",
   },
   {
     id: "30",
@@ -2006,7 +2092,7 @@ export const Shirts = [
     ordered: "210+ people ordered in the last month",
     description: "Casual henley shirt for a laid-back style.",
     image:
-      "https://image.jcrew.com/waterfall/c/5e5a19e4/f4d44dce-f24f-4e6d-8823-0b4f1740c481.jpg",
+      "https://goodthings.com.au/wp-content/uploads/OC_lime_green_ms_9q54-cs.jpg",
   },
 ];
 
@@ -2021,7 +2107,7 @@ export const Shoes = [
     ordered: "450+ people ordered in the last month",
     description:
       "Comfortable sports shoes for men with various sizes available.",
-    image: "https://m.media-amazon.com/images/I/715TLEvzxUS._SY500_.jpg",
+    image: "",
   },
   {
     id: "2",
@@ -2033,7 +2119,7 @@ export const Shoes = [
     ordered: "400+ people ordered in the last month",
     description: "High-quality running shoes for women by Nike.",
     image:
-      "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/2a8c198b-5c07-48bb-a21a-77ae166bb0ee/air-zoom-pegasus-38-running-shoe-93PrnT.jpg",
+      "",
   },
   {
     id: "3",
@@ -2045,7 +2131,7 @@ export const Shoes = [
     ordered: "350+ people ordered in the last month",
     description: "Durable and stylish basketball shoes for men.",
     image:
-      "https://assets.adidas.com/images/h_2000,f_auto,q_auto:sensitive,fl_lossy/abf5222a31a7408ab2bea7b700fc134c_9366/Harden_Vol_5_Shoes_Black_FY9832.jpg",
+      "",
   },
   {
     id: "4",
@@ -2057,7 +2143,7 @@ export const Shoes = [
     ordered: "320+ people ordered in the last month",
     description: "Versatile yoga and workout shoes for women by Reebok.",
     image:
-      "https://assets.reebok.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy/f27662ecf1674980911baf5800fb493f_9366/Nano_X1_Women_Shoes_Black_GY5971.jpg",
+      "",
   },
   {
     id: "5",
@@ -2068,7 +2154,7 @@ export const Shoes = [
     size: "10",
     ordered: "380+ people ordered in the last month",
     description: "Cross training shoes designed for men's fitness needs.",
-    image: "https://nb.scene7.com/is/image/NB/mt100v1_nb_02_i?$pdpPictExp$",
+    image: "",
   },
   {
     id: "6",
@@ -2080,7 +2166,7 @@ export const Shoes = [
     ordered: "300+ people ordered in the last month",
     description:
       "Trail running shoes with excellent grip for women by Salomon.",
-    image: "https://content-api-secure.salomon.com/api/v1/images/261189/master",
+    image: "",
   },
   {
     id: "7",
@@ -2092,7 +2178,7 @@ export const Shoes = [
     ordered: "280+ people ordered in the last month",
     description: "Soccer cleats designed for men's performance on the field.",
     image:
-      "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb,f_auto,w_450,h_450/global/105585/02/fnd/ECOM",
+      "",
   },
   {
     id: "8",
@@ -2104,7 +2190,7 @@ export const Shoes = [
     ordered: "260+ people ordered in the last month",
     description: "Durable hiking boots for women by Columbia.",
     image:
-      "https://www.columbia.com/dw/image/v2/AAAP_PRD/on/demandware.static/-/Sites-columbia_us-Library/default/dwd3b2f1ee/images/innovation/technology/onmodel/W-Newton-Ridge-Plus-Hiking-Boot-WIDE-BL3865-010-laydown.jpg",
+      "",
   },
   {
     id: "9",
@@ -2116,7 +2202,7 @@ export const Shoes = [
     ordered: "340+ people ordered in the last month",
     description: "Stylish and comfortable skateboarding shoes for men by Vans.",
     image:
-      "https://images.vans.com/is/image/Vans/44d8ea84e3de2d274f0a0aa6e950eb88?fit=fill&bg=0FFF&w=650&h=410&auto=format%2Ccompress",
+      "",
   },
   {
     id: "10",
@@ -2128,7 +2214,7 @@ export const Shoes = [
     ordered: "320+ people ordered in the last month",
     description: "High-performance tennis shoes for women by ASICS.",
     image:
-      "https://www.asics.com/on/demandware.static/-/Sites-ASICS-Library/default/dw527b1cb3/images/product/dynaflyte/1012A543/1012A543_001_d.png",
+      "",
   },
   {
     id: "11",
@@ -2141,7 +2227,7 @@ export const Shoes = [
     description:
       "Trail running shoes with superior comfort for men by Merrell.",
     image:
-      "https://www.merrell.com/dw/image/v2/BBLD_PRD/on/demandware.static/-/Sites-merrell_us-Library/en_US/dw7eb7fc7a/products/M098754/M098754_L2.jpg?sw=900",
+      "",
   },
   {
     id: "12",
@@ -2153,7 +2239,7 @@ export const Shoes = [
     ordered: "310+ people ordered in the last month",
     description: "Crossfit shoes designed for women's intense workouts.",
     image:
-      "https://assets.reebok.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy/ab1707d7407e4c9f944ba8bd0167c82a_9366/Speed_TR_Women_Shoes_Black_FY9393.jpg",
+      "",
   },
   {
     id: "13",
@@ -2165,7 +2251,7 @@ export const Shoes = [
     ordered: "290+ people ordered in the last month",
     description: "Golf shoes with excellent traction for men by FootJoy.",
     image:
-      "https://www.footjoy.com/dw/image/v2/AAJN_PRD/on/demandware.static/-/Sites-master-catalog/default/dw54c8d41c/images/56201/56201-heroproduct-21SP_T_0001-zoom.jpg",
+      "",
   },
   {
     id: "14",
@@ -2177,7 +2263,7 @@ export const Shoes = [
     ordered: "280+ people ordered in the last month",
     description: "Elegant ballet flats for women by Sam Edelman.",
     image:
-      "https://images.prod.meredith.com/product/c1337f0e65a39d2ee8ca3b9906855f8f/1f178e155ab5a1b5236f2c3f6e197f2d1f1e7c19f106a0ad06f8ef568f4f1783_large.jpg",
+      "",
   },
   {
     id: "15",
@@ -2189,7 +2275,7 @@ export const Shoes = [
     ordered: "330+ people ordered in the last month",
     description: "Classic and comfortable casual sneakers for men by Converse.",
     image:
-      "https://image.converse.com/image/upload/v1607685950/eu/regionPL/603668C_001.png",
+      "",
   },
   {
     id: "16",
@@ -2201,7 +2287,7 @@ export const Shoes = [
     ordered: "270+ people ordered in the last month",
     description: "Stylish ankle boots for women by Steve Madden.",
     image:
-      "https://images.prod.meredith.com/product/04b3a6d7629918d18132100b08b52b0d/07c11a634f9340eaccb5466d9e2923d03a6f200a361f822b6c3eeef72d460aab_large.jpg",
+      "",
   },
   {
     id: "17",
@@ -2213,7 +2299,7 @@ export const Shoes = [
     ordered: "350+ people ordered in the last month",
     description: "High-performance running sneakers for men by Saucony.",
     image:
-      "https://www.saucony.com/dw/image/v2/BCFQ_PRD/on/demandware.static/-/Sites-saucony_us-Library/default/dw1e6f4327/images/product/x/i/xim/159310/01/alt/159310-01-1300.jpg",
+      "",
   },
   {
     id: "18",
@@ -2225,7 +2311,7 @@ export const Shoes = [
     ordered: "300+ people ordered in the last month",
     description: "Stylish espadrille wedges for women by TOMS.",
     image:
-      "https://www.toms.com/dw/image/v2/BBCX_PRD/on/demandware.static/-/Sites-toms-master/default/dw9ff3be57/images/10016950/10016950_014.jpg",
+      "",
   },
   {
     id: "19",
@@ -2237,7 +2323,7 @@ export const Shoes = [
     ordered: "290+ people ordered in the last month",
     description: "Luxurious dress loafers for men by Gucci.",
     image:
-      "https://media.gucci.com/style/DarkGray_Center_0_0_1200x1200/1534258745/195193_A9L00_2156_001_100_0000_Light-Mocassini-GG-coda_05.jpg",
+      "",
   },
   {
     id: "20",
@@ -2250,7 +2336,7 @@ export const Shoes = [
     description:
       "Iconic red-soled high heel pumps for women by Christian Louboutin.",
     image:
-      "https://images.prod.meredith.com/product/eb73aa08e0634a13482b9c2641d9d7cb/853e050fa68545eaa80b1bc6963650e1941b703c0f3e61073e5f650344dbcebd_large.jpg",
+      "",
   },
   {
     id: "21",
@@ -2262,7 +2348,7 @@ export const Shoes = [
     ordered: "320+ people ordered in the last month",
     description: "Classic Chelsea boots for men by Clarks.",
     image:
-      "https://media.clarks.eu/media/cp/assets/24.37436/26149318/EG_061_Sneak_Amb 4.jpg",
+      "",
   },
   {
     id: "22",
@@ -2274,7 +2360,7 @@ export const Shoes = [
     ordered: "340+ people ordered in the last month",
     description: "Comfortable wedge sandals for women by UGG.",
     image:
-      "https://ugg.scene7.com/is/image/UGG/1121397_001?$USD-SD-lg$&$v3_SL1100$&hei=500&wid=500",
+      "",
   },
   {
     id: "23",
@@ -2286,7 +2372,7 @@ export const Shoes = [
     ordered: "280+ people ordered in the last month",
     description: "Elegant Oxford shoes for men by Cole Haan.",
     image:
-      "https://images.prod.meredith.com/product/7f61b84d25be995c4d3ee52e9f17e17e/9e0b7988b04c4e9e86c301b9e1f679591c6e2d41ec61d503dbada4e538287d68_large.jpg",
+      "",
   },
   {
     id: "24",
@@ -2297,7 +2383,7 @@ export const Shoes = [
     size: "8",
     ordered: "310+ people ordered in the last month",
     description: "Convenient slip-on sneakers for women by Skechers.",
-    image: "https://skechers.scene7.com/is/image/Skechers/16010_WSL_F",
+    image: "",
   },
   {
     id: "25",
@@ -2308,7 +2394,7 @@ export const Shoes = [
     size: "10.5",
     ordered: "350+ people ordered in the last month",
     description: "Classic boat shoes for men by Sperry.",
-    image: "https://images.sperry.com/is/image/Sperry/STS22634-HERO?$290x258$",
+    image: "",
   },
   {
     id: "26",
@@ -2320,7 +2406,7 @@ export const Shoes = [
     ordered: "300+ people ordered in the last month",
     description: "Cozy moccasin slippers for women by Minnetonka.",
     image:
-      "https://images.prod.meredith.com/product/e259496e0e2f4bb46ac20207ca7f9756/6e49670e9c0c49f981ff5ec10dd293d64773c59f515850ee1cbfba549a07be26_large.jpg",
+      "",
   },
   {
     id: "27",
@@ -2332,7 +2418,7 @@ export const Shoes = [
     ordered: "320+ people ordered in the last month",
     description: "Comfortable loafer shoes for men by Hush Puppies.",
     image:
-      "https://images.prod.meredith.com/product/0f77deaae6b24008b2710d56a08c8347/5341ce4b7b06463e8be384d1be19c238b130c46db7b2a6df869b97d4b76e6e9b_large.jpg",
+      "",
   },
   {
     id: "28",
@@ -2344,7 +2430,7 @@ export const Shoes = [
     ordered: "310+ people ordered in the last month",
     description: "Durable rain boots for women by Hunter.",
     image:
-      "https://images.prod.meredith.com/product/738078ebf3c1f9e422f5d68d9fdd0fb6/d82f703d61e94eeb926b8d8bca82ec71ca369fdd64e85dbdb5c967d20707cc02_large.jpg",
+      "",
   },
   {
     id: "29",
@@ -2356,7 +2442,7 @@ export const Shoes = [
     ordered: "340+ people ordered in the last month",
     description: "Comfortable sandals for men by Birkenstock.",
     image:
-      "https://images.birkenstock.com/is/image/Birkenstock/1016221_1016221.jpg?wid=500&hei=500&fmt=jpg&bgc=f5f5f5&fit=fill&qlt=100,1&resmode=sharp&op_usm=1,1,1,8&iccEmbed=0&icc=AdobeRGB",
+      "",
   },
   {
     id: "30",
@@ -2367,7 +2453,7 @@ export const Shoes = [
     size: "7.5",
     ordered: "330+ people ordered in the last month",
     description: "Warm and waterproof snow boots for women by Columbia.",
-    image: "https://content-api-secure.salomon.com/api/v1/images/261189/master",
+    image: "",
   },
 ];
 
