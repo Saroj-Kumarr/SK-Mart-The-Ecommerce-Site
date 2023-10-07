@@ -8,11 +8,12 @@ import shoes from "./Images/shoes.jpg";
 import sport from "./Images/football.jpg";
 import grocery from "./Images/grocery.jpg";
 import bag from "./Images/bag.jpg";
+import { Link } from "react-router-dom";
 
 function ZeroList() {
   const List = [
     {
-      name: "Mobiles",
+      name: "mobiles",
       image: mobile,
     },
     {
@@ -51,16 +52,18 @@ function ZeroList() {
 
   return (
     <>
-    <div className="flex m-6">
+    <div className="flex w-full mt-[56px] bg-white fixed z-20 test2">
       {List.map(({ name, image }) => {
         return (
-          <div>
-            <div className="border-2 mt-20  duration-300  rounded-[50%] h-32 w-32 mx-4 flex flex-col justify-center items-center ">
+         <Link to={"/"+name}>
+           <div className="mb-3 ml-2">
+            <div className="border-4 border-2 border-blue-500 test duration-300 mt-4  rounded-[50%] h-32 w-32 mx-4 flex flex-col justify-center items-center ">
            <img className="rounded-[50%] border-[4px] border-[#FFC220]  h-32 w-32 hover:scale-110 duration-500" src={image} alt="image"/>
           
           </div>
           <h1 className="font-semibold ml-[52px] text-blue-500 ">{name}</h1>
           </div>
+         </Link>
         );
       })}
     </div>

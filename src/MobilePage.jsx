@@ -2,6 +2,7 @@ import React from "react";
 import { Mobiles } from "./DataSet";
 import CardFirst from "./CardFirst";
 import { useState } from "react";
+import { Link } from "react-router-dom";
 
 function MobilePage() {
   const [searchText, setSearchText] = useState("");
@@ -26,7 +27,7 @@ function MobilePage() {
 
   return (
     <>
-      <div className="flex tracking-wider justify-center text-yellow-500 items-center">
+      <div className="flex tracking-wider justify-center text-yellow-500 items-center mt-72">
         <label
           className="test p-2 rounded-l-xl font-bold bg-blue-500"
           for="browser"
@@ -71,13 +72,15 @@ function MobilePage() {
       <div className="flex flex-wrap my-4 ml-20">
         {mobileData.map(({ id, title, rating, price, image }) => {
           return (
-            <CardFirst
-              key={id}
-              title={title}
-              rating={rating}
-              price={price}
-              image={image}
-            />
+            <Link to={id}>
+              <CardFirst
+                key={id}
+                title={title}
+                rating={rating}
+                price={price}
+                image={image}
+              />
+            </Link>
           );
         })}
       </div>

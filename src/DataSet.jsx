@@ -16,6 +16,7 @@ export const Mobiles = [
     backCamera: "64 MP",
     Processor: "A15 Bionic Chip",
     display: "6.1 inch FHD+",
+    ordered:"340+ people ordered in the last month",
   },
   {
     id: "2",
@@ -34,6 +35,7 @@ export const Mobiles = [
     backCamera: "108 MP",
     Processor: "Exynos 2200",
     display: "6.2 inch QHD+",
+    ordered:"380+ people ordered in the last month",
   },
   {
     id: "3",
@@ -52,6 +54,7 @@ export const Mobiles = [
     backCamera: "50 MP",
     Processor: "Google Tensor",
     display: "6.5 inch OLED",
+    ordered:"700+ people ordered in the last month",
   },
   {
     id: "4",
@@ -69,6 +72,7 @@ export const Mobiles = [
     backCamera: "48 MP",
     Processor: "Qualcomm Snapdragon 888",
     display: "6.7 inch Fluid AMOLED",
+    ordered:"260+ people ordered in the last month",
   },
   {
     id: "5",
@@ -86,6 +90,7 @@ export const Mobiles = [
     backCamera: "108 MP",
     Processor: "Qualcomm Snapdragon 888",
     display: "6.81 inch AMOLED",
+    ordered:"800+ people ordered in the last month",
   },
   {
     id: "6",
@@ -104,6 +109,7 @@ export const Mobiles = [
     backCamera: "50 MP",
     Processor: "Qualcomm Snapdragon 8 Gen 1",
     display: "6.7 inch AMOLED",
+    ordered:"540+ people ordered in the last month",
   },
   {
     id: "7",
@@ -122,6 +128,7 @@ export const Mobiles = [
     backCamera: "12 MP",
     Processor: "Qualcomm Snapdragon 888",
     display: "6.5 inch 4K OLED",
+    ordered:"350+ people ordered in the last month",
   },
   {
     id: "8",
@@ -140,6 +147,7 @@ export const Mobiles = [
     backCamera: "12 MP",
     Processor: "Qualcomm Snapdragon 855",
     display: "6.1 inch OLED",
+    ordered:"560+ people ordered in the last month",
   },
   {
     id: "9",
@@ -158,6 +166,7 @@ export const Mobiles = [
     backCamera: "64 MP",
     Processor: "Qualcomm Snapdragon 888",
     display: "6.78 inch AMOLED",
+    ordered:"150+ people ordered in the last month",
   },
   {
     id: "10",
@@ -176,6 +185,7 @@ export const Mobiles = [
     backCamera: "50 MP",
     Processor: "Qualcomm Snapdragon 888",
     display: "6.6 inch OLED",
+    ordered:"1150+ people ordered in the last month",
   },
   {
     id: "11",
@@ -194,6 +204,7 @@ export const Mobiles = [
     backCamera: "48 MP",
     Processor: "Qualcomm Snapdragon 662",
     display: "6.6 inch IPS LCD",
+    ordered:"1250+ people ordered in the last month",
   },
 
   {
@@ -212,6 +223,7 @@ export const Mobiles = [
     backCamera: "64 MP",
     Processor: "Qualcomm Snapdragon 680",
     display: "6.67 inch FHD+",
+    ordered:"1550+ people ordered in the last month",
   },
   {
     id: "13",
@@ -230,6 +242,7 @@ export const Mobiles = [
     backCamera: "12 MP",
     Processor: "Qualcomm Snapdragon 888",
     display: "6.1 inch OLED",
+    ordered:"1050+ people ordered in the last month",
   },
   {
     id: "14",
@@ -248,6 +261,7 @@ export const Mobiles = [
     backCamera: "50 MP",
     Processor: "Google Tensor",
     display: "5.7 inch OLED",
+    ordered:"1000+ people ordered in the last month",
   },
   {
     id: "15",
@@ -266,6 +280,7 @@ export const Mobiles = [
     backCamera: "64 MP",
     Processor: "Qualcomm Snapdragon 870",
     display: "6.62 inch AMOLED",
+    ordered:"2000+ people ordered in the last month",
   },
   {
     id: "16",
@@ -284,6 +299,7 @@ export const Mobiles = [
     backCamera: "50 MP",
     Processor: "MediaTek Dimensity 1200",
     display: "6.43 inch Fluid AMOLED",
+    ordered:"500+ people ordered in the last month",
   },
   {
     id: "17",
@@ -301,6 +317,7 @@ export const Mobiles = [
     backCamera: "64 MP",
     Processor: "Qualcomm Snapdragon 778G",
     display: "6.5 inch Super AMOLED",
+    ordered:"2600+ people ordered in the last month",
   },
   {
     id: "18",
@@ -318,6 +335,7 @@ export const Mobiles = [
     backCamera: "64 MP",
     Processor: "Qualcomm Snapdragon 732G",
     display: "6.55 inch AMOLED",
+    ordered:"2060+ people ordered in the last month",
   },
   {
     id: "19",
@@ -336,6 +354,7 @@ export const Mobiles = [
     backCamera: "48 MP",
     Processor: "Qualcomm Snapdragon 480",
     display: "6.8 inch IPS LCD",
+    ordered:"200+ people ordered in the last month",
   },
   {
     id: "20",
@@ -353,6 +372,7 @@ export const Mobiles = [
     backCamera: "50 MP",
     Processor: "Google Tensor",
     display: "6.71 inch OLED",
+    ordered:"260+ people ordered in the last month",
   },
   {
     id: "21",
@@ -370,6 +390,7 @@ export const Mobiles = [
     backCamera: "12 MP",
     Processor: "Qualcomm Snapdragon 690",
     display: "6.0 inch OLED",
+    ordered:"3000+ people ordered in the last month",
   },
   {
     id: "22",
@@ -387,6 +408,7 @@ export const Mobiles = [
     backCamera: "50 MP",
     Processor: "Mediatek Helio G85",
     display: "6.5 inch IPS LCD",
+    ordered:"5000+ people ordered in the last month",
   },
   {
     id: "23",
@@ -405,6 +427,7 @@ export const Mobiles = [
     backCamera: "64 MP",
     Processor: "Qualcomm Snapdragon 480 5G",
     display: "6.67 inch IPS LCD",
+    ordered:"3000+ people ordered in the last month",
   },
   {
     id: "24",
@@ -423,6 +446,7 @@ export const Mobiles = [
     backCamera: "64 MP",
     Processor: "Mediatek Dimensity 920",
     display: "6.44 inch AMOLED",
+    ordered:"1000+ people ordered in the last month",
   },
   {
     id: "25",
@@ -441,6 +465,7 @@ export const Mobiles = [
     backCamera: "108 MP",
     Processor: "Qualcomm Snapdragon 8 Gen 1",
     display: "6.7 inch Fluid AMOLED",
+    ordered:"800+ people ordered in the last month",
   },
   {
     id: "26",
@@ -459,6 +484,7 @@ export const Mobiles = [
     backCamera: "108 MP",
     Processor: "Qualcomm Snapdragon 870",
     display: "6.7 inch OLED",
+    ordered:"600+ people ordered in the last month",
   },
   {
     id: "27",
@@ -477,6 +503,7 @@ export const Mobiles = [
     backCamera: "64 MP",
     Processor: "Qualcomm Snapdragon 8 Gen 1",
     display: "6.67 inch QHD+",
+    ordered:"800+ people ordered in the last month",
   },
   {
     id: "28",
@@ -512,6 +539,7 @@ export const Mobiles = [
     backCamera: "108 MP",
     Processor: "Qualcomm Snapdragon 8 Gen 1",
     display: "7.5 inch Foldable AMOLED",
+    ordered:"500+ people ordered in the last month",
   },
   {
     id: "30",
@@ -530,6 +558,7 @@ export const Mobiles = [
     backCamera: "50 MP",
     Processor: "Google Tensor",
     display: "6.2 inch OLED",
+    ordered:"3000+ people ordered in the last month",
   },
 ];
 
@@ -2475,7 +2504,8 @@ export const Bags = [
     rating: "4.4",
     description: "This is a waterproof bag with great styling",
     ordered: "830+ people ordered in the last month",
-    image: "https://5.imimg.com/data5/KK/CR/MY-5458350/kids-school-bag.jpg",
+    image:
+      "https://img.freepik.com/free-photo/beautiful-elegance-luxury-fashion-green-handbag_1203-7655.jpg?w=360&t=st=1696578550~exp=1696579150~hmac=c6571d20b71a3eb1b56436637211110cd94cf12518954a8bc46f70f3df53f415",
   },
   {
     id: "2",
@@ -2486,7 +2516,8 @@ export const Bags = [
     description:
       "Spacious backpack with lots of compartments for organized travel.",
     ordered: "720+ people ordered in the last month",
-    image: "https://example.com/image2.jpg",
+    image:
+      "https://img.freepik.com/free-photo/handbag-leather-new-luxury-female_1203-6520.jpg?w=360&t=st=1696578565~exp=1696579165~hmac=efd8aed5ace03767d7025fcb765e7614c46097eaf7d3f7c4ff3f3985b3145ee8",
   },
   {
     id: "3",
@@ -2496,7 +2527,8 @@ export const Bags = [
     rating: "4.9",
     description: "Premium leather laptop bag for a professional look.",
     ordered: "450+ people ordered in the last month",
-    image: "https://example.com/image3.jpg",
+    image:
+      "https://img.freepik.com/free-photo/pink-handbags_1203-7829.jpg?w=360&t=st=1696578576~exp=1696579176~hmac=03e336d3e1b047c6a9d3d919905ee26b1b11733d163d2212164d0050c98cdd08",
   },
   {
     id: "4",
@@ -2506,7 +2538,8 @@ export const Bags = [
     rating: "4.2",
     description: "Durable canvas backpack suitable for daily activities.",
     ordered: "620+ people ordered in the last month",
-    image: "https://example.com/image4.jpg",
+    image:
+      "https://img.freepik.com/free-vector/vector-black-brief-case-with-leather_1284-41927.jpg?w=740&t=st=1696578606~exp=1696579206~hmac=e07dac90dab08ee56040fae1a9759d1d6382207c0304e0d148d79c83a3abafa9",
   },
   {
     id: "5",
@@ -2517,7 +2550,8 @@ export const Bags = [
     description:
       "Perfect for outdoor enthusiasts with a built-in hydration system.",
     ordered: "320+ people ordered in the last month",
-    image: "https://example.com/image5.jpg",
+    image:
+      "https://img.freepik.com/free-photo/suitcase_1156-680.jpg?w=900&t=st=1696578617~exp=1696579217~hmac=911c7d8dd2a0531a21bd16a6e65e99affcbc73ab4ab9a7c48e48e62e72ae36ef",
   },
   {
     id: "6",
@@ -2527,7 +2561,8 @@ export const Bags = [
     rating: "4.5",
     description: "Retro-style leather rucksack for a vintage look.",
     ordered: "280+ people ordered in the last month",
-    image: "https://example.com/image6.jpg",
+    image:
+      "https://img.freepik.com/free-vector/illustration-luggage_53876-5918.jpg?w=740&t=st=1696578633~exp=1696579233~hmac=ecd116df36fb4f427984aaecaccaf4c3311112c9a3d5e904425ffa51905f74dd",
   },
   {
     id: "7",
@@ -2537,7 +2572,8 @@ export const Bags = [
     rating: "4.0",
     description: "Compact and lightweight daypack for minimalist travelers.",
     ordered: "510+ people ordered in the last month",
-    image: "https://example.com/image7.jpg",
+    image:
+      "https://img.freepik.com/free-vector/illustration-briefcase_53876-27117.jpg?w=740&t=st=1696578654~exp=1696579254~hmac=efd6019b0c9e2fd406724b9c9d697a5b80a1f2c5c2db2f0bcb5b3e52df0b33e0",
   },
   {
     id: "8",
@@ -2548,7 +2584,8 @@ export const Bags = [
     description:
       "Stylish floral print backpack for fashion-forward individuals.",
     ordered: "390+ people ordered in the last month",
-    image: "https://example.com/image8.jpg",
+    image:
+      "https://img.freepik.com/free-photo/pink-school-bag_1101-1096.jpg?4&w=360&t=st=1696578734~exp=1696579334~hmac=d8d41cfa8b82e282898d7c8111c5f41fd99d23c8a64d489ca5f73e268a0dcc85",
   },
   {
     id: "9",
@@ -2558,7 +2595,8 @@ export const Bags = [
     rating: "4.8",
     description: "Waterproof backpack designed for outdoor adventures.",
     ordered: "370+ people ordered in the last month",
-    image: "https://example.com/image9.jpg",
+    image:
+      "https://img.freepik.com/premium-psd/view-backpack-mock-up_23-2149455966.jpg?w=360",
   },
   {
     id: "10",
@@ -2568,7 +2606,8 @@ export const Bags = [
     rating: "4.6",
     description: "Laptop backpack with a built-in USB charging port.",
     ordered: "600+ people ordered in the last month",
-    image: "https://example.com/image10.jpg",
+    image:
+      "https://img.freepik.com/premium-psd/view-backpack-mock-up_23-2149455974.jpg?w=360",
   },
   {
     id: "11",
@@ -2578,7 +2617,8 @@ export const Bags = [
     rating: "4.4",
     description: "Gym bag with a dedicated shoe compartment.",
     ordered: "440+ people ordered in the last month",
-    image: "https://example.com/image11.jpg",
+    image:
+      "https://img.freepik.com/free-photo/beauty-luxury-white-expensive-modern_1203-5967.jpg?w=900&t=st=1696578858~exp=1696579458~hmac=61965121caff9f293f89a150c6ac9b0894864dd951e6c2e4b88c350b302d64c9",
   },
   {
     id: "12",
@@ -2588,7 +2628,8 @@ export const Bags = [
     rating: "4.9",
     description: "Timeless leather messenger bag for business use.",
     ordered: "330+ people ordered in the last month",
-    image: "https://example.com/image12.jpg",
+    image:
+      "https://img.freepik.com/premium-photo/black-leather-women-s-backpack-isolated-white-surface-popular-type-bag_94064-6086.jpg?w=900",
   },
   {
     id: "13",
@@ -2599,7 +2640,8 @@ export const Bags = [
     description:
       "Fun and colorful school bag for kids with cartoon characters.",
     ordered: "680+ people ordered in the last month",
-    image: "https://example.com/image13.jpg",
+    image:
+      "https://img.freepik.com/premium-psd/view-backpack-mock-up_23-2149455965.jpg?w=360",
   },
   {
     id: "14",
@@ -2609,7 +2651,8 @@ export const Bags = [
     rating: "4.7",
     description: "Military-style backpack built for rugged outdoor use.",
     ordered: "420+ people ordered in the last month",
-    image: "https://example.com/image14.jpg",
+    image:
+      "https://img.freepik.com/free-photo/beautiful-elegance-luxury-fashion-women-blue-handbag_1203-7657.jpg?w=900&t=st=1696578880~exp=1696579480~hmac=56ac6e5af690fff48a55b9afe58ac0d1d72e30a7dc37630b203c56bd98fc5fa6",
   },
   {
     id: "15",
@@ -2619,7 +2662,8 @@ export const Bags = [
     rating: "4.5",
     description: "Stylish leather backpack for fashionable travelers.",
     ordered: "290+ people ordered in the last month",
-    image: "https://example.com/image15.jpg",
+    image:
+      "https://img.freepik.com/premium-photo/red-stylish-ladies-leather-bag-white-background_88135-23236.jpg?w=900",
   },
   {
     id: "16",
@@ -2629,7 +2673,8 @@ export const Bags = [
     rating: "4.2",
     description: "Canvas laptop bag with a comfortable shoulder strap.",
     ordered: "480+ people ordered in the last month",
-    image: "https://example.com/image16.jpg",
+    image:
+      "https://img.freepik.com/premium-photo/leather-female-blue-bag-handle-white-background_88135-21544.jpg?w=900",
   },
   {
     id: "17",
@@ -2639,7 +2684,8 @@ export const Bags = [
     rating: "4.6",
     description: "Travel backpack with multiple pockets and RFID protection.",
     ordered: "380+ people ordered in the last month",
-    image: "https://example.com/image17.jpg",
+    image:
+      "https://img.freepik.com/premium-photo/model-elegant-leather-women-bag-red-white-background_88135-21607.jpg?w=900",
   },
   {
     id: "18",
@@ -2649,7 +2695,8 @@ export const Bags = [
     rating: "4.3",
     description: "Recycled materials backpack for eco-conscious individuals.",
     ordered: "360+ people ordered in the last month",
-    image: "https://example.com/image18.jpg",
+    image:
+      "https://img.freepik.com/premium-photo/white-blank-shopping-bag-isolated_93675-66402.jpg?w=360",
   },
   {
     id: "19",
@@ -2659,7 +2706,8 @@ export const Bags = [
     rating: "4.1",
     description: "Sleek urban backpack for city commuters.",
     ordered: "520+ people ordered in the last month",
-    image: "https://example.com/image19.jpg",
+    image:
+      "https://img.freepik.com/premium-photo/blank-white-canvas-tote-bag-isolated-white_99974-559.jpg?w=740",
   },
   {
     id: "20",
@@ -2669,7 +2717,8 @@ export const Bags = [
     rating: "4.8",
     description: "Camouflage backpack designed for outdoor enthusiasts.",
     ordered: "410+ people ordered in the last month",
-    image: "https://example.com/image20.jpg",
+    image:
+      "https://img.freepik.com/premium-photo/leathern-handbag-white-background_463999-2970.jpg?w=360",
   },
   {
     id: "21",
@@ -2679,7 +2728,7 @@ export const Bags = [
     rating: "4.5",
     description: "Stylish leather tote bag designed for women.",
     ordered: "350+ people ordered in the last month",
-    image: "https://example.com/image21.jpg",
+    image: "https://img.freepik.com/premium-photo/women-bag_1159-798.jpg?w=740",
   },
   {
     id: "22",
@@ -2690,7 +2739,8 @@ export const Bags = [
     description:
       "Water-resistant backpack with a dedicated laptop compartment.",
     ordered: "490+ people ordered in the last month",
-    image: "https://example.com/image22.jpg",
+    image:
+      "https://img.freepik.com/premium-psd/leather-handle-bag-branding-mockup_439185-5280.jpg?w=900",
   },
   {
     id: "23",
@@ -2700,7 +2750,8 @@ export const Bags = [
     rating: "4.0",
     description: "Compact and foldable daypack for travelers on the go.",
     ordered: "600+ people ordered in the last month",
-    image: "https://example.com/image23.jpg",
+    image:
+      "https://img.freepik.com/free-photo/beautiful-elegance-luxury-fashion-women-bag_74190-4900.jpg?w=1060&t=st=1696656534~exp=1696657134~hmac=f7e2ac825ecc8b97fc69d88843aab0a8057a67b7df8c092d9e86e119a8106b49",
   },
   {
     id: "24",
@@ -2710,7 +2761,8 @@ export const Bags = [
     rating: "4.3",
     description: "Timeless canvas messenger bag for daily use.",
     ordered: "470+ people ordered in the last month",
-    image: "https://example.com/image24.jpg",
+    image:
+      "https://img.freepik.com/free-photo/luxury-handbag-leather-female-hand_1203-6507.jpg?w=360&t=st=1696656557~exp=1696657157~hmac=6f0154fbc06942373845dbb430aada31640f60f78f45f998d0df1bcf94a8aad3",
   },
   {
     id: "25",
@@ -2720,7 +2772,8 @@ export const Bags = [
     rating: "4.7",
     description: "Vintage leather backpack with a retro flair.",
     ordered: "320+ people ordered in the last month",
-    image: "https://example.com/image25.jpg",
+    image:
+      "https://img.freepik.com/premium-photo/women-s-beige-leather-handbag-isolated-white_414617-328.jpg?w=900",
   },
   {
     id: "26",
@@ -2730,7 +2783,8 @@ export const Bags = [
     rating: "4.2",
     description: "Fun and trendy floral print school bag for kids.",
     ordered: "590+ people ordered in the last month",
-    image: "https://example.com/image26.jpg",
+    image:
+      "https://img.freepik.com/premium-photo/havana-leather-bag-women-isolated-white-background_508084-59.jpg?w=900",
   },
   {
     id: "27",
@@ -2740,7 +2794,8 @@ export const Bags = [
     rating: "4.6",
     description: "Durable outdoor backpack with adjustable straps.",
     ordered: "410+ people ordered in the last month",
-    image: "https://example.com/image27.jpg",
+    image:
+      "https://img.freepik.com/free-photo/luxury-woman-handbag_1203-8393.jpg?w=900&t=st=1696656623~exp=1696657223~hmac=006ea0f5fed6e38e3eca90c01c6dcb9a1347b678d6d46065fd61b0bd20306ccf",
   },
   {
     id: "28",
@@ -2750,7 +2805,8 @@ export const Bags = [
     rating: "4.4",
     description: "Stylish leather satchel bag designed for women.",
     ordered: "380+ people ordered in the last month",
-    image: "https://example.com/image28.jpg",
+    image:
+      "https://img.freepik.com/free-photo/beautiful-men-fashion-with-leather-messenger-bag_1203-7607.jpg?w=360&t=st=1696656648~exp=1696657248~hmac=387b14ee9960c51772bf88d000efaf8b782cdf5d167121c45758db081d17de47",
   },
   {
     id: "29",
@@ -2760,7 +2816,8 @@ export const Bags = [
     rating: "4.9",
     description: "Elegant laptop briefcase for business professionals.",
     ordered: "300+ people ordered in the last month",
-    image: "https://example.com/image29.jpg",
+    image:
+      "https://img.freepik.com/premium-photo/leather-dark-brown-bag_136670-161.jpg?w=900",
   },
   {
     id: "30",
@@ -2771,340 +2828,334 @@ export const Bags = [
     description:
       "Tactical military backpack with a Molle system for customization.",
     ordered: "340+ people ordered in the last month",
-    image: "https://example.com/image30.jpg",
+    image:
+      "https://img.freepik.com/premium-photo/designer-genuine-leather-bag-men_88135-23097.jpg?w=900",
   },
 ];
 
-export const Grocery = [
+export const jewellery = [
   {
     id: "1",
-    title: "Naturoz Popular California Almonds",
-    price: "375",
-    rating: "4.8",
-    brand: "Naturoz",
-    quantity: "1 kg",
-    category: "grocery",
-    description: "It's so tasty and full with vitamins so eat and feat",
-    image: "https://nutsandmore.in/wp-content/uploads/2020/07/TES0256-2.jpg",
+    title: "Alloy Silver Bracelet",
+    brand: "Sonata",
+    price: "1299",
+    rating: "4.5",
+    ordered: "940+ people ordered in the last month",
+    description:
+      "This is the best bracelet for men and women with high flexibility.",
+    image:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvQjjX663OuUrtiJg63P7QkbIeE0gnZUiUSQ&usqp=CAU&reload=on",
   },
   {
     id: "2",
-    title: "Organic Brown Rice",
-    price: "250",
-    rating: "4.5",
-    brand: "Organic Farms",
-    quantity: "2 kg",
-    category: "grocery",
-    description: "100% organic brown rice for a healthy meal option.",
-    image: "https://example.com/rice.jpg",
+    title: "Diamond Engagement Ring",
+    brand: "Tiffany & Co.",
+    price: "4999",
+    rating: "4.8",
+    ordered: "750+ people ordered in the last month",
+    description: "A stunning diamond engagement ring for that special moment.",
+    image:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmFecCNVMi_Skua3Z4edGAjLrVaDA90toOU3oLtQDyf8KtW7V2qrKoqh84rPjE7Or2XRM&usqp=CAU",
   },
   {
     id: "3",
-    title: "Farm-Fresh Eggs",
-    price: "45",
+    title: "Pearl Necklace",
+    brand: "Mikimoto",
+    price: "2999",
     rating: "4.7",
-    brand: "Farm Fresh",
-    quantity: "1 dozen",
-    category: "grocery",
-    description: "Farm-fresh eggs for your breakfast needs.",
-    image: "https://example.com/eggs.jpg",
+    ordered: "800+ people ordered in the last month",
+    description: "Elegant pearl necklace for a timeless look.",
+    image:
+      "https://kinclimg3.bluestone.com/f_jpg,c_scale,w_1024,q_80,b_rgb:f0f0f0/giproduct/BISA0255N23_YAA18PRWHXXXXXXXX_ABCD00-PICS-00003-1024-9327.png",
   },
   {
     id: "4",
-    title: "Pure Honey",
-    price: "150",
+    title: "Gold Earrings",
+    brand: "Cartier",
+    price: "1899",
     rating: "4.6",
-    brand: "Nature's Best",
-    quantity: "500g",
-    category: "grocery",
-    description: "Delicious and pure honey for sweetening your dishes.",
-    image: "https://example.com/honey.jpg",
+    ordered: "700+ people ordered in the last month",
+    description: "Classy gold earrings to elevate your style.",
+    image:
+      "https://5.imimg.com/data5/SELLER/Default/2023/3/293777857/PO/QY/XC/116821860/wedding-wear-ladies-gold-earrings.jpg",
   },
   {
     id: "5",
-    title: "Organic Green Tea",
-    price: "120",
-    rating: "4.9",
-    brand: "Healthy Harvest",
-    quantity: "100g",
-    category: "grocery",
-    description: "Organic green tea for a refreshing and healthy drink.",
-    image: "https://example.com/greentea.jpg",
+    title: "Silver Anklet",
+    brand: "Pandora",
+    price: "899",
+    rating: "4.4",
+    ordered: "600+ people ordered in the last month",
+    description: "A delicate silver anklet to adorn your ankle.",
+    image: "https://m.media-amazon.com/images/I/61CwrTsZZ3L._AC_UY1100_.jpg",
   },
   {
     id: "6",
-    title: "Fresh Apples",
-    price: "60",
-    rating: "4.7",
-    brand: "Fruit Haven",
-    quantity: "1 kg",
-    category: "grocery",
-    description: "Crisp and juicy apples for snacking or cooking.",
-    image: "https://example.com/apples.jpg",
+    title: "Gemstone Pendant",
+    brand: "David Yurman",
+    price: "1499",
+    rating: "4.5",
+    ordered: "900+ people ordered in the last month",
+    description: "Exquisite gemstone pendant for a touch of color.",
+    image:
+      "https://cdn.caratlane.com/media/catalog/product/J/P/JP00656-YGP6RE_1_lar.jpg",
   },
   {
     id: "7",
-    title: "Whole Wheat Bread",
-    price: "40",
-    rating: "4.5",
-    brand: "Baker's Choice",
-    quantity: "400g",
-    category: "grocery",
-    description: "Healthy whole wheat bread for sandwiches.",
-    image: "https://example.com/bread.jpg",
+    title: "Rose Gold Bracelet",
+    brand: "Chopard",
+    price: "2499",
+    rating: "4.6",
+    ordered: "850+ people ordered in the last month",
+    description: "Chic rose gold bracelet for a modern look.",
+    image: "https://images.meesho.com/images/products/128862500/dtuot_512.webp",
   },
   {
     id: "8",
-    title: "Fresh Milk",
-    price: "55",
-    rating: "4.6",
-    brand: "Dairy Delight",
-    quantity: "1 liter",
-    category: "grocery",
-    description: "Farm-fresh milk for your daily needs.",
-    image: "https://example.com/milk.jpg",
+    title: "Sapphire Ring",
+    brand: "Harry Winston",
+    price: "3999",
+    rating: "4.7",
+    ordered: "950+ people ordered in the last month",
+    description: "A luxurious sapphire ring to dazzle.",
+    image:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTurKUnwM1iWpNVltwmYSK_u01SfkHQSIe-Ec1IYbHglksJ18ehtYrymEhhqfi8RXmNs1M&usqp=CAU",
   },
   {
     id: "9",
-    title: "Organic Spinach",
-    price: "30",
+    title: "Platinum Necklace",
+    brand: "Tiffany & Co.",
+    price: "3499",
     rating: "4.8",
-    brand: "Organic Greens",
-    quantity: "500g",
-    category: "grocery",
-    description: "Nutrient-rich organic spinach for your salads.",
-    image: "https://example.com/spinach.jpg",
+    ordered: "1000+ people ordered in the last month",
+    description: "A prestigious platinum necklace for special occasions.",
+    image: "https://gandaramjewellers.com/wp-content/uploads/20PTEPN31-1.png",
   },
   {
     id: "10",
-    title: "Canned Tomato Soup",
-    price: "65",
-    rating: "4.5",
-    brand: "Souperb",
-    quantity: "400g",
-    category: "grocery",
-    description: "Delicious canned tomato soup for a quick meal.",
-    image: "https://example.com/tomatosoup.jpg",
+    title: "Ruby Earrings",
+    brand: "Cartier",
+    price: "2799",
+    rating: "4.6",
+    ordered: "750+ people ordered in the last month",
+    description: "Dazzling ruby earrings for a bold statement.",
+    image: "https://therose.in/wp-content/uploads/2020/10/6STK20174_Main.jpg",
   },
   {
     id: "11",
-    title: "Ground Coffee Beans",
-    price: "120",
+    title: "Diamond Tennis Bracelet",
+    brand: "De Beers",
+    price: "4999",
     rating: "4.9",
-    brand: "Coffee Delights",
-    quantity: "250g",
-    category: "grocery",
-    description: "Freshly ground coffee beans for your morning brew.",
-    image: "https://example.com/coffee.jpg",
+    ordered: "1200+ people ordered in the last month",
+    description: "A classic diamond tennis bracelet that shines bright.",
+    image:
+      "https://cdn.caratlane.com/media/catalog/product/J/T/JT00571-RGP600_1_lar.jpg",
   },
   {
     id: "12",
-    title: "Organic Quinoa",
-    price: "180",
+    title: "Emerald Pendant",
+    brand: "David Yurman",
+    price: "1899",
     rating: "4.7",
-    brand: "Quinoa Farms",
-    quantity: "500g",
-    category: "grocery",
-    description: "Organic quinoa for a healthy and versatile grain.",
-    image: "https://example.com/quinoa.jpg",
+    ordered: "700+ people ordered in the last month",
+    description: "A mesmerizing emerald pendant to capture attention.",
+    image:
+      "https://www.chordiajewels.com/cdn/shop/products/CJ-1172-B-EM-YG-6_1445x.jpg?v=1668239793",
   },
   {
     id: "13",
-    title: "Extra Virgin Olive Oil",
-    price: "200",
-    rating: "4.8",
-    brand: "Olive Delights",
-    quantity: "750ml",
-    category: "grocery",
-    description: "High-quality extra virgin olive oil for cooking.",
-    image: "https://example.com/oliveoil.jpg",
+    title: "Gold Hoop Earrings",
+    brand: "Pandora",
+    price: "799",
+    rating: "4.5",
+    ordered: "900+ people ordered in the last month",
+    description: "Timeless gold hoop earrings for every occasion.",
+    image:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8-6hFPemgrjKrMcWn1ntenBMX3wFgBHPXRZnYhUO45oeiXpQpTq-HFpFeWCcAjYEhlSA&usqp=CAU",
   },
   {
     id: "14",
-    title: "Natural Peanut Butter",
-    price: "80",
+    title: "Amethyst Ring",
+    brand: "Tiffany & Co.",
+    price: "2299",
     rating: "4.6",
-    brand: "Peanut Bliss",
-    quantity: "350g",
-    category: "grocery",
-    description: "Healthy and natural peanut butter for spreads.",
-    image: "https://example.com/peanutbutter.jpg",
+    ordered: "800+ people ordered in the last month",
+    description: "A captivating amethyst ring for a touch of royalty.",
+    image:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNMP44ukqjhCGdMicNPHCqAT5zDow7WKdghXEzY_JkmjGqp1m--gRrT4zIYJMFsd5HHms&usqp=CAU",
   },
   {
     id: "15",
-    title: "Fresh Oranges",
-    price: "50",
-    rating: "4.7",
-    brand: "Citrus Delight",
-    quantity: "2 kg",
-    category: "grocery",
-    description: "Sweet and juicy oranges for a vitamin C boost.",
-    image: "https://example.com/oranges.jpg",
+    title: "Silver Bracelet with Charms",
+    brand: "Pandora",
+    price: "1199",
+    rating: "4.4",
+    ordered: "600+ people ordered in the last month",
+    description: "Personalize your style with a silver bracelet and charms.",
+    image: "https://m.media-amazon.com/images/I/512iCFMeIWL._AC_UY1100_.jpg",
   },
   {
     id: "16",
-    title: "Spaghetti Pasta",
-    price: "45",
-    rating: "4.5",
-    brand: "Pasta Perfect",
-    quantity: "500g",
-    category: "grocery",
-    description: "Classic spaghetti pasta for your Italian dishes.",
-    image: "https://example.com/spaghetti.jpg",
+    title: "Pearl Drop Earrings",
+    brand: "Mikimoto",
+    price: "1599",
+    rating: "4.7",
+    ordered: "700+ people ordered in the last month",
+    description: "Graceful pearl drop earrings for a touch of sophistication.",
+    image:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDgCoEq8FqewJ5pnK_yXuj8eaj-XK6QV18nzXAdqkqHnZrFlNBQwwQfD66RImQKmD3KGs&usqp=CAU",
   },
   {
     id: "17",
-    title: "Organic Cucumber",
-    price: "20",
-    rating: "4.8",
-    brand: "Organic Greens",
-    quantity: "500g",
-    category: "grocery",
-    description: "Organic cucumbers for salads and snacking.",
-    image: "https://example.com/cucumber.jpg",
+    title: "Diamond Stud Earrings",
+    brand: "De Beers",
+    price: "2999",
+    rating: "4.9",
+    ordered: "1100+ people ordered in the last month",
+    description: "Classic diamond stud earrings for timeless elegance.",
+    image:
+      "https://cdn.caratlane.com/media/catalog/product/J/E/JE06181-1YP900_1_lar.jpg",
   },
   {
     id: "18",
-    title: "Canned Tuna",
-    price: "55",
-    rating: "4.6",
-    brand: "Sea Harvest",
-    quantity: "200g",
-    category: "grocery",
-    description: "Canned tuna for quick and easy protein.",
-    image: "https://example.com/tuna.jpg",
+    title: "Silver Bangle",
+    brand: "Tiffany & Co.",
+    price: "999",
+    rating: "4.5",
+    ordered: "750+ people ordered in the last month",
+    description: "A sleek and minimalist silver bangle for modern style.",
+    image:
+      "https://silverpalace.in/uploads/products/img-190631809861d5499409cbd5.46753394.jpg",
   },
   {
     id: "19",
-    title: "Natural Yogurt",
-    price: "60",
-    rating: "4.5",
-    brand: "Dairy Delight",
-    quantity: "500g",
-    category: "grocery",
-    description: "Creamy and natural yogurt for a healthy snack.",
-    image: "https://example.com/yogurt.jpg",
+    title: "Ruby Pendant",
+    brand: "Harry Winston",
+    price: "3499",
+    rating: "4.8",
+    ordered: "950+ people ordered in the last month",
+    description: "A radiant ruby pendant to steal the spotlight.",
+    image:
+      "https://i0.wp.com/www.lagubandhu.in/wp-content/uploads/2021/12/21HO17706-2.png?fit=1000%2C1000&ssl=1",
   },
   {
     id: "20",
-    title: "Fresh Tomatoes",
-    price: "40",
+    title: "Gold Chain Necklace",
+    brand: "Cartier",
+    price: "2599",
     rating: "4.7",
-    brand: "Tomato Fresh",
-    quantity: "1 kg",
-    category: "grocery",
-    description: "Ripe and juicy tomatoes for cooking and salads.",
-    image: "https://example.com/tomatoes.jpg",
+    ordered: "850+ people ordered in the last month",
+    description: "A timeless gold chain necklace to complete your look.",
+    image:
+      "https://img0.junaroad.com/uiproducts/16884191/zoom_0-1579784423.jpg",
   },
   {
     id: "21",
-    title: "Whole Wheat Pasta",
-    price: "50",
-    rating: "4.8",
-    brand: "Pasta Delights",
-    quantity: "400g",
-    category: "grocery",
-    description: "Whole wheat pasta for a healthier pasta dish.",
-    image: "https://example.com/wheatpasta.jpg",
+    title: "Emerald Ring",
+    brand: "David Yurman",
+    price: "1999",
+    rating: "4.6",
+    ordered: "700+ people ordered in the last month",
+    description: "A captivating emerald ring to grace your finger.",
+    image: "https://images.meesho.com/images/products/165429510/nfkkv_512.webp",
   },
   {
     id: "22",
-    title: "Organic Honeycrisp Apples",
-    price: "80",
-    rating: "4.9",
-    brand: "Organic Orchards",
-    quantity: "1 kg",
-    category: "grocery",
-    description: "Organic Honeycrisp apples for a sweet and crisp snack.",
-    image: "https://example.com/honeycrisp.jpg",
+    title: "Silver Locket Necklace",
+    brand: "Pandora",
+    price: "899",
+    rating: "4.5",
+    ordered: "600+ people ordered in the last month",
+    description: "Keep your memories close with a silver locket necklace.",
+    image: "https://m.media-amazon.com/images/I/71few55BoBL.jpg",
   },
   {
     id: "23",
-    title: "Brown Bread",
-    price: "35",
-    rating: "4.6",
-    brand: "Healthy Bakes",
-    quantity: "400g",
-    category: "grocery",
-    description: "Healthy brown bread for your sandwiches.",
-    image: "https://example.com/brownbread.jpg",
+    title: "Sapphire Bracelet",
+    brand: "Tiffany & Co.",
+    price: "2999",
+    rating: "4.7",
+    ordered: "800+ people ordered in the last month",
+    description: "A sophisticated sapphire bracelet for refined elegance.",
+    image:
+      "https://www.josephjewelry.com/images/bracelets-charms/Pastel-Blue-Sapphire-and-Diamond-Bracelet-W-flat-105652.jpg",
   },
   {
     id: "24",
-    title: "Freshly Squeezed Orange Juice",
-    price: "70",
-    rating: "4.8",
-    brand: "Citrus Delight",
-    quantity: "1 liter",
-    category: "grocery",
-    description: "Freshly squeezed orange juice for a refreshing drink.",
-    image: "https://example.com/orangejuice.jpg",
+    title: "Diamond Pendant Necklace",
+    brand: "De Beers",
+    price: "4499",
+    rating: "4.9",
+    ordered: "1000+ people ordered in the last month",
+    description: "A dazzling diamond pendant necklace to shine bright.",
+    image:
+      "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw8d3c76a1/images/hi-res/502998PTSAAA02_1.jpg",
   },
   {
     id: "25",
-    title: "Organic Chia Seeds",
-    price: "120",
-    rating: "4.7",
-    brand: "Chia Naturals",
-    quantity: "250g",
-    category: "grocery",
-    description: "Organic chia seeds for a nutritious boost.",
-    image: "https://example.com/chia.jpg",
+    title: "Gold Cuff Bracelet",
+    brand: "Cartier",
+    price: "1699",
+    rating: "4.6",
+    ordered: "750+ people ordered in the last month",
+    description: "A stylish gold cuff bracelet to make a statement.",
+    image:
+      "https://137398387.cdn6.editmysite.com/uploads/1/3/7/3/137398387/s501594858141192536_p1153_i1_w2835.jpeg?width=2400&optimize=medium",
   },
   {
     id: "26",
-    title: "Crispy Potato Chips",
-    price: "25",
-    rating: "4.5",
-    brand: "Snack Time",
-    quantity: "200g",
-    category: "grocery",
-    description: "Crispy potato chips for snacking.",
-    image: "https://example.com/potatochips.jpg",
+    title: "Amethyst Earrings",
+    brand: "David Yurman",
+    price: "1399",
+    rating: "4.7",
+    ordered: "700+ people ordered in the last month",
+    description: "Exquisite amethyst earrings for a touch of elegance.",
+    image:
+      "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw1dff3ba4/images/hi-res/502413DBUABA37_1.jpg",
   },
   {
     id: "27",
-    title: "Organic Avocado",
-    price: "40",
-    rating: "4.8",
-    brand: "Avocado Farms",
-    quantity: "1 piece",
-    category: "grocery",
-    description: "Fresh organic avocado for your salads and spreads.",
-    image: "https://example.com/avocado.jpg",
+    title: "Silver Stud Earrings",
+    brand: "Pandora",
+    price: "699",
+    rating: "4.5",
+    ordered: "900+ people ordered in the last month",
+    description: "Classic silver stud earrings for everyday elegance.",
+    image:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG9v08HIoaLLFdzWwFiLGNIz9v3V7i-6n9LA&usqp=CAU",
   },
   {
     id: "28",
-    title: "Canned Corn",
-    price: "30",
-    rating: "4.6",
-    brand: "Corn Delights",
-    quantity: "400g",
-    category: "grocery",
-    description: "Canned corn for salads and side dishes.",
-    image: "https://example.com/corn.jpg",
+    title: "Pearl Bracelet",
+    brand: "Mikimoto",
+    price: "1299",
+    rating: "4.4",
+    ordered: "600+ people ordered in the last month",
+    description: "A graceful pearl bracelet for a touch of luxury.",
+    image: "https://m.media-amazon.com/images/I/51wrLKePjsL._AC_UY1100_.jpg",
   },
   {
     id: "29",
-    title: "Organic Almond Butter",
-    price: "100",
-    rating: "4.7",
-    brand: "Almond Bliss",
-    quantity: "350g",
-    category: "grocery",
-    description: "Organic almond butter for a healthy spread.",
-    image: "https://example.com/almondbutter.jpg",
+    title: "Ruby Bracelet",
+    brand: "Harry Winston",
+    price: "2399",
+    rating: "4.8",
+    ordered: "950+ people ordered in the last month",
+    description: "A vibrant ruby bracelet to add color to your style.",
+    image:
+      "https://therose.in/wp-content/uploads/products-images/COL_S.BRC_D.COLST.G_00291_4_Main.jpg",
   },
   {
     id: "30",
-    title: "Fresh Lemons",
-    price: "25",
-    rating: "4.5",
-    brand: "Citrus Delight",
-    quantity: "500g",
-    category: "grocery",
-    description: "Fresh lemons for cooking and beverages.",
-    image: "https://example.com/lemons.jpg",
+    title: "Gold Wedding Band",
+    brand: "Tiffany & Co.",
+    price: "1799",
+    rating: "4.7",
+    ordered: "800+ people ordered in the last month",
+    description: "A classic gold wedding band for your special day.",
+    image:
+      "https://www.jewelove.in/cdn/shop/products/jewelove-2-tone-yellow-gold-white-gold-wedding-band-with-single-diamond-jl-au-110-men-s-band-only-si-ij-21672822788.jpg?v=1680523398",
   },
 ];
 
@@ -3119,7 +3170,7 @@ export const Sports = [
     description:
       "Built with high-quality material and fabric that is so comfortable for your leg.",
     image:
-      "https://assets.sunnewsonline.com/2021/08/1c5b1aa3386eeb2c21d633f04e2ddfbe.jpeg",
+      "https://img.freepik.com/free-vector/vector-isolated-realistic-soccer-ball-white_1284-41932.jpg?w=740&t=st=1696657157~exp=1696657757~hmac=b650f88b6d9411bc4599087cecaaeeb3c79d120170297a75949014c6b0c3bafd",
   },
   {
     id: "2",
@@ -3130,7 +3181,8 @@ export const Sports = [
     category: "sport",
     description:
       "Top-notch running shoes designed for maximum comfort and performance.",
-    image: "https://example.com/product2.jpg",
+    image:
+      "https://img.freepik.com/free-vector/basketball-ball-isolated_1284-42545.jpg?w=740&t=st=1696657218~exp=1696657818~hmac=b5b91049a187a589233b8b64d89be7d42465a26d2afc98cd3ca7c0c062d37000",
   },
   {
     id: "3",
@@ -3140,7 +3192,8 @@ export const Sports = [
     rating: "4.7",
     category: "sport",
     description: "High-quality yoga mat for your daily practice.",
-    image: "https://example.com/product3.jpg",
+    image:
+      "https://img.freepik.com/free-photo/bright-orange-braun-basketball-ball-professional-sport-equipment-isolated-green-background_155003-32061.jpg?w=360&t=st=1696657251~exp=1696657851~hmac=fd494de8e7c330c182d835cb248677167bb48f21640adab7c8c7cd82e6006352",
   },
   {
     id: "4",
@@ -3150,7 +3203,8 @@ export const Sports = [
     rating: "4.6",
     category: "sport",
     description: "Pro-level tennis racket for serious players.",
-    image: "https://example.com/product4.jpg",
+    image:
+      "https://img.freepik.com/free-vector/inflatable-beach-ball_1308-82988.jpg?w=740&t=st=1696657271~exp=1696657871~hmac=1f77722cd214de585c7239603b5d98932b41191ea93cdc9d8384eac6a9b46a33",
   },
   {
     id: "5",
@@ -3160,7 +3214,8 @@ export const Sports = [
     rating: "4.5",
     category: "sport",
     description: "Comfortable and stylish basketball shorts for men.",
-    image: "https://example.com/product5.jpg",
+    image:
+      "https://img.freepik.com/free-vector/hockey-stick_78370-494.jpg?w=740&t=st=1696658120~exp=1696658720~hmac=28e1bbb652c8cc29f3a4a35f95c0c932cb263105fb30acecebf79aaf3e697e62",
   },
   {
     id: "6",
@@ -3170,7 +3225,8 @@ export const Sports = [
     rating: "4.4",
     category: "sport",
     description: "Protective gloves for CrossFit workouts.",
-    image: "https://example.com/product6.jpg",
+    image:
+      "https://img.freepik.com/free-vector/soccer-ball-background-flat-style_23-2147788669.jpg?w=740&t=st=1696657173~exp=1696657773~hmac=33f18aca5a2956a67a17c72a8d3a685c6057b86907bdd4e4b0e21ec001428175",
   },
   {
     id: "7",
@@ -3180,7 +3236,8 @@ export const Sports = [
     rating: "4.8",
     category: "sport",
     description: "High-quality baseball glove for serious players.",
-    image: "https://example.com/product7.jpg",
+    image:
+      "https://img.freepik.com/premium-vector/tennis-racket-ball-isolated-illustration_185107-40.jpg",
   },
   {
     id: "8",
@@ -3190,7 +3247,8 @@ export const Sports = [
     rating: "4.7",
     category: "sport",
     description: "Premium badminton racket for precision shots.",
-    image: "https://example.com/product8.jpg",
+    image:
+      "https://img.freepik.com/premium-vector/badminton-racket-shuttlecock-gradient-object-illustration_507807-51.jpg",
   },
   {
     id: "9",
@@ -3200,7 +3258,8 @@ export const Sports = [
     rating: "4.6",
     category: "sport",
     description: "Durable hiking boots for outdoor adventures.",
-    image: "https://example.com/product9.jpg",
+    image:
+      "https://img.freepik.com/free-psd/3d-render-illustration-tennis-isolated-icon_439185-11813.jpg?w=740&t=st=1696658008~exp=1696658608~hmac=5afa1338c5fe658617991e46d26110edd5e3570447f54ec698969a071e49bee6",
   },
   {
     id: "10",
@@ -3210,7 +3269,8 @@ export const Sports = [
     rating: "4.5",
     category: "sport",
     description: "High-performance running shorts for women.",
-    image: "https://example.com/product10.jpg",
+    image:
+      "https://img.freepik.com/premium-vector/soccer-jersey-design-sublimation-sport-t-shirt-design_29096-3079.jpg",
   },
   {
     id: "11",
@@ -3220,7 +3280,8 @@ export const Sports = [
     rating: "4.8",
     category: "sport",
     description: "Official NBA basketball for serious players.",
-    image: "https://example.com/product11.jpg",
+    image:
+      "https://img.freepik.com/premium-vector/realistic-badminton-racquet-with-shuttlecock_208581-1330.jpg?w=740",
   },
   {
     id: "12",
@@ -3230,7 +3291,8 @@ export const Sports = [
     rating: "4.7",
     category: "sport",
     description: "Supportive yoga block for better alignment.",
-    image: "https://example.com/product12.jpg",
+    image:
+      "https://img.freepik.com/premium-vector/field-hockey-equipment-small-ball-game-played-two-teams-who-use-hooked-sticks-drive-small-hard-object-toward-goals-isolated_91248-784.jpg?w=740",
   },
   {
     id: "13",
@@ -3240,7 +3302,8 @@ export const Sports = [
     rating: "4.6",
     category: "sport",
     description: "Comfortable and stylish running shoes for men.",
-    image: "https://example.com/product13.jpg",
+    image:
+      "https://img.freepik.com/free-psd/casino-cue-sticks-icon-render_23-2149326541.jpg?w=740&t=st=1696658189~exp=1696658789~hmac=d03241bc0da345f08f4077b72a31edc108836cb75eb332f1151e81afa5549bb8",
   },
   {
     id: "14",
@@ -3250,7 +3313,8 @@ export const Sports = [
     rating: "4.5",
     category: "sport",
     description: "Tennis skirt for women with style and performance.",
-    image: "https://example.com/product14.jpg",
+    image:
+      "https://img.freepik.com/premium-vector/soccer-jersey-design-sublimation-sport-t-shirt-design_29096-2998.jpg",
   },
   {
     id: "15",
@@ -3260,7 +3324,8 @@ export const Sports = [
     rating: "4.8",
     category: "sport",
     description: "High-quality baseball bat for power hitters.",
-    image: "https://example.com/product15.jpg",
+    image:
+      "https://img.freepik.com/free-vector/abstract-3d-sphere-with-pattern-sphere-design_460848-9495.jpg?w=740&t=st=1696657283~exp=1696657883~hmac=f9819753d258b7584b138e84c92e07754c018a26301d83e031961eaa669d2ff8",
   },
   {
     id: "16",
@@ -3270,7 +3335,8 @@ export const Sports = [
     rating: "4.7",
     category: "sport",
     description: "Official volleyball for competitive play.",
-    image: "https://example.com/product16.jpg",
+    image:
+      "https://img.freepik.com/premium-vector/sports-shirt-design-ready-print-football-shirt-sublimation_29096-4092.jpg?w=740",
   },
   {
     id: "17",
@@ -3280,7 +3346,8 @@ export const Sports = [
     rating: "4.6",
     category: "sport",
     description: "CrossFit shoes for men with durability and support.",
-    image: "https://example.com/product17.jpg",
+    image:
+      "https://img.freepik.com/premium-photo/black-american-football-helmet_110488-179.jpg?w=996",
   },
   {
     id: "18",
@@ -3290,7 +3357,8 @@ export const Sports = [
     rating: "4.5",
     category: "sport",
     description: "High-quality soccer ball for women's teams.",
-    image: "https://example.com/product18.jpg",
+    image:
+      "https://img.freepik.com/premium-photo/usa-american-football-helmet_110488-364.jpg?w=996",
   },
   {
     id: "19",
@@ -3300,7 +3368,8 @@ export const Sports = [
     rating: "4.8",
     category: "sport",
     description: "Softball glove designed for precision fielding.",
-    image: "https://example.com/product19.jpg",
+    image:
+      "https://img.freepik.com/premium-photo/blue-american-football-helmet_110488-184.jpg?w=996",
   },
   {
     id: "20",
@@ -3310,7 +3379,8 @@ export const Sports = [
     rating: "4.7",
     category: "sport",
     description: "High-quality shuttlecocks for badminton enthusiasts.",
-    image: "https://example.com/product20.jpg",
+    image:
+      "https://img.freepik.com/premium-psd/wooden-oars-decor-mockup-floating_1332-10457.jpg",
   },
   {
     id: "21",
@@ -3320,7 +3390,8 @@ export const Sports = [
     rating: "4.6",
     category: "sport",
     description: "Durable outdoor jacket for women.",
-    image: "https://example.com/product21.jpg",
+    image:
+      "https://img.freepik.com/premium-vector/baseball-bats-baseball-illustration_153563-1159.jpg",
   },
   {
     id: "22",
@@ -3330,7 +3401,8 @@ export const Sports = [
     rating: "4.5",
     category: "sport",
     description: "Wrestling shoes for men with grip and support.",
-    image: "https://example.com/product22.jpg",
+    image:
+      "https://img.freepik.com/premium-vector/beach-ball_149267-671.jpg?w=740",
   },
   {
     id: "23",
@@ -3340,7 +3412,8 @@ export const Sports = [
     rating: "4.8",
     category: "sport",
     description: "In-ground basketball hoop for serious players.",
-    image: "https://example.com/product23.jpg",
+    image:
+      "https://img.freepik.com/free-psd/blue-gradient-helmet-mock-up_1310-167.jpg?w=1060&t=st=1696657726~exp=1696658326~hmac=c4b347c6cd9be46b4e0f1b9fb8b77fc98d7b76f152f84afef9c2cbd3add8fbb2",
   },
   {
     id: "24",
@@ -3350,7 +3423,8 @@ export const Sports = [
     rating: "4.7",
     category: "sport",
     description: "High-quality yoga mat for comfortable practice.",
-    image: "https://example.com/product24.jpg",
+    image:
+      "https://img.freepik.com/premium-vector/red-dice-with-white-pips-two-red-falling-dice-isolated-white-casino-gambling-template-concept_149267-2359.jpg",
   },
   {
     id: "25",
@@ -3360,7 +3434,8 @@ export const Sports = [
     rating: "4.6",
     category: "sport",
     description: "Running shoes for women with style and performance.",
-    image: "https://example.com/product25.jpg",
+    image:
+      "https://img.freepik.com/premium-photo/red-cricket-ball-wooden-bat-isolated-white_124894-719.jpg?w=740",
   },
   {
     id: "26",
@@ -3370,7 +3445,8 @@ export const Sports = [
     rating: "4.5",
     category: "sport",
     description: "Tennis racket for men with power and control.",
-    image: "https://example.com/product26.jpg",
+    image:
+      "https://img.freepik.com/premium-vector/bat-criket_110233-1676.jpg?w=740",
   },
   {
     id: "27",
@@ -3380,7 +3456,8 @@ export const Sports = [
     rating: "4.8",
     category: "sport",
     description: "Baseball glove designed for fielding excellence.",
-    image: "https://example.com/product27.jpg",
+    image:
+      "https://img.freepik.com/free-vector/two-racket-tennis-ball-illustration_24877-60158.jpg?w=740&t=st=1696657490~exp=1696658090~hmac=629fbf4298e0e164fe44bb4046550aec7ff6c6096e5b9a44cd3fd1b17bbb2edb",
   },
   {
     id: "28",
@@ -3390,7 +3467,8 @@ export const Sports = [
     rating: "4.7",
     category: "sport",
     description: "Durable soccer ball for recreational play.",
-    image: "https://example.com/product28.jpg",
+    image:
+      "https://img.freepik.com/premium-vector/red-classic-glossy-realistic-circle-ball-clear-3d-template-balloon-globe-design-vector_92753-7663.jpg?w=740",
   },
   {
     id: "29",
@@ -3400,7 +3478,8 @@ export const Sports = [
     rating: "4.6",
     category: "sport",
     description: "CrossFit shorts for women with flexibility and style.",
-    image: "https://example.com/product29.jpg",
+    image:
+      "https://img.freepik.com/free-psd/shuttlecock-icon-isolated-3d-render-illustration_47987-11131.jpg?w=740&t=st=1696657445~exp=1696658045~hmac=8bbf99593e2db22589f676b4585f7a747712fbf3d11ed486daa62a57c226e848",
   },
   {
     id: "30",
@@ -3410,6 +3489,9 @@ export const Sports = [
     rating: "4.5",
     category: "sport",
     description: "Soccer cleats for men with traction and control.",
-    image: "https://example.com/product30.jpg",
+    image:
+      "https://img.freepik.com/premium-vector/cricket-bat-vector-illustration_110233-78.jpg?w=740",
   },
 ];
+
+
