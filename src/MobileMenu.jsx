@@ -50,10 +50,10 @@ function MobileMenu() {
   }, []);
 
   return (
-    <div className="flex h-[78vh] justify-center items-center mt-32 ">
+    <div className="flex h-[78vh] justify-center items-center mt-32 relative top-2 ">
       {mobileData.length == 1 && (
-        <div className="test border-4 border-yellow-500 rounded-2xl relative top-12 duration-500 hover:border-blue-500 flex w-[600px]">
-          <div className="border-r-2 flex-1 ">
+        <div className="test border-4 border-yellow-500 rounded-2xl relative top-12 duration-500 hover:border-blue-500 flex w-[740px]">
+          <div className="border-r-2 w-[60%] ">
             <img className="h-full rounded-2xl" src={image} alt="mobile" />
           </div>
 
@@ -65,36 +65,36 @@ function MobileMenu() {
               {val == false ? <span>🤍</span> : <span>❤️</span>}
             </div>
 
-            <ul className=" text-white">
-              <li className="text-white text-center rounded-lg bg-red-400 w-44 ">
+            <ul className=" text-white text-center font-semibold">
+              <li className="text-white  rounded-lg bg-teal-500 text-xl">
                 {title}
               </li>
-              <li className="bg-cyan-400 rounded-lg mt-1 w-20">
+              <li className="bg-cyan-400 rounded-lg mt-1">
                 <BsCurrencyRupee className="inline -mt-[2px] text-xl" />
                 {price}
               </li>
-              <li className="bg-green-400 mt-1 w-48 rounded-lg px-1 mt-1">
+              <li className="bg-green-400 mt-1 rounded-lg px-1 mt-1">
                 {ram} Ram + {rom} Rom
               </li>
-              <li className="bg-purple-500 w-32 mt-1 rounded-lg px-1 text-center">
+              <li className="bg-purple-500 mt-1 rounded-lg px-1 ">
                 {display}
               </li>
-              <li className="bg-amber-500 rounded-lg w-44 text-center mt-1">
+              <li className="bg-amber-500 rounded-lg  mt-1">
                 {frontCamera} (front-camera)
               </li>
-              <li className="bg-lime-500 rounded-lg mt-1 w-44 px-1">
+              <li className="bg-lime-500 rounded-lg mt-1 px-1">
                 {backCamera} (back-camera)
               </li>
-              <li className="rounded-lg bg-fuchsia-500 mt-1 w-28 text-center">
+              <li className="rounded-lg bg-fuchsia-500 mt-1 ">
                 {Processor}
               </li>
-              <li className="border-2 w-20 text-center bg-green-500 text-white rounded-lg mt-1">
+              <li className="border-2  bg-green-500 text-white rounded-lg mt-1">
                 {rating} rating
               </li>
               <li className="bg-slate-500 py-[2px] rounded-lg px-2 mt-1">
                 {description}
               </li>
-              <li className="bg-teal-500 py-[2px] rounded-lg mt-1 px-1">
+              <li className="bg-red-400 py-[2px] rounded-lg mt-1 px-1">
                 {ordered}
               </li>
             </ul>
@@ -103,10 +103,10 @@ function MobileMenu() {
             {/* w-full mt-[28px] text-white  p-1 rounded-lg rounded-t-md hover:text-blue-500 duration-500 hover:bg-yellow-500 rounded-b-[10px] bg-blue-400 text-yellow-500 text-center font-bold */}
 
             <div className="flex justify-around">
-              <button className="font-bold bg-blue-500 text-white m-2 hover:text-blue-500 duration-500 hover:bg-yellow-500 rounded-lg px-2">
+              <button className="font-bold border-4 border-yellow-500 bg-blue-500 text-white m-2 duration-500 hover:bg-yellow-500 hover:border-blue-500 rounded-lg px-2">
                 Add to cart
               </button>
-              <button className="font-bold p-1 bg-blue-500 text-white m-2 hover:text-blue-500 duration-500 hover:bg-yellow-500 rounded-lg px-2">
+              <button className="font-bold p-1 bg-blue-500 text-white border-4 border-yellow-500 m-2  duration-500 hover:bg-yellow-500 hover:border-blue-500 rounded-lg px-2">
                 Proceed to buy
               </button>
             </div>
