@@ -3,7 +3,6 @@ import Navbar from "./Header";
 import {  useDispatch } from "react-redux";
 import { useEffect } from "react";
 import { fetchProduct } from "./Slice";
-import Test from "./Test";
 import ZeroList from "./ZeroList";
 import Footer from "./Footer";
 import MobilePage from "./MobilePage";
