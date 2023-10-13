@@ -22,9 +22,13 @@ import "swiper/css/pagination";
 import "swiper/css/navigation";
 import "./style.css";
 
+import { addItem } from './SliceSecond';
+import { useDispatch } from 'react-redux';
+
 import { Autoplay, Pagination, Navigation } from "swiper/modules";
 
 function BodyFirst() {
+
   return (
     <div className="flex p-4">
       <div>

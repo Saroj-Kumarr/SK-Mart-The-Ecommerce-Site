@@ -11,15 +11,17 @@ import ZeroList from "./ZeroList";
 function Header() {
   return (
     <>
-      <div className="flex justify-around z-20 bg-[#0071DC] p-6 items-center fixed w-full -mt-8">
-        <div className="flex -mt-4">
-          <h1 className="font-bold text-3xl text-white">
+      <div className="flex justify-around z-20 px-8 py-4 items-center fixed w-full -mt-8 bg-black">
+        <div className="flex">
+          {/* <h1 className="font-bold text-3xl text-white">
             SK <BiSolidShoppingBags className="inline text-[#FFC220] mb-1" />{" "}
             <span>Mart</span>
-          </h1>
+          </h1> */}
+            <img src="https://www.skmart.co.in/public/uploads/all/WK7dld3u0l1c34hHQlNwNWziuLaskkpib67H7isz.png" alt="logo" className="h-10 -mt-2 inline-block"/>
+            <BiSolidShoppingBags className="inline text-[#FFC220] relative -top-[2px] left-1 text-3xl" />
         </div>
 
-        <div className="relative w-[600px] relative left-32  flex flex-1 -mt-4 ">
+        <div className="relative w-[600px] relative left-32  flex flex-1  ">
           <input
             type="text"
             className="p-2 rounded-3xl w-[75%] focus:outline-[#0071DC]"
@@ -30,9 +32,9 @@ function Header() {
           </div>
         </div>
 
-        <div className="flex justify-between w-[22%]">
-          <div className="text-white flex justify-around w-60  text-lg font-bold relative top-20;">
-            <h1 className="mt-[1px] relative z-20  text-[#FFC220] hover:text-white duration-300 mx-4">
+        <div className="flex justify-between w-[22%] relative top-4">
+          <div className="text-white flex justify-around w-60  text-lg font-bold relative">
+            <h1 className="mt-[1px]  text-[#FFC220] relative z-20  hover:text-white duration-300 mx-4">
               Home
             </h1>
             <h1 className="mt-[1px] text-[#FFC220] hover:text-white z-20 duration-300 mx-4">
@@ -54,7 +56,7 @@ function Header() {
           </div>
         </div>
       </div>
-      <ZeroList />
+      {/* <ZeroList /> */}
     </>
   );
 }

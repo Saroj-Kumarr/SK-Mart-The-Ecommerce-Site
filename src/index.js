@@ -10,6 +10,7 @@ import ErrorPage from "./ErrorPage";
 import MobilePage from "./MobilePage";
 import Body from "./Body";
 import MobileMenu from "./MobileMenu";
+import MainMenuPage from "./MainMenuPage";
 
 const appRouter = createBrowserRouter([
   {
@@ -24,10 +25,15 @@ const appRouter = createBrowserRouter([
       {
         path: "/mobiles",
         element: <MobilePage />,
-      },{
-            path:"/mobiles/:id",
-            element:<MobileMenu/>
-      }
+      },
+      {
+        path: "/mobiles/:id",
+        element: <MobileMenu />,
+      },
+      {
+        path: "/:resid",
+        element: <MainMenuPage />,
+      },
     ],
   },
 ]);
