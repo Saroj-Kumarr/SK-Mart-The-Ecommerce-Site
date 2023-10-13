@@ -11,7 +11,7 @@ import { FaFacebookSquare } from "react-icons/fa";
 function Signup() {
   return (
     <div className="test h-[66vh] border-black relative top-32 w-[70%] left-52 flex border-2 p-4">
-      <div className="w-[70%]">
+      <div className="w-[70%] ">
         <img src={banner} alt="banner" />
       </div>
       <div className="w-[40%]">
@@ -19,7 +19,7 @@ function Signup() {
           
           <div className="flex items-center justify-center">
             <form className="font-semibold border-2 border-black p-2 pb-4 -mt-[8px]">
-            <h1 className="font-bold w-full text-center text-[#FFC220] my-2 bg-black p-2">
+            <h1 className="font-bold w-full border-2 border-[#FFC220] text-center text-[#FFC220] my-2 bg-black p-2">
             <span className="text-2xl relative ">
               {" "}
               Welcome{" "}
@@ -30,33 +30,39 @@ function Signup() {
             {/* SK <BiSolidShoppingBags className="inline text-[#FFC220] mb-1" />{" "}
             <span>Mart</span> */}
           </h1>
-              <div className="border-b-2 border-black">
-              <label className="ml-20 relative top-2 inline-block">
+              <div className="border-b-2 border-black mb-1 mx-5">
+              <label className="ml-20  relative top-2 inline-block">
                 <BiSolidUserRectangle className="text-2xl" />
               </label>
               <input
                 type="text"
-                className="  text-center my-3 ml-5  p-2"
+                className=" focus:outline-none  my-3 px-2"
                 placeholder="Enter your name"
               />
               </div>
-              {/* <label className="ml-5 inline-block">
+              <div className="border-b-2 border-black mb-1 mx-5">
+              <label className="ml-20  relative top-2 inline-block">
                 <MdEmail className="text-2xl" />
               </label>
               <input
                 type="text"
-                className="border-2 border-black  text-center my-3 ml-5 w-[78%] p-2"
+                className=" focus:outline-none  my-3 px-2"
                 placeholder="Enter your email"
               />
-              <label className="ml-5 inline-block">
-                <BsFillFileLock2Fill className="text-2xl" />
+              </div>
+              <div className="border-b-2 border-black mb-1 mx-5">
+              <label className="ml-20  relative top-2 inline-block">
+                <BsFillFileLock2Fill  className="text-2xl" />
               </label>
               <input
                 type="text"
-                className="border-2 border-black text-center my-3 ml-5 w-[78%] p-2"
+                className=" focus:outline-none  my-3 px-2"
                 placeholder="Enter your password"
-              /> */}
-              <button className="bg-black text-white font-bold w-[90%] ml-5 p-2">
+              />
+              </div>
+             
+               
+              <button className="bg-black text-white font-bold w-[90%] ml-5 p-3 border-2 border-[#FFC220] mt-3">
                 Sign up
               </button>
               <button className="border-2 border-black mt-4 font-bold  w-[90%] ml-5 text-center hover:border-blue-500 duration-500 ">
