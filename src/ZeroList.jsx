@@ -52,22 +52,27 @@ function ZeroList() {
 
   return (
     <>
-    <div className="flex w-full mt-[56px] bg-white fixed z-20 test2">
-      {List.map(({ name, image }) => {
-        return (
-         <Link to={"/"+name}>
-           <div className="mb-3 ml-2">
-            <div className="border-4 border-2 border-blue-500 test duration-300 mt-4  rounded-[50%] h-32 w-32 mx-4 flex flex-col justify-center items-center ">
-           <img className="rounded-[50%] border-[4px] border-[#FFC220]  h-32 w-32 hover:scale-110 duration-500" src={image} alt="image"/>
-          
-          </div>
-          <h1 className="font-semibold ml-[52px] text-blue-500 ">{name}</h1>
-          </div>
-         </Link>
-        );
-      })}
-    </div>
-    <h1 className="bg-slate-200 h-[1px] m-6"></h1>
+      <div className="flex w-full mt-[77px] bg-white fixed z-20 test2 justify-around">
+        {List.map(({ name, image }, i) => {
+          return (
+            <Link to={"/" + name} key={i}>
+              <div className="mb-2 ml-2">
+                <div className="border-4 border-black test duration-300 mt-3  rounded-[50%] h-28 w-28 mx-4 flex flex-col justify-center items-center ">
+                  <img
+                    className="rounded-[50%] border-[4px] border-[#FFC220]  h-28 w-28 hover:scale-110 duration-500"
+                    src={image}
+                    alt="image"
+                  />
+                </div>
+                <h1 className="font-semibold ml-[52px] text-blue-500 ">
+                  {name}
+                </h1>
+              </div>
+            </Link>
+          );
+        })}
+      </div>
+      <h1 className="bg-slate-200 h-[1px] m-6"></h1>
     </>
   );
 }

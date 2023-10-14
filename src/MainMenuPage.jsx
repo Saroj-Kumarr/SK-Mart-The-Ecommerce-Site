@@ -8,6 +8,7 @@ import { store } from "./Store";
 
 import React from "react";
 
+
 function MainMenuPage() {
   const { resid } = useParams();
 

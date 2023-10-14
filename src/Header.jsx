@@ -11,7 +11,7 @@ import ZeroList from "./ZeroList";
 function Header() {
   return (
     <>
-      <div className="flex justify-around z-20 px-8 py-4 items-center fixed w-full -mt-8 bg-black border-4 border-[#FFC220]">
+      <div className="flex justify-around z-20 px-8 py-4 items-center fixed w-full -mt-6  bg-black border-4 border-[#FFC220]">
         <div className="flex">
           {/* <h1 className="font-bold text-3xl text-white">
             SK <BiSolidShoppingBags className="inline text-[#FFC220] mb-1" />{" "}
@@ -64,7 +64,7 @@ function Header() {
           </div>
         </div>
       </div>
-      {/* <ZeroList /> */}
+      <ZeroList />
     </>
   );
 }

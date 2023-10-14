@@ -343,7 +343,7 @@ export const Mobiles = [
     price: "27999",
     rating: "4.7",
     description:
-      "The Motorola Moto G Stylus 5G offers 5G connectivity and a built-in stylus for note-taking and creativity.",
+      "The Motorola Moto G Stylus 5G offers 5G connectivity and a built-in stylus.",
     image:
       "https://www.gizmochina.com/wp-content/uploads/2022/04/Motorola-Moto-G-Stylus-5G-2022-500x500.jpg",
     category: "Mobile",
@@ -522,6 +522,7 @@ export const Mobiles = [
     backCamera: "108 MP",
     Processor: "Qualcomm Snapdragon 8 Gen 1",
     display: "6.8 inch AMOLED",
+    ordered:"300+ people ordered in the last month",
   },
   {
     id: "29",

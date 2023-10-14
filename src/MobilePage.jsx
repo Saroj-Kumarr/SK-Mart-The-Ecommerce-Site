@@ -28,14 +28,11 @@ function MobilePage() {
   return (
     <>
       <div className="flex tracking-wider justify-center text-yellow-500 items-center mt-72">
-        <label
-          className="test p-2 rounded-l-xl font-bold bg-blue-500"
-          for="browser"
-        >
+        <label className="test p-2 font-bold bg-black" htmlFor="browser">
           Filter Products by :{" "}
         </label>
         <input
-          className="focus:outline-2 test focus:outline-blue-500 p-2 font-bold text-center  text-blue-500 bg-yellow-400 w-36"
+          className="focus:outline-2 test focus:outline-blue-500 p-2 font-bold text-center  text-black placeholder:text-black bg-yellow-400 w-36"
           list="mobiles"
           name="browser"
           id="browser"
@@ -59,7 +56,7 @@ function MobilePage() {
         </datalist>
 
         <input
-          className="rounded-r-xl test bg-blue-500 p-2 font-bold text-center"
+          className=" test bg-black p-2 font-bold text-center"
           type="submit"
           value="Search"
           onClick={() => {
@@ -72,9 +69,8 @@ function MobilePage() {
       <div className="flex flex-wrap my-4 ml-20">
         {mobileData.map(({ id, title, rating, price, image }) => {
           return (
-            <Link to={id}>
+            <Link to={id} key={id}>
               <CardFirst
-                key={id}
                 title={title}
                 rating={rating}
                 price={price}
