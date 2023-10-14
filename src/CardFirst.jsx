@@ -51,6 +51,7 @@ function CardFirst({
             </div>
           </div>
           <h1 className="h-[1px] relative top-2 mx-6 bg-slate-400"></h1>
+         
           <h1 className="h-6 overflow-hidden font-bold text-center text-cyan-700 mt-1 relative top-1">
             {title}
           </h1>
