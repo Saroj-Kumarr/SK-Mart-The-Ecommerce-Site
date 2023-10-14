@@ -57,9 +57,9 @@ function ZeroList() {
           return (
             <Link to={"/" + name} key={i}>
               <div className="mb-2 ml-2">
-                <div className="border-4 border-black test duration-300 mt-3  rounded-[50%] h-28 w-28 mx-4 flex flex-col justify-center items-center ">
+                <div className="border-4  test border-[#FFC220] duration-300 mt-3  rounded-[50%] h-28 w-28 mx-4 flex flex-col justify-center items-center ">
                   <img
-                    className="rounded-[50%] border-[4px] border-[#FFC220]  h-28 w-28 hover:scale-110 duration-500"
+                    className="rounded-[50%] border-black border-[4px]   h-28 w-28 hover:scale-110 duration-500"
                     src={image}
                     alt="image"
                   />

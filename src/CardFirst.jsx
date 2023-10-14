@@ -22,29 +22,9 @@ function CardFirst({
   category,
   description,
 }) {
-  const selectDiv = useRef(null);
 
-  const dispatch = useDispatch();
 
   const [val, setValue] = useState(false);
-
-  const cartLength = useSelector((store) => store.cart.items);
-
-  function addItemToCart() {
-    dispatch(
-      addItem({
-        image: image,
-        title: title,
-        price: price,
-        rating: rating,
-        id: id,
-        brand: brand,
-        category: category,
-        description: description,
-      })
-    );
-    alert(cartLength.length);
-  }
 
   function selectItem() {
     if (val == false) {
@@ -57,7 +37,7 @@ function CardFirst({
   return (
     <div
       className="
-     border-2 hover:shadow-2xl duration-300 border-black mx-4 my-4 container  hover:border-[#FFC220] w-56"
+     border-[3px] hover:shadow-2xl duration-300 border-black container  hover:border-[#FFC220] w-56 pb-5"
     >
       
       <img className=" w-full h-40 w-56 duration-300" src={image} alt="pic" />
@@ -87,7 +67,7 @@ function CardFirst({
           </h1>
         </div>
       </div>
-      <div className="flex">
+      {/* <div className="flex">
         <button
           onClick={() => addItemToCart()}
           className=" w-full text-sm mt-[28px] hover:bg-[#FFC220] hover:text-black text-[#FFC220] border-2 border-[#FFC220]  p-1  bg-black text-center font-bold duration-500 hover:border-black"
@@ -100,7 +80,7 @@ function CardFirst({
         >
           Add to wishlist
         </button>
-      </div>
+      </div> */}
     </div>
   );
 }

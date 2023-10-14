@@ -11,6 +11,7 @@ import MobilePage from "./MobilePage";
 import Body from "./Body";
 import MobileMenu from "./MobileMenu";
 import MainMenuPage from "./MainMenuPage";
+import CartPage from "./CartPage";
 
 const appRouter = createBrowserRouter([
   {
@@ -34,6 +35,7 @@ const appRouter = createBrowserRouter([
         path: "/:resid",
         element: <MainMenuPage />,
       },
+      { path: "/cartpage", element: <CartPage /> },
     ],
   },
 ]);

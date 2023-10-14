@@ -7,6 +7,7 @@ import { BiSolidShoppingBags } from "react-icons/bi";
 import { BsHeartFill } from "react-icons/bs";
 import { FcHome } from "react-icons/fc";
 import ZeroList from "./ZeroList";
+import { Link } from "react-router-dom";
 
 function Header() {
   return (
@@ -38,12 +39,17 @@ function Header() {
 
         <div className="flex justify-between w-[22%] relative top-4">
           <div className="text-white flex justify-around w-60  text-lg font-bold relative">
-            <h1 className="mt-[1px]  text-[#FFC220] relative z-20  hover:text-white duration-300 mx-4">
-              Home
-            </h1>
-            <h1 className="mt-[1px] text-[#FFC220] hover:text-white z-20 duration-300 mx-4">
-              Contact
-            </h1>
+            <Link to="/">
+              <h1 className="mt-[1px]  text-[#FFC220] relative z-20  hover:text-white duration-300 mx-4">
+                Home
+              </h1>
+            </Link>
+            <Link to="/cartpage">
+              <h1 className="mt-[1px] text-[#FFC220] hover:text-white z-20 duration-300 mx-4">
+                Contact
+              </h1>
+            </Link>
+
             <h1 className="mt-[1px] text-[#FFC220] hover:text-white duration-300 mx-4 text-lg -mt-[4px]">
               Wishlist{" "}
               <span className=" relative -top-8 left-[68px] text-2xl">❤️</span>{" "}

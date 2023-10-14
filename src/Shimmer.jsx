@@ -5,9 +5,12 @@ function Shimmer() {
 
   return (
     <div className="flex">
-      {data.map((obj) => {
+      {data.map((obj, i) => {
         return (
-          <div className="h-72 mx-2 container  rounded-xl shadow-2xl w-56">
+          <div
+            key={i}
+            className="h-72 mx-2 container  rounded-xl shadow-2xl w-56"
+          >
             <div className="rounded-xl h-44 w-56 bg-slate-200"></div>
 
             <h1 className="h-6 m-2  rounded-lg bg-slate-100"></h1>
