@@ -2,25 +2,15 @@ import React, { useRef, useState } from "react";
 import { AiOutlineHeart } from "react-icons/ai";
 import { IoIosStar } from "react-icons/io";
 import {
-  BsRecordCircleFill,
   BsCircleFill,
-  BsStopCircleFill,
   BsCurrencyRupee,
 } from "react-icons/bs";
-import { store } from "./Store";
-import { useSelector } from "react-redux";
-import { useDispatch } from "react-redux";
-import { addItem } from "./SliceSecond";
 
 function CardFirst({
   image,
   title,
   price,
   rating,
-  id,
-  brand,
-  category,
-  description,
 }) {
 
 
@@ -68,20 +58,7 @@ function CardFirst({
           </h1>
         </div>
       </div>
-      {/* <div className="flex">
-        <button
-          onClick={() => addItemToCart()}
-          className=" w-full text-sm mt-[28px] hover:bg-[#FFC220] hover:text-black text-[#FFC220] border-2 border-[#FFC220]  p-1  bg-black text-center font-bold duration-500 hover:border-black"
-        >
-          Add to cart
-        </button>
-        <button
-          onClick={() => addItemToCart()}
-          className=" w-full text-sm border-2 hover:text-[#FFC220] duration-500 hover:border-[#FFC220]   hover:bg-black   text-black border-black  bg-[#FFC220] mt-[28px] p-1  text-center  font-bold"
-        >
-          Add to wishlist
-        </button>
-      </div> */}
+      
     </div>
   );
 }

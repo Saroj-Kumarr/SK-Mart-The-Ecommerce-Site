@@ -5,7 +5,7 @@ import { BsGithub, BsFacebook, BsInstagram, BsLinkedin } from "react-icons/bs";
 
 function Footer() {
   return (
-    <div className="relative top-40">
+    <div className="relative ">
       <div className="border-2 h-20 -mb-1  bg-slate-300 flex items-center justify-around">
         <div className="font-semibold text-gray-700">
           <h1> Gmail : SarojKumar@gmail.com</h1>

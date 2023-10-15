@@ -6,8 +6,8 @@ import { RiDeleteBin2Fill } from "react-icons/ri";
 
 function CartItem({id,image,title,price,rating,description}) {
   return (
-    <div className="flex ml-40 my-5">
-        <div className="border-2 flex border-yellow-500">
+    <div className="flex my-5 ">
+        <div className="border-2 flex w-[760px] border-yellow-500">
           <div className="border-2 border-black">
             <img
               className="w-40 h-full hover:scale-95 duration-500"
@@ -15,7 +15,7 @@ function CartItem({id,image,title,price,rating,description}) {
               alt="mobile"
             />
           </div>
-          <div className="-ml-[1px] pl-2 w-[550px] border-2 border-black">
+          <div className="-ml-[1px] pl-2 w-[600px] border-2 border-black">
             <h1 className="font-bold text-xl hover:text-yellow-500 duration-500">
               {title}
             </h1>

@@ -6,6 +6,7 @@ import Shimmer from "./Shimmer";
 import { Link } from "react-router-dom";
 import { useDispatch } from "react-redux";
 import { addItem } from "./SliceSecond";
+import { addItemWishlist } from "./SliceThird";
 
 function FirstList() {
   const [page, setPage] = useState(2);
@@ -15,14 +16,15 @@ function FirstList() {
   const dispatch = useDispatch();
 
   const cartLength = useSelector((store) => store.cart.items);
-  
 
   function addItemToCart(obj) {
     dispatch(addItem(obj));
-
   }
 
-  
+  function addItemToWishlist(obj) {
+    dispatch(addItemWishlist(obj));
+  }
+
   function handlePageNext() {
     if (page < 5) setPage(page + 1);
     else setPage(1);
@@ -72,7 +74,6 @@ function FirstList() {
                         title={title}
                         price={price}
                         rating={rating}
-                       
                       />
                     </Link>
                     <div className="flex w-56 -mt-10">
@@ -94,7 +95,16 @@ function FirstList() {
                         Add to cart
                       </button>
                       <button
-                        onClick={() => addItemToCart()}
+                        onClick={() => addItemToWishlist({
+                          id: id,
+                          brand: brand,
+                          price: price,
+                          description: description,
+                          title: title,
+                          images: images,
+                          category: category,
+                          rating: rating,
+                        })}
                         className=" w-full text-sm border-2 hover:text-[#FFC220] duration-500 hover:border-[#FFC220]   hover:bg-black   text-black border-black  bg-[#FFC220] mt-[28px] p-1  text-center  font-bold"
                       >
                         Add to wishlist

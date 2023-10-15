@@ -12,6 +12,7 @@ import Body from "./Body";
 import MobileMenu from "./MobileMenu";
 import MainMenuPage from "./MainMenuPage";
 import CartPage from "./CartPage";
+import WishlistPage from "./WishlistPage";
 
 const appRouter = createBrowserRouter([
   {
@@ -35,7 +36,12 @@ const appRouter = createBrowserRouter([
         path: "/:resid",
         element: <MainMenuPage />,
       },
-      { path: "/cartpage", element: <CartPage /> },
+      { path: "/cartpage",
+       element: <CartPage /> 
+      },
+      {
+        path:"/wishlist", element:<WishlistPage/>
+      }
     ],
   },
 ]);

@@ -1,27 +1,19 @@
 import React from "react";
-import { AiOutlineSearch, AiOutlineHeart } from "react-icons/ai";
+import { AiOutlineSearch } from "react-icons/ai";
 import { FiShoppingCart } from "react-icons/fi";
-import { FaRegUser, FaUserCircle } from "react-icons/fa";
-import { HiOutlineSquares2X2 } from "react-icons/hi2";
 import { BiSolidShoppingBags } from "react-icons/bi";
-import { BsHeartFill } from "react-icons/bs";
-import { FcHome } from "react-icons/fc";
-import ZeroList from "./ZeroList";
 import { Link } from "react-router-dom";
 import { useSelector } from "react-redux";
 import { BsFillHeartFill } from "react-icons/bs";
 
 function Header() {
   const cartItems = useSelector((store) => store.cart.items);
+  const wishlistItems = useSelector((store) => store.wishlist.wishitems);
 
   return (
     <>
       <div className="flex justify-around z-20 px-8 py-4 items-center fixed w-full  bg-black border-4 border-[#FFC220] h-24 ">
         <div className="flex">
-          {/* <h1 className="font-bold text-3xl text-white">
-            SK <BiSolidShoppingBags className="inline text-[#FFC220] mb-1" />{" "}
-            <span>Mart</span>
-          </h1> */}
           <img
             src="https://www.skmart.co.in/public/uploads/all/WK7dld3u0l1c34hHQlNwNWziuLaskkpib67H7isz.png"
             alt="logo"
@@ -54,14 +46,17 @@ function Header() {
               </h1>
             </Link>
 
-            <h1 className=" text-[#FFC220] hover:text-white duration-300 mx-4 text-lg relative -top-1">
-              Wishlist{" "}
-              <span className=" relative left-[72px] -top-[25px] text-2xl">
-                <BsFillHeartFill className="text-yellow-500" />
-              </span>{" "}
-              <span className="text-black relative -top-[58px] left-[80px] text-sm">2</span>
-              
-            </h1>
+            <Link to="/wishlist">
+              <h1 className=" text-[#FFC220] hover:text-white duration-300 mx-4 text-lg relative -top-1">
+                Wishlist{" "}
+                <span className=" relative left-[72px] -top-[25px] text-2xl">
+                  <BsFillHeartFill className="text-yellow-500" />
+                </span>{" "}
+                <span className="text-black relative -top-[58px] left-[80px] text-sm">
+                  {wishlistItems.length}
+                </span>
+              </h1>
+            </Link>
 
             <div className="ml-4 -mt-1 ml-8">
               <div className="bg-[#FFC220] rounded-[50%]  w-5 h-5 text-black text-sm flex align-center justify-center">
