@@ -5,7 +5,7 @@ import { BsGithub, BsFacebook, BsInstagram, BsLinkedin } from "react-icons/bs";
 
 function Footer() {
   return (
-    <div className="mt-20 ">
+    <div className="relative top-40">
       <div className="border-2 h-20 -mb-1  bg-slate-300 flex items-center justify-around">
         <div className="font-semibold text-gray-700">
           <h1> Gmail : SarojKumar@gmail.com</h1>
@@ -20,7 +20,7 @@ function Footer() {
           <BsLinkedin className="mx-2 rounded-2xl" />
         </div>
       </div>
-      <div className="border-2 flex justify-around text-[#FFC220] h-56 items-center bg-[#0071DC]">
+      <div className="border-2 flex justify-around text-[#FFC220] h-56 items-center bg-black">
         <div className="flex mt-6 relative -left-16">
           <h1 className="font-bold text-lg relative  -top-6 left-[120px]">
             Our products

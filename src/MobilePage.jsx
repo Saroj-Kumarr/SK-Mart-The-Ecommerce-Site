@@ -27,7 +27,7 @@ function MobilePage() {
 
   return (
     <>
-      <div className="flex tracking-wider justify-center text-yellow-500 items-center mt-72">
+      <div className="flex tracking-wider justify-center text-yellow-500 items-center relative top-32">
         <label className="test p-2 font-bold bg-black" htmlFor="browser">
           Filter Products by :{" "}
         </label>
@@ -66,7 +66,7 @@ function MobilePage() {
         ></input>
       </div>
 
-      <div className="flex flex-wrap my-4 ml-20">
+      <div className="flex flex-wrap relative top-36 my-4 ml-20">
         {mobileData.map(({ id, title, rating, price, image }) => {
           return (
             <Link to={id} key={id}>

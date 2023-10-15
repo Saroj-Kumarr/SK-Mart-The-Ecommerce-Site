@@ -1,6 +1,6 @@
 import "./App.css";
 import Navbar from "./Header";
-import {  useDispatch } from "react-redux";
+import { useDispatch } from "react-redux";
 import { useEffect } from "react";
 import { fetchProduct } from "./Slice";
 import ZeroList from "./ZeroList";
@@ -9,8 +9,7 @@ import MobilePage from "./MobilePage";
 import Body from "./Body";
 import { Outlet } from "react-router";
 import React from "react";
-import Header from './Header';
-
+import Header from "./Header";
 
 function App() {
   const dispatch = useDispatch();
@@ -23,11 +22,9 @@ function App() {
     <React.Fragment>
       <Header />
       <Outlet />
-      {/* <Footer /> */}
+      <Footer />
     </React.Fragment>
   );
 }
 
 export default App;
-
-

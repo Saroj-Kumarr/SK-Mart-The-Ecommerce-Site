@@ -49,7 +49,7 @@ function MobileMenu() {
   }, []);
 
   return (
-    <div className="flex justify-center items-center mt-32 relative top-2 ">
+    <div className="flex justify-center items-center relative mb-10 ">
       {mobileData.length == 1 && (
         <div className="test h-[400px] w-[800px] border-4 border-black  relative top-32 duration-500 rder-blue-500 flex">
           <div className="border-r-2">
@@ -62,7 +62,9 @@ function MobileMenu() {
 
           <div className="border-4 border-yellow-500 flex-1 p-1 text-[14px]  text-[15px] -ml-[5px]">
             <ul className="text-black relative left-4 font-medium list-disc hover:text-yellow-00 ">
-              <li className="mt-1 ml-[5px] font-bold  text-2xl hover:text-yellow-500 duration-300">{title}</li>
+              <li className="mt-1 ml-[5px] font-bold  text-2xl hover:text-yellow-500 duration-300">
+                {title}
+              </li>
               <li className="mt-2 hover:text-yellow-500 duration-300">
                 <BsCurrencyRupee className="inline -mt-[2px] text-xl" />
                 {price}
@@ -70,13 +72,27 @@ function MobileMenu() {
               <li className="mt-2 hover:text-yellow-500 duration-300 text-black  px-1 mt-1">
                 {ram} Ram + {rom} Rom
               </li>
-              <li className="mt-2 hover:text-yellow-500 duration-300  px-1 ">{display}</li>
-              <li className=" hover:text-yellow-500 duration-300  mt-2">{frontCamera} (front-camera)</li>
-              <li className=" hover:text-yellow-500 duration-300  mt-2 px-1">{backCamera} (back-camera)</li>
-              <li className="hover:text-yellow-500 duration-300 mt-2 ">{Processor}</li>
-              <li className="mt-2 hover:text-yellow-500 duration-500">{rating} rating</li>
-              <li className="hover:text-yellow-500 duration-300 py-[2px]  px-2 mt-2">{description}</li>
-              <li className="hover:text-yellow-500 duration-300 py-[2px]  mt-2 px-1">{ordered}</li>
+              <li className="mt-2 hover:text-yellow-500 duration-300  px-1 ">
+                {display}
+              </li>
+              <li className=" hover:text-yellow-500 duration-300  mt-2">
+                {frontCamera} (front-camera)
+              </li>
+              <li className=" hover:text-yellow-500 duration-300  mt-2 px-1">
+                {backCamera} (back-camera)
+              </li>
+              <li className="hover:text-yellow-500 duration-300 mt-2 ">
+                {Processor}
+              </li>
+              <li className="mt-2 hover:text-yellow-500 duration-500">
+                {rating} rating
+              </li>
+              <li className="hover:text-yellow-500 duration-300 py-[2px]  px-2 mt-2">
+                {description}
+              </li>
+              <li className="hover:text-yellow-500 duration-300 py-[2px]  mt-2 px-1">
+                {ordered}
+              </li>
             </ul>
             <h1 className="h-[1px] relative mt-2"></h1>
 

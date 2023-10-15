@@ -30,7 +30,7 @@ import { Autoplay, Pagination, Navigation } from "swiper/modules";
 function BodyFirst() {
 
   return (
-    <div className="flex p-4 mt-60">
+    <div className="flex p-4 mt-10">
       <div>
         <div className="h-60 w-80 ">
           <img className="rounded-2xl " src={boy} alt="boy-image" />

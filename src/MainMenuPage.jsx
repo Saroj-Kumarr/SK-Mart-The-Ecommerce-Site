@@ -27,7 +27,7 @@ function MainMenuPage() {
   }, []);
 
   return (
-    <div className="flex h-[78vh] justify-center items-center mt-32 relative top-2 ">
+    <div className="flex h-[78vh] justify-center items-center relative top-20 ">
       {mobileData != 0 && <div>
         {resid}
         </div>}

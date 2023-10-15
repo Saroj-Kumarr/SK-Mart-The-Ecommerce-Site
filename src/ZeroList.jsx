@@ -52,7 +52,7 @@ function ZeroList() {
 
   return (
     <>
-      <div className="flex w-full mt-[77px] bg-white fixed z-20 test2 justify-around">
+      <div className="flex w-full relative top-16 bg-white test2 justify-around">
         {List.map(({ name, image }, i) => {
           return (
             <Link to={"/" + name} key={i}>

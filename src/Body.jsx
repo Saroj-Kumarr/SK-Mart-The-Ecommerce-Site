@@ -8,10 +8,12 @@ import FifthList from "./FifthList";
 import Shimmer from "./Shimmer";
 import Signin from "./Signin";
 import Signup from "./Signin";
+import ZeroList from "./ZeroList";
 
 function Body() {
   return (
-    <div className="mt-8">
+    <div className="relative top-8">
+      <ZeroList />
       <BodyFirst />
       <FirstList />
       <SecondList />

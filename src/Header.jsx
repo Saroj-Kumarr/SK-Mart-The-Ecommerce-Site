@@ -8,11 +8,15 @@ import { BsHeartFill } from "react-icons/bs";
 import { FcHome } from "react-icons/fc";
 import ZeroList from "./ZeroList";
 import { Link } from "react-router-dom";
+import { useSelector } from "react-redux";
+import { BsFillHeartFill } from "react-icons/bs";
 
 function Header() {
+  const cartItems = useSelector((store) => store.cart.items);
+
   return (
     <>
-      <div className="flex justify-around z-20 px-8 py-4 items-center fixed w-full -mt-6  bg-black border-4 border-[#FFC220]">
+      <div className="flex justify-around z-20 px-8 py-4 items-center fixed w-full  bg-black border-4 border-[#FFC220] h-24 ">
         <div className="flex">
           {/* <h1 className="font-bold text-3xl text-white">
             SK <BiSolidShoppingBags className="inline text-[#FFC220] mb-1" />{" "}
@@ -37,8 +41,8 @@ function Header() {
           </div>
         </div>
 
-        <div className="flex justify-between w-[22%] relative top-4">
-          <div className="text-white flex justify-around w-60  text-lg font-bold relative">
+        <div className="flex justify-between w-[22%] relative top-6 ">
+          <div className="text-white flex justify-around w-60  text-[18px] font-bold relative">
             <Link to="/">
               <h1 className="mt-[1px]  text-[#FFC220] relative z-20  hover:text-white duration-300 mx-4">
                 Home
@@ -50,27 +54,24 @@ function Header() {
               </h1>
             </Link>
 
-            <h1 className="mt-[1px] text-[#FFC220] hover:text-white duration-300 mx-4 text-lg -mt-[4px]">
+            <h1 className=" text-[#FFC220] hover:text-white duration-300 mx-4 text-lg relative -top-1">
               Wishlist{" "}
-              <span className=" relative -top-8 left-[68px] text-2xl">❤️</span>{" "}
-              <span className=" relative -top-[35px] left-[43px] text-sm text-white">
-                3
-              </span>
-              {/* <div className="bg-[#FFC220] rounded-[50%]  w-5 h-5 text-black text-sm flex align-center justify-center relative -top-6 left-[68px]">
-                3
-              </div> */}
+              <span className=" relative left-[72px] -top-[25px] text-2xl">
+                <BsFillHeartFill className="text-yellow-500" />
+              </span>{" "}
+              <span className="text-black relative -top-[58px] left-[80px] text-sm">2</span>
+              
             </h1>
 
             <div className="ml-4 -mt-1 ml-8">
               <div className="bg-[#FFC220] rounded-[50%]  w-5 h-5 text-black text-sm flex align-center justify-center">
-                3
+                {cartItems.length}
               </div>
               <FiShoppingCart className="relative -top-1 -left-1 text-xl" />
             </div>
           </div>
         </div>
       </div>
-      <ZeroList />
     </>
   );
 }
