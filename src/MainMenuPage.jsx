@@ -8,7 +8,6 @@ import { store } from "./Store";
 
 import React from "react";
 
-
 function MainMenuPage() {
   const { resid } = useParams();
 
@@ -28,9 +27,7 @@ function MainMenuPage() {
 
   return (
     <div className="flex h-[78vh] justify-center items-center relative top-20 ">
-      {mobileData != 0 && <div>
-        {resid}
-        </div>}
+      {mobileData != 0 && <div>{resid}</div>}
     </div>
   );
 }

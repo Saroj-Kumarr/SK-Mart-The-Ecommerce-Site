@@ -10,7 +10,7 @@ import { FaFacebookSquare } from "react-icons/fa";
 
 function Signup() {
   return (
-    <div className="test h-[64vh] border-black relative top-32 w-[70%] left-52 flex border-2 p-4">
+    <div className="test h-[64vh] border-black relative top-32 w-[70%] left-52 flex border-2 p-4 mt-20">
       <div className="w-[70%] ">
         <img src={banner} alt="banner" />
       </div>
@@ -33,7 +33,7 @@ function Signup() {
                 {/* SK <BiSolidShoppingBags className="inline text-[#FFC220] mb-1" />{" "}
             <span>Mart</span> */}
               </h1>
-              
+
               <div className="border-b-2 border-black mb-1 mx-5">
                 <label className="ml-20  relative top-2 inline-block">
                   <MdEmail className="text-2xl" />
