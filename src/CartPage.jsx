@@ -15,6 +15,27 @@ function CartPage() {
     console.log(cartItems);
   }
 
+
+  function showItems() {
+    console.log("saroj kumar");
+    console.log(cartItems.length);
+    console.log(cartItems);
+  }
+
+
+  function showItems() {
+    console.log("saroj kumar");
+    console.log(cartItems.length);
+    console.log(cartItems);
+  }
+
+
+  function showItems() {
+    console.log("saroj kumar");
+    console.log(cartItems.length);
+    console.log(cartItems);
+  }
+
   return (
     <div className="relative top-32 flex mb-96 h-[80vh] flex-col">
       <div className="text-xl text-center z-20 top-28 h-20 fixed w-[90%] bg-white  ml-20  border-b-2  pb-5 border-slate-300 font-semibold -mt-4">
@@ -25,7 +46,7 @@ function CartPage() {
       </div>
 
       <div className="flex mt-16  ">
-        <div className=" w-[900px]">
+        <div className=" w-[900px] ml-20">
           {cartItems &&
             cartItems.map(
               ({ id, title, price, rating, description, images }) => {

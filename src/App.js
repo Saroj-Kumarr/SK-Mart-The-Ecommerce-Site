@@ -20,9 +20,9 @@ function App() {
 
   return (
     <React.Fragment>
-      {/* <Header /> */}
+      <Header />
       <Outlet />
-      {/* <Footer /> */}
+      <Footer />
     </React.Fragment>
   );
 }
