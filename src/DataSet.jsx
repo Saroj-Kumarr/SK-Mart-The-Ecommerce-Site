@@ -1908,6 +1908,676 @@ export const Watches = [
   },
 ];
 
+export const Watches = [
+  {
+    id: "1",
+    title: "SPLASH 3.0 Analog Watch",
+    price: "999",
+    brand: "Sonata",
+    description: "This is a waterproof watch with FHD+ display",
+    rating: "4.4",
+    display: "3.4 inch FHD+",
+    image:
+      "https://rukminim2.flixcart.com/image/850/1000/xif0q/watch/h/r/q/-original-imagqfu2dehjbwmb.jpeg?q=90",
+  },
+  {
+    id: "2",
+    title: "Classic Black Leather Watch",
+    price: "799",
+    brand: "Timex",
+    description: "A stylish black leather watch for men",
+    rating: "4.2",
+    display: "2.5 inch HD",
+    image:
+      "https://slimages.macysassets.com/is/image/MCY/products/7/optimized/15102717_fpx.tif?op_sharpen=1&wid=700&hei=855&fit=fit,1",
+  },
+  {
+    id: "3",
+    title: "Rose Gold Elegance Watch",
+    price: "1299",
+    brand: "Fossil",
+    description: "A beautiful rose gold watch with a sleek design",
+    rating: "4.6",
+    display: "3.0 inch AMOLED",
+    image: "https://m.media-amazon.com/images/I/51CCAsqrQNL._SL1500_.jpg",
+  },
+  {
+    id: "4",
+    title: "Sporty Digital Watch",
+    price: "599",
+    brand: "Casio",
+    description: "A digital sports watch with multiple features",
+    rating: "4.0",
+    display: "2.8 inch LCD",
+    image:
+      "https://img1.exportersindia.com/product_images/bc-full/dir_87/2585232/fujicell-sports-digital-analog-watches-from-japan-1485151432-2696984.jpeg",
+  },
+  {
+    id: "5",
+    title: "Classic Silver Wristwatch",
+    price: "899",
+    brand: "Seiko",
+    description: "A timeless silver wristwatch with automatic movement",
+    rating: "4.5",
+    display: "2.7 inch Analog",
+    image:
+      "https://www.seikousa.com/dw/image/v2/BBQV_PRD/on/demandware.static/-/Sites-Seiko-US-Library/default/dw2650cc56/images/SEIKO/SKX007/SKX007_MAIN.jpg?sw=500&sh=500&sm=fit",
+  },
+  {
+    id: "6",
+    title: "Digital Fitness Tracker Watch",
+    price: "699",
+    brand: "Fitbit",
+    description: "A smartwatch with fitness tracking capabilities",
+    rating: "4.3",
+    display: "1.8 inch OLED",
+    image:
+      "https://www.fitbit.com/global/content/dam/fitbit/global/pdp/watches/versa4/landing-5/promo-carousel/launch/night-shade/night-shade-drawer-2-2x.jpg",
+  },
+  {
+    id: "7",
+    title: "Luxury Gold Chronograph",
+    price: "1999",
+    brand: "Rolex",
+    description: "A luxurious gold chronograph watch with a Rolex logo",
+    rating: "4.8",
+    display: "3.5 inch Sapphire",
+    image:
+      "https://rukminim2.flixcart.com/image/850/1000/keaaavk0/smart-band-tag/6/d/z/no-fp04-fitness-tracker-with-free-diet-and-fitness-plan-yes-original-imafuzzrsjnuskxj.jpeg?q=90",
+  },
+  {
+    id: "8",
+    title: "Diving Watch",
+    price: "1499",
+    brand: "TAG Heuer",
+    description: "A high-quality diving watch for underwater enthusiasts",
+    rating: "4.7",
+    display: "3.2 inch Super-LumiNova",
+    image:
+      "https://cdn4.ethoswatches.com/the-watch-guide/wp-content/uploads/2020/08/Masthead-Mobile@2x-2.jpg",
+  },
+  {
+    id: "9",
+    title: "Smart Sports Watch",
+    price: "799",
+    brand: "Garmin",
+    description: "A smart sports watch with GPS and heart rate monitoring",
+    rating: "4.2",
+    display: "2.4 inch Touchscreen",
+    image:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSC4nHJ18xY9sgF7RayW74QSMJsPUbjzyVy4NwLwQr5fMSIRDdv6UOqDBsH869nN_kBgw&usqp=CAU",
+  },
+  {
+    id: "10",
+    title: "Stylish Women's Watch",
+    price: "899",
+    brand: "Michael Kors",
+    description: "A fashionable women's watch with a rose gold finish",
+    rating: "4.5",
+    display: "2.6 inch Quartz",
+    image:
+      "https://www.michaelkors.com/dw/image/v2/AAUZ_PRD/on/demandware.static/-/Sites-mk-master-catalog/default/dw135a2359/images/66975056_zoom.jpg?sw=2000&sh=2000&sm=fit",
+  },
+  {
+    id: "11",
+    title: "Rugged Outdoor Watch",
+    price: "749",
+    brand: "Suunto",
+    description: "A durable outdoor watch with built-in altimeter and compass",
+    rating: "4.1",
+    display: "2.2 inch Transflective",
+    image:
+      "https://www.garmin.co.in/m/in/g/products/instinct-solar-red-cf-lg.jpg",
+  },
+  {
+    id: "12",
+    title: "Diamond-studded Elegance",
+    price: "2999",
+    brand: "Omega",
+    description: "A luxurious diamond-studded watch for special occasions",
+    rating: "4.9",
+    display: "3.7 inch Diamond",
+    image:
+      "https://www.omegawatches.com/media/catalog/product/cache/3e81a65d74298b1943a1ea00bc12db8a/0/2/02108465536021.jpg",
+  },
+  {
+    id: "13",
+    title: "Minimalist Leather Watch",
+    price: "599",
+    brand: "Movado",
+    description: "A minimalist leather watch with a sleek black dial",
+    rating: "4.3",
+    display:
+      "https://img.freepik.com/free-photo/stylish-golden-watch-white-surface_181624-27078.jpg?w=740&t=st=1696533635~exp=1696534235~hmac=63e78857710a9dffb4e8f77d7de961f7232f8dbbd4e8c5ae1d68a5c6540b2f66",
+  },
+  {
+    id: "14",
+    title: "Aviator's Chronograph",
+    price: "1299",
+    brand: "Citizen",
+    description: "A chronograph watch inspired by aviator style",
+    rating: "4.5",
+    display: "2.8 inch Eco-Drive",
+    image:
+      "https://img.freepik.com/free-photo/closeup-shot-golden-watch-isolated_181624-28492.jpg?w=740&t=st=1696533676~exp=1696534276~hmac=7dccdd2346a13f6e6a363805db9797cd462b4fc98d3ccac9f310d42794a449aa",
+  },
+  {
+    id: "15",
+    title: "Rose Gold Smartwatch",
+    price: "999",
+    brand: "Samsung",
+    description: "A stylish rose gold smartwatch with fitness tracking",
+    rating: "4.4",
+    display: "2.9 inch Super AMOLED",
+    image:
+      "https://img.freepik.com/free-vector/round-wall-quartz-clock-red-color-isolated-white-background_1284-51545.jpg?w=740&t=st=1696533708~exp=1696534308~hmac=81faf1a30a12bdcff69776cc8232d50685b8d983dd7ce81ad6c55e1f4d0e7e9a",
+  },
+  {
+    id: "16",
+    title: "Skeleton Mechanical Watch",
+    price: "799",
+    brand: "Bulova",
+    description:
+      "A skeletonized mechanical watch with a clear view of the movement",
+    rating: "4.2",
+    display:
+      "https://img.freepik.com/free-vector/smart-watch-realistic-image-black_1284-11873.jpg?w=740&t=st=1696533755~exp=1696534355~hmac=6f029f873f22e91660309934d6cee867e58840a82b23ce1d648ab349882f6260",
+  },
+  {
+    id: "17",
+    title: "Digital Camo Sports Watch",
+    price: "599",
+    brand: "Casio G-Shock",
+    description: "A rugged digital camo sports watch with shock resistance",
+    rating: "4.0",
+    display: "2.8 inch LCD",
+    image:
+      "https://img.freepik.com/free-vector/realistic-fitness-trackers_23-2148530529.jpg?w=740&t=st=1696533775~exp=1696534375~hmac=7680c6c3cf3db63282458a9ebb5840b8f8f8e9061d5ca15b40e8082e923ddc55",
+  },
+  {
+    id: "18",
+    title: "Elegant Silver Dress Watch",
+    price: "899",
+    brand: "Hamilton",
+    description: "An elegant silver dress watch with a classic design",
+    rating: "4.5",
+    display: "2.7 inch Analog",
+    image:
+      "https://img.freepik.com/free-vector/realistic-fitness-trackers_23-2148515661.jpg?w=740&t=st=1696533791~exp=1696534391~hmac=72fe253a91f605a948d46e7789a8265886cc3fe5acf22dcc17ef0a1661c3b4e8",
+  },
+  {
+    id: "19",
+    title: "Fitness Tracker for Kids",
+    price: "299",
+    brand: "Garmin",
+    description: "A colorful fitness tracker watch designed for kids",
+    rating: "4.2",
+    display: "1.2 inch Color LCD",
+    image:
+      "https://img.freepik.com/free-vector/realistic-fitness-tracker-bracelet-illustration_23-2148555260.jpg?w=740&t=st=1696533828~exp=1696534428~hmac=cdfc73428c29d7cd657c40de8bf93a726570e716c470e13c78f788b5962b08d1",
+  },
+  {
+    id: "20",
+    title: "Women's Rose Gold Watch",
+    price: "699",
+    brand: "Fossil",
+    description: "A women's watch with a rose gold finish and crystal accents",
+    rating: "4.3",
+    display: "2.0 inch Analog",
+    image:
+      "https://img.freepik.com/free-photo/elegant-watch-with-silver-golden-chain-isolated_181624-27080.jpg?w=740&t=st=1696533860~exp=1696534460~hmac=d63ed51281f35d9f56181c1d4172849031088eea332ed3944bdb4d862f2755e3",
+  },
+  {
+    id: "21",
+    title: "Stainless Steel Diving Watch",
+    price: "1499",
+    brand: "Citizen",
+    description:
+      "A stainless steel diving watch with water resistance up to 300 meters",
+    rating: "4.7",
+    display: "3.2 inch Eco-Drive",
+    image:
+      "https://img.freepik.com/free-vector/realistic-fitness-trackers_23-2148530530.jpg?w=740&t=st=1696533810~exp=1696534410~hmac=b1b134a47a6dffa7ded6ab7c3c94b54a3d103a0cca7cd813b61aaa099a184d5b",
+  },
+  {
+    id: "22",
+    title: "Fitness Tracker with Heart Rate Monitor",
+    price: "799",
+    brand: "Fitbit",
+    description:
+      "A fitness tracker with a built-in heart rate monitor and sleep tracking",
+    rating: "4.2",
+    display: "1.8 inch OLED",
+    image:
+      "https://img.freepik.com/free-photo/closeup-shot-golden-watch-isolated_181624-28492.jpg?w=740&t=st=1696533676~exp=1696534276~hmac=7dccdd2346a13f6e6a363805db9797cd462b4fc98d3ccac9f310d42794a449aa",
+  },
+  {
+    id: "23",
+    title: "Classic Gold Pocket Watch",
+    price: "999",
+    brand: "Tissot",
+    description: "A classic gold pocket watch with a chain",
+    rating: "4.4",
+    display: "2.5 inch Analog",
+    image:
+      "https://img.freepik.com/free-vector/alarm-clock-concept-illustration_114360-14276.jpg?w=740&t=st=1696533929~exp=1696534529~hmac=8fc8a37620b8db327dca42093eb2ef3194e13afcdbb829b13d38927e60e7f69c",
+  },
+  {
+    id: "24",
+    title: "Military Style Field Watch",
+    price: "799",
+    brand: "Timex",
+    description: "A military-style field watch with luminous hands and markers",
+    rating: "4.2",
+    display: "2.6 inch Indiglo",
+    image:
+      "https://www.timex.com/on/demandware.static/-/Sites-timex_us-Library/default/dw717b10c2/images/2019/q4/b/leather-strap-watches.jpg",
+  },
+  {
+    id: "25",
+    title: "Digital Sports Watch",
+    price: "599",
+    brand: "Casio G-Shock",
+    description:
+      "A digital sports watch with rugged design and water resistance",
+    rating: "4.0",
+    display: "2.8 inch LCD",
+    image:
+      "https://img.freepik.com/free-photo/classic-alarm-clock_74190-5691.jpg?t=st=1696501393~exp=1696501993~hmac=8e0e33adec042f587fd237c1650e2fc0e1f7635d398bc80ee5c582e6ef431cec",
+  },
+  {
+    id: "26",
+    title: "Silver Bracelet Watch",
+    price: "899",
+    brand: "Seiko",
+    description: "A silver bracelet watch with a date function",
+    rating: "4.5",
+    display: "2.7 inch Analog",
+    image:
+      "https://img.freepik.com/free-photo/blue-alarm-clock-white-background_1112-483.jpg?t=st=1696533960~exp=1696534560~hmac=49868e3137098865dcd86921dc3c7ec202e1974272dc30ebe09b7b195b019baa",
+  },
+  {
+    id: "27",
+    title: "GPS Running Watch",
+    price: "699",
+    brand: "Garmin",
+    description: "A GPS running watch with advanced tracking features",
+    rating: "4.3",
+    display: "1.8 inch Color LCD",
+    image:
+      "https://buy.garmin.com/en-US/US/images/spotlight/forerunner945/forerunner-945-music.jpg",
+  },
+  {
+    id: "28",
+    title: "Diamond-Encrusted Luxury Watch",
+    price: "2999",
+    brand: "Omega",
+    description: "A luxury watch with diamond accents and automatic movement",
+    rating: "4.9",
+    display: "3.7 inch Diamond",
+    image:
+      "https://img.freepik.com/free-vector/stop-watch-illustration_1262-7411.jpg?w=740&t=st=1696534058~exp=1696534658~hmac=345a016d5a72d44cb1b073e74dd27123f5d797bf3fdce4bdcad35cf781a74235",
+  },
+  {
+    id: "29",
+    title: "Blue Dial Chronograph",
+    price: "599",
+    brand: "Movado",
+    description: "A chronograph watch with a striking blue dial",
+    rating: "4.3",
+    display: "2.5 inch Analog",
+    image:
+      "https://img.freepik.com/free-vector/time-management-poster_1284-13492.jpg?w=740&t=st=1696534095~exp=1696534695~hmac=3b97bdb39d2e56b2cd128a1a5d65c55240d8b3caa5b7535e95f45884b318c153",
+  },
+  {
+    id: "30",
+    title: "Outdoor Adventure Watch",
+    price: "749",
+    brand: "Suunto",
+    description: "An adventure watch with altimeter, barometer, and compass",
+    rating: "4.1",
+    display: "2.2 inch Transflective",
+    image:
+      "https://img.freepik.com/free-vector/morning-start-efficiency-classic-metallic_1368-340.jpg?t=st=1696534095~exp=1696534695~hmac=a1499232095bed23079c1afb0ac45193daf4e07f9d9a41458f65c19afa49db56",
+  },
+];
+
+
+export const Watches = [
+  {
+    id: "1",
+    title: "SPLASH 3.0 Analog Watch",
+    price: "999",
+    brand: "Sonata",
+    description: "This is a waterproof watch with FHD+ display",
+    rating: "4.4",
+    display: "3.4 inch FHD+",
+    image:
+      "https://rukminim2.flixcart.com/image/850/1000/xif0q/watch/h/r/q/-original-imagqfu2dehjbwmb.jpeg?q=90",
+  },
+  {
+    id: "2",
+    title: "Classic Black Leather Watch",
+    price: "799",
+    brand: "Timex",
+    description: "A stylish black leather watch for men",
+    rating: "4.2",
+    display: "2.5 inch HD",
+    image:
+      "https://slimages.macysassets.com/is/image/MCY/products/7/optimized/15102717_fpx.tif?op_sharpen=1&wid=700&hei=855&fit=fit,1",
+  },
+  {
+    id: "3",
+    title: "Rose Gold Elegance Watch",
+    price: "1299",
+    brand: "Fossil",
+    description: "A beautiful rose gold watch with a sleek design",
+    rating: "4.6",
+    display: "3.0 inch AMOLED",
+    image: "https://m.media-amazon.com/images/I/51CCAsqrQNL._SL1500_.jpg",
+  },
+  {
+    id: "4",
+    title: "Sporty Digital Watch",
+    price: "599",
+    brand: "Casio",
+    description: "A digital sports watch with multiple features",
+    rating: "4.0",
+    display: "2.8 inch LCD",
+    image:
+      "https://img1.exportersindia.com/product_images/bc-full/dir_87/2585232/fujicell-sports-digital-analog-watches-from-japan-1485151432-2696984.jpeg",
+  },
+  {
+    id: "5",
+    title: "Classic Silver Wristwatch",
+    price: "899",
+    brand: "Seiko",
+    description: "A timeless silver wristwatch with automatic movement",
+    rating: "4.5",
+    display: "2.7 inch Analog",
+    image:
+      "https://www.seikousa.com/dw/image/v2/BBQV_PRD/on/demandware.static/-/Sites-Seiko-US-Library/default/dw2650cc56/images/SEIKO/SKX007/SKX007_MAIN.jpg?sw=500&sh=500&sm=fit",
+  },
+  {
+    id: "6",
+    title: "Digital Fitness Tracker Watch",
+    price: "699",
+    brand: "Fitbit",
+    description: "A smartwatch with fitness tracking capabilities",
+    rating: "4.3",
+    display: "1.8 inch OLED",
+    image:
+      "https://www.fitbit.com/global/content/dam/fitbit/global/pdp/watches/versa4/landing-5/promo-carousel/launch/night-shade/night-shade-drawer-2-2x.jpg",
+  },
+  {
+    id: "7",
+    title: "Luxury Gold Chronograph",
+    price: "1999",
+    brand: "Rolex",
+    description: "A luxurious gold chronograph watch with a Rolex logo",
+    rating: "4.8",
+    display: "3.5 inch Sapphire",
+    image:
+      "https://rukminim2.flixcart.com/image/850/1000/keaaavk0/smart-band-tag/6/d/z/no-fp04-fitness-tracker-with-free-diet-and-fitness-plan-yes-original-imafuzzrsjnuskxj.jpeg?q=90",
+  },
+  {
+    id: "8",
+    title: "Diving Watch",
+    price: "1499",
+    brand: "TAG Heuer",
+    description: "A high-quality diving watch for underwater enthusiasts",
+    rating: "4.7",
+    display: "3.2 inch Super-LumiNova",
+    image:
+      "https://cdn4.ethoswatches.com/the-watch-guide/wp-content/uploads/2020/08/Masthead-Mobile@2x-2.jpg",
+  },
+  {
+    id: "9",
+    title: "Smart Sports Watch",
+    price: "799",
+    brand: "Garmin",
+    description: "A smart sports watch with GPS and heart rate monitoring",
+    rating: "4.2",
+    display: "2.4 inch Touchscreen",
+    image:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSC4nHJ18xY9sgF7RayW74QSMJsPUbjzyVy4NwLwQr5fMSIRDdv6UOqDBsH869nN_kBgw&usqp=CAU",
+  },
+  {
+    id: "10",
+    title: "Stylish Women's Watch",
+    price: "899",
+    brand: "Michael Kors",
+    description: "A fashionable women's watch with a rose gold finish",
+    rating: "4.5",
+    display: "2.6 inch Quartz",
+    image:
+      "https://www.michaelkors.com/dw/image/v2/AAUZ_PRD/on/demandware.static/-/Sites-mk-master-catalog/default/dw135a2359/images/66975056_zoom.jpg?sw=2000&sh=2000&sm=fit",
+  },
+  {
+    id: "11",
+    title: "Rugged Outdoor Watch",
+    price: "749",
+    brand: "Suunto",
+    description: "A durable outdoor watch with built-in altimeter and compass",
+    rating: "4.1",
+    display: "2.2 inch Transflective",
+    image:
+      "https://www.garmin.co.in/m/in/g/products/instinct-solar-red-cf-lg.jpg",
+  },
+  {
+    id: "12",
+    title: "Diamond-studded Elegance",
+    price: "2999",
+    brand: "Omega",
+    description: "A luxurious diamond-studded watch for special occasions",
+    rating: "4.9",
+    display: "3.7 inch Diamond",
+    image:
+      "https://www.omegawatches.com/media/catalog/product/cache/3e81a65d74298b1943a1ea00bc12db8a/0/2/02108465536021.jpg",
+  },
+  {
+    id: "13",
+    title: "Minimalist Leather Watch",
+    price: "599",
+    brand: "Movado",
+    description: "A minimalist leather watch with a sleek black dial",
+    rating: "4.3",
+    display:
+      "https://img.freepik.com/free-photo/stylish-golden-watch-white-surface_181624-27078.jpg?w=740&t=st=1696533635~exp=1696534235~hmac=63e78857710a9dffb4e8f77d7de961f7232f8dbbd4e8c5ae1d68a5c6540b2f66",
+  },
+  {
+    id: "14",
+    title: "Aviator's Chronograph",
+    price: "1299",
+    brand: "Citizen",
+    description: "A chronograph watch inspired by aviator style",
+    rating: "4.5",
+    display: "2.8 inch Eco-Drive",
+    image:
+      "https://img.freepik.com/free-photo/closeup-shot-golden-watch-isolated_181624-28492.jpg?w=740&t=st=1696533676~exp=1696534276~hmac=7dccdd2346a13f6e6a363805db9797cd462b4fc98d3ccac9f310d42794a449aa",
+  },
+  {
+    id: "15",
+    title: "Rose Gold Smartwatch",
+    price: "999",
+    brand: "Samsung",
+    description: "A stylish rose gold smartwatch with fitness tracking",
+    rating: "4.4",
+    display: "2.9 inch Super AMOLED",
+    image:
+      "https://img.freepik.com/free-vector/round-wall-quartz-clock-red-color-isolated-white-background_1284-51545.jpg?w=740&t=st=1696533708~exp=1696534308~hmac=81faf1a30a12bdcff69776cc8232d50685b8d983dd7ce81ad6c55e1f4d0e7e9a",
+  },
+  {
+    id: "16",
+    title: "Skeleton Mechanical Watch",
+    price: "799",
+    brand: "Bulova",
+    description:
+      "A skeletonized mechanical watch with a clear view of the movement",
+    rating: "4.2",
+    display:
+      "https://img.freepik.com/free-vector/smart-watch-realistic-image-black_1284-11873.jpg?w=740&t=st=1696533755~exp=1696534355~hmac=6f029f873f22e91660309934d6cee867e58840a82b23ce1d648ab349882f6260",
+  },
+  {
+    id: "17",
+    title: "Digital Camo Sports Watch",
+    price: "599",
+    brand: "Casio G-Shock",
+    description: "A rugged digital camo sports watch with shock resistance",
+    rating: "4.0",
+    display: "2.8 inch LCD",
+    image:
+      "https://img.freepik.com/free-vector/realistic-fitness-trackers_23-2148530529.jpg?w=740&t=st=1696533775~exp=1696534375~hmac=7680c6c3cf3db63282458a9ebb5840b8f8f8e9061d5ca15b40e8082e923ddc55",
+  },
+  {
+    id: "18",
+    title: "Elegant Silver Dress Watch",
+    price: "899",
+    brand: "Hamilton",
+    description: "An elegant silver dress watch with a classic design",
+    rating: "4.5",
+    display: "2.7 inch Analog",
+    image:
+      "https://img.freepik.com/free-vector/realistic-fitness-trackers_23-2148515661.jpg?w=740&t=st=1696533791~exp=1696534391~hmac=72fe253a91f605a948d46e7789a8265886cc3fe5acf22dcc17ef0a1661c3b4e8",
+  },
+  {
+    id: "19",
+    title: "Fitness Tracker for Kids",
+    price: "299",
+    brand: "Garmin",
+    description: "A colorful fitness tracker watch designed for kids",
+    rating: "4.2",
+    display: "1.2 inch Color LCD",
+    image:
+      "https://img.freepik.com/free-vector/realistic-fitness-tracker-bracelet-illustration_23-2148555260.jpg?w=740&t=st=1696533828~exp=1696534428~hmac=cdfc73428c29d7cd657c40de8bf93a726570e716c470e13c78f788b5962b08d1",
+  },
+  {
+    id: "20",
+    title: "Women's Rose Gold Watch",
+    price: "699",
+    brand: "Fossil",
+    description: "A women's watch with a rose gold finish and crystal accents",
+    rating: "4.3",
+    display: "2.0 inch Analog",
+    image:
+      "https://img.freepik.com/free-photo/elegant-watch-with-silver-golden-chain-isolated_181624-27080.jpg?w=740&t=st=1696533860~exp=1696534460~hmac=d63ed51281f35d9f56181c1d4172849031088eea332ed3944bdb4d862f2755e3",
+  },
+  {
+    id: "21",
+    title: "Stainless Steel Diving Watch",
+    price: "1499",
+    brand: "Citizen",
+    description:
+      "A stainless steel diving watch with water resistance up to 300 meters",
+    rating: "4.7",
+    display: "3.2 inch Eco-Drive",
+    image:
+      "https://img.freepik.com/free-vector/realistic-fitness-trackers_23-2148530530.jpg?w=740&t=st=1696533810~exp=1696534410~hmac=b1b134a47a6dffa7ded6ab7c3c94b54a3d103a0cca7cd813b61aaa099a184d5b",
+  },
+  {
+    id: "22",
+    title: "Fitness Tracker with Heart Rate Monitor",
+    price: "799",
+    brand: "Fitbit",
+    description:
+      "A fitness tracker with a built-in heart rate monitor and sleep tracking",
+    rating: "4.2",
+    display: "1.8 inch OLED",
+    image:
+      "https://img.freepik.com/free-photo/closeup-shot-golden-watch-isolated_181624-28492.jpg?w=740&t=st=1696533676~exp=1696534276~hmac=7dccdd2346a13f6e6a363805db9797cd462b4fc98d3ccac9f310d42794a449aa",
+  },
+  {
+    id: "23",
+    title: "Classic Gold Pocket Watch",
+    price: "999",
+    brand: "Tissot",
+    description: "A classic gold pocket watch with a chain",
+    rating: "4.4",
+    display: "2.5 inch Analog",
+    image:
+      "https://img.freepik.com/free-vector/alarm-clock-concept-illustration_114360-14276.jpg?w=740&t=st=1696533929~exp=1696534529~hmac=8fc8a37620b8db327dca42093eb2ef3194e13afcdbb829b13d38927e60e7f69c",
+  },
+  {
+    id: "24",
+    title: "Military Style Field Watch",
+    price: "799",
+    brand: "Timex",
+    description: "A military-style field watch with luminous hands and markers",
+    rating: "4.2",
+    display: "2.6 inch Indiglo",
+    image:
+      "https://www.timex.com/on/demandware.static/-/Sites-timex_us-Library/default/dw717b10c2/images/2019/q4/b/leather-strap-watches.jpg",
+  },
+  {
+    id: "25",
+    title: "Digital Sports Watch",
+    price: "599",
+    brand: "Casio G-Shock",
+    description:
+      "A digital sports watch with rugged design and water resistance",
+    rating: "4.0",
+    display: "2.8 inch LCD",
+    image:
+      "https://img.freepik.com/free-photo/classic-alarm-clock_74190-5691.jpg?t=st=1696501393~exp=1696501993~hmac=8e0e33adec042f587fd237c1650e2fc0e1f7635d398bc80ee5c582e6ef431cec",
+  },
+  {
+    id: "26",
+    title: "Silver Bracelet Watch",
+    price: "899",
+    brand: "Seiko",
+    description: "A silver bracelet watch with a date function",
+    rating: "4.5",
+    display: "2.7 inch Analog",
+    image:
+      "https://img.freepik.com/free-photo/blue-alarm-clock-white-background_1112-483.jpg?t=st=1696533960~exp=1696534560~hmac=49868e3137098865dcd86921dc3c7ec202e1974272dc30ebe09b7b195b019baa",
+  },
+  {
+    id: "27",
+    title: "GPS Running Watch",
+    price: "699",
+    brand: "Garmin",
+    description: "A GPS running watch with advanced tracking features",
+    rating: "4.3",
+    display: "1.8 inch Color LCD",
+    image:
+      "https://buy.garmin.com/en-US/US/images/spotlight/forerunner945/forerunner-945-music.jpg",
+  },
+  {
+    id: "28",
+    title: "Diamond-Encrusted Luxury Watch",
+    price: "2999",
+    brand: "Omega",
+    description: "A luxury watch with diamond accents and automatic movement",
+    rating: "4.9",
+    display: "3.7 inch Diamond",
+    image:
+      "https://img.freepik.com/free-vector/stop-watch-illustration_1262-7411.jpg?w=740&t=st=1696534058~exp=1696534658~hmac=345a016d5a72d44cb1b073e74dd27123f5d797bf3fdce4bdcad35cf781a74235",
+  },
+  {
+    id: "29",
+    title: "Blue Dial Chronograph",
+    price: "599",
+    brand: "Movado",
+    description: "A chronograph watch with a striking blue dial",
+    rating: "4.3",
+    display: "2.5 inch Analog",
+    image:
+      "https://img.freepik.com/free-vector/time-management-poster_1284-13492.jpg?w=740&t=st=1696534095~exp=1696534695~hmac=3b97bdb39d2e56b2cd128a1a5d65c55240d8b3caa5b7535e95f45884b318c153",
+  },
+  {
+    id: "30",
+    title: "Outdoor Adventure Watch",
+    price: "749",
+    brand: "Suunto",
+    description: "An adventure watch with altimeter, barometer, and compass",
+    rating: "4.1",
+    display: "2.2 inch Transflective",
+    image:
+      "https://img.freepik.com/free-vector/morning-start-efficiency-classic-metallic_1368-340.jpg?t=st=1696534095~exp=1696534695~hmac=a1499232095bed23079c1afb0ac45193daf4e07f9d9a41458f65c19afa49db56",
+  },
+];
+
+
 export const Paints = [
   {
     id: "1",
