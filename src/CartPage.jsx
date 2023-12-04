@@ -1,7 +1,5 @@
 import React from "react";
-import { useDispatch } from "react-redux";
 import { useSelector } from "react-redux";
-import { store } from "./Store";
 import { BsCartFill } from "react-icons/bs";
 import CartItem from "./CartItem";
 import { BsCurrencyRupee } from "react-icons/bs";
