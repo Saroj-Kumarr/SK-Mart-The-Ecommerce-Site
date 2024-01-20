@@ -1,18 +1,20 @@
 import React from "react";
 import { BiSolidRightArrowCircle } from "react-icons/bi";
-import { FcLeft,FcRight } from "react-icons/fc";
+import { FcLeft, FcRight } from "react-icons/fc";
 import { BsGithub, BsFacebook, BsInstagram, BsLinkedin } from "react-icons/bs";
 
 function Footer() {
   return (
-    <div className="relative ">
+    <div className="relative mt-40">
       <div className="border-2 h-20 -mb-1  bg-slate-300 flex items-center justify-around">
         <div className="font-semibold text-gray-700">
           <h1> Gmail : SarojKumar@gmail.com</h1>
           <h1>Mobile : 8638316090</h1>
         </div>
-        <div className="font-bold text-gray-700"> 
-        <FcLeft className="inline text-2xl -mt-[1px]"/> Developed by 💛 Saroj Kumar <FcRight className="inline text-2xl -mt-[1px]"/></div>
+        <div className="font-bold text-gray-700">
+          <FcLeft className="inline text-2xl -mt-[1px]" /> Developed by 💛 Saroj
+          Kumar <FcRight className="inline text-2xl -mt-[1px]" />
+        </div>
         <div className="flex text-4xl text-gray-700">
           <BsGithub className="mx-2 " />
           <BsFacebook className="mx-2" />
