@@ -93,9 +93,12 @@ function CartPage() {
                   <BsCurrencyRupee className="inline relative top-[29px] text-3xl -left-6 " />
                   2999
                 </li>
+                </li>
+                </li>
               </ul>
             </div>
             <h1 className="h-[1px] relative -top-[62px] border-b-2 mx-4"></h1>
+            
             <div className="flex justify-around">
               <div>
                 <input
